@@ -1,5 +1,13 @@
 {
     "urls": [
+	   {
+           "url":"https://agit.ai/cacifer/4k/raw/branch/master/diy.json ",
+           "name":"DIY"
+        },
+	     {
+           "url":"https://raw.githubusercontent.com/hl128k/tvbox/main/tv/0/2hacc_tvbox.json",
+           "name":"玩偶哥哥"
+        },
         {
            "url":"https://raw.kgithub.com/gaotianliuyun/gao/master/0821.json",
            "name":"大而全的配置"
@@ -36,5 +44,6 @@
           "url":"https://raw.kgithub.com/gaotianliuyun/gao/master/XBPQ.json",
            "name":"小米小爆脾气"
         }
+		
      ]
    }
