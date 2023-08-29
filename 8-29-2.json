@@ -1,17 +1,20 @@
 {
-"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c80207edebbe5019a688fd2eb653e005",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;bf1f28d65240042a470d4f80035e529f",
+  "wallpaper": "https://hitang.cacifer.repl.co",
   "lives": [
-      {
-            "name": "默认直播源", 
-            "type": 0, 
-            "url": "https://agit.ai/cacifer/xyz/raw/branch/master/live.txt", 
-            "playerType": 1, 
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}", 
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }, 
+    {
+      "name": "默认直播源",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://agit.ai/cacifer/xyz/raw/branch/master/live.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+   
   ],
   "sites": [
+    
+
     {
       "key": "csp_WoGG",
       "name": "玩偶4K",
@@ -20,9 +23,9 @@
       "searchable": 1,
       "changeable": 0,
       "playerType":2,
-      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
     },
-	 {
+	{
       "key": "UpYun",
       "name": "Up搜4K",
       "type": 3,
@@ -30,7 +33,7 @@
       "searchable": 1,
       "changeable": 1,
       "playerType":2,
-      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
     },
     {
       "key": "PanSearch",
@@ -40,29 +43,9 @@
       "searchable": 1,
       "changeable": 1,
       "playerType":2,
-      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
     },
-    {
-      "key": "七夜",
-      "name": "七夜4K",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "changeable": 1,
-      "playerType":2,
-      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
-    },
-    {
-      "key": "Zhaozy",
-      "name": "找资源4K",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "changeable": 1,
-      "playerType":2,
-      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
-    },
-    {
+	 {
       "key": "YiSo",
       "name": "易搜4K",
       "type": 3,
@@ -70,7 +53,7 @@
       "searchable": 1,
       "changeable": 1,
       "playerType":2,
-      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
     },
     {
       "key": "PanSou",
@@ -80,21 +63,11 @@
       "searchable": 1,
       "changeable": 1,
       "playerType":2,
-      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
     },
-   
-    {
-      "key": "push_agent",
-      "name": "阿里推送",
-      "type": 3,
-      "api": "https://agit.ai/cacifer/xyz/raw/branch/master/JS/lf_pushagentjm1_5_min.js",
-      "searchable": 0,
-      "changeable": 0,
-      "playerType":2,
-      "timeout": 60,
-      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
-    }
-	 {
+	
+	
+	{
 	"key": "csp_New6v",
 	"name": "新6V2",
 	"type": 3,
@@ -116,22 +89,41 @@
  "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json",
  "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
  },
-	
-	{"key": "csp_New6v",
-	"name": "新6V",
-	"jar":"https://qu.ax/qokd.jpg",
-	"type": 3,
-	"api": "csp_New6v",
-	"searchable": 1,
-	"viewType": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext":"https://www.66ss.org"
-	},
-	
+    {
+      "key": "七夜",
+      "name": "七夜4K",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType":2,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "找资源4K",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType":2,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$fanfan$$$qqq111"
+    },
+   
+    
+    {
+      "key": "push_agent",
+      "name": "阿里推送",
+      "type": 3,
+      "api": "https://agit.ai/cacifer/xyz/raw/branch/master/JS/lf_pushagentjm1_5_min.js",
+      "searchable": 0,
+      "changeable": 0,
+      "playerType":2,
+      "timeout": 60,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+    }
   ],
-  
-   "doh": [
+  "doh": [
     {
       "name": "Google",
       "url": "https://dns.google/dns-query",
@@ -226,7 +218,4 @@
       ]
     }
   ]
-} 
-  
-  
-  
+}
