@@ -34,7 +34,7 @@
       "searchable": 1,
       "changeable": 0,
       "playerType":2,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
+      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
     },
 	{
       "key": "UpYun",
@@ -44,7 +44,7 @@
       "searchable": 1,
       "changeable": 1,
       "playerType":2,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
+      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
     },
     {
       "key": "PanSearch",
@@ -54,7 +54,7 @@
       "searchable": 1,
       "changeable": 1,
       "playerType":2,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
+      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
     },
 	 {
       "key": "YiSo",
@@ -64,7 +64,7 @@
       "searchable": 1,
       "changeable": 1,
       "playerType":2,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
+      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
     },
     {
       "key": "PanSou",
@@ -74,7 +74,7 @@
       "searchable": 1,
       "changeable": 1,
       "playerType":2,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
+      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
     },
 	
 	
@@ -108,7 +108,7 @@
       "searchable": 1,
       "changeable": 1,
       "playerType":2,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
+      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
     },
     {
       "key": "Zhaozy",
@@ -118,7 +118,7 @@
       "searchable": 1,
       "changeable": 1,
       "playerType":2,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$fanfan$$$qqq111"
+      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
     },
    
     
@@ -131,7 +131,7 @@
       "changeable": 0,
       "playerType":2,
       "timeout": 60,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
     }
 ],	
  "parses": [
