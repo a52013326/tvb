@@ -1,6 +1,6 @@
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;bf1f28d65240042a470d4f80035e529f",
-  "wallpaper": "https://hitang.cacifer.repl.co",
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+  "spider": "https://agit.ai/kankan314/cattv/raw/branch/master/fan.jar;md5;de50ad6ce386187037fbf980b04b229e"
   "lives": [
     {
       "name": "默认直播源",
@@ -10,14 +10,6 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "自定义直播源",
-      "type": 0,
-      "playerType": 1,
-      "url": "http://127.0.0.1:9978/file/tvbox/自定义直播源.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
   ],
   "sites": [
     {
@@ -29,7 +21,7 @@
       "api": "https://agit.ai/cacifer/xyz/raw/branch/master/JS/drpy2.min.js",
       "ext": "https://agit.ai/cacifer/xyz/raw/branch/master/JS/drpy.js"
     },
-     {
+   {
       "key": "csp_WoGG",
       "name": "玩偶 | 4K",
       "type": 3,
@@ -89,6 +81,36 @@
       "changeable": 1,
       "playerType":2,
       "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
+    },
+	{
+		"key":"Gitcafe",
+		"name":"纸条",
+		"type":"3",
+		"api":"csp_Paper",
+		"searchable":"1",
+		"quickSearch":"1",
+		"filterable":"2",
+      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
+	   },
+	{
+      "key": "哈喽",
+      "name": "✌哈喽┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://www.miniku.cc/xgapp.php/v1/"
+    },
+	{
+      "key": "探探",
+      "name": "🏵影探┃App",
+      "type": 3,
+      "api": "csp_YTVIP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "vip.lyyytv.cn"
     },
   ],
   "doh": [
