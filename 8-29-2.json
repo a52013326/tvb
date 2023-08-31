@@ -90,16 +90,6 @@
       "playerType":2,
       "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
     },
-	{
-		"key":"Gitcafe",
-		"name":"纸条",
-		"type":"3",
-		"api":"csp_Paper",
-		"searchable":"1",
-		"quickSearch":"1",
-		"filterable":"2",
-      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
-	   },
   ],
   "doh": [
     {
