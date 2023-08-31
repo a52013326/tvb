@@ -1,26 +1,29 @@
 {
-  "sites": [
+"spider":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
+"lives":[
+            {
+            "name": "默认直播源", 
+            "type": 0, 
+            "url": "https://agit.ai/cacifer/xyz/raw/branch/master/live.txt", 
+            "playerType": 1, 
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}", 
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }, 
+       ],
+	"sites":[
+{
+            "key": "js豆瓣1",
+            "name": "🌈免费接口，请勿贩售 公众号：宝盒没宝",
+            "type": 3,
+            "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
+            "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/29_022812_drpy.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
     {
-      "key": "csp_77",
-      "name": "👒七七┃App",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "aikanbot",
-      "name": "❤️影视爱看| 点播",
-      "type": 3,
-      "api": "https://agit.ai/kankan314/gao/raw/branch/master/js/lf_ikanbot4_min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-       {
       "key": "csp_WoGG",
-      "name": "玩偶 | 4K",
+      "name": "玩偶4K",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -29,38 +32,8 @@
       "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
     },
 	{
-      "key": "PanSou",
-      "name": "盘搜 | 4K",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "changeable": 1,
-      "playerType":2,
-      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
-    },
-	{
-      "key": "PanSearch",
-      "name": "盘Search | 4K",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "changeable": 1,
-      "playerType":2,
-      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
-    },
-		{
-      "key": "七夜",
-      "name": "七夜 | 4K",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "changeable": 1,
-      "playerType":2,
-      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
-    },
-	{
-      "key": "UpYun",
-      "name": "Up搜 | 4K",
+      "key": "UpYun",  
+      "name": "Up搜4K",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -68,10 +41,19 @@
       "playerType":2,
       "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
     },
-	
-		 {
-      "key": "YiSo",
-      "name": "易搜 | 4K",
+    {
+      "key": "PanSearch",
+      "name": "盘Sea4K",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType":2,
+      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
+    },
+	 {
+      "key": "YiSo", 
+      "name": "易搜4K",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -79,18 +61,76 @@
       "playerType":2,
       "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
     },
-	{
-		"key":"Gitcafe",
-		"name":"纸条",
-		"type":"3",
-		"api":"csp_Paper",
-		"searchable":"1",
-		"quickSearch":"1",
-		"filterable":"2",
+    {
+      "key": "PanSou",
+      "name": "盘搜4K",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType":2,
       "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
-	   }
-  ],
-  "parses": [
+    },
+  
+	{
+	"key": "csp_New6v",
+	"name": "新6V2",
+	"type": 3,
+	"api": "csp_New6v",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext":"http://www.xb6v.com",
+	"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"
+	},
+	{ 
+"key": "csp_XYQHiker_?dyx", 
+"name": "电影磁力4k", 
+"type": 3,
+ "api": "csp_XYQHiker", 
+ "searchable": 1,
+ "quickSearch": 1,
+ "filterable": 1, 
+ "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json",
+ "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+ },
+    {
+      "key": "七夜",
+      "name": "七夜4K",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType":2,
+      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "找资源4K",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType":2,
+      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
+    },
+  
+    {
+      "key": "push_agent",
+      "name": "阿里推送",
+      "type": 3,
+      "api": "https://agit.ai/cacifer/xyz/raw/branch/master/JS/lf_pushagentjm1_5_min.js",
+      "searchable": 0,
+      "changeable": 0,
+      "playerType":2,
+      "timeout": 60,
+      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt"
+    }
+],	
+ "parses": [
+
+   
+  
     {
       "name": "聚合1",
       "type": 3,
@@ -645,5 +685,5 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "spider": "https://agit.ai/kankan314/cattv/raw/branch/master/fan.jar;md5;de50ad6ce386187037fbf980b04b229e"
+  "spider": "https://agit.ai/kankan314/cattv/raw/branch/master/fan.jar;md5;4a0dc0ae860c90d0001f1fc0fae230f7"
 }
