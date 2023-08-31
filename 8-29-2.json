@@ -1,6 +1,6 @@
 {
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "spider": "https://agit.ai/kankan314/cattv/raw/branch/master/fan.jar;md5;de50ad6ce386187037fbf980b04b229e"
+
+"spider":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
   "lives": [
     {
       "name": "默认直播源",
@@ -11,16 +11,17 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
   ],
-  "sites": [
-    {
-      "key": "豆瓣",
-      "name": "🎬影视",
-      "type": 3,
-      "searchable": 0,
-      "changeable": 1,
-      "api": "https://agit.ai/cacifer/xyz/raw/branch/master/JS/drpy2.min.js",
-      "ext": "https://agit.ai/cacifer/xyz/raw/branch/master/JS/drpy.js"
-    },
+ 	"sites":[
+{
+            "key": "js豆瓣1",
+            "name": "🌈免费接口，请勿贩售 公众号：宝盒没宝",
+            "type": 3,
+            "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
+            "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/29_022812_drpy.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
    {
       "key": "csp_WoGG",
       "name": "玩偶 | 4K",
