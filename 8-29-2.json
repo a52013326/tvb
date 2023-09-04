@@ -22,16 +22,6 @@
 	"filterable":1,
       "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
     },
-	   {
-      "key": "探探",
-      "name": "🏵影探┃App",
-      "type": 3,
-      "api": "csp_YTVIP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "vip.lyyytv.cn"
-    },
 {
       "key": "PanSou",
       "name": "☁盘搜 | 4K",
