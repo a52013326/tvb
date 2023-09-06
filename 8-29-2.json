@@ -20,7 +20,7 @@
       "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt"
     },
 {
       "key": "PanSou",
@@ -30,7 +30,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt+4k|auto|fhd"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt"
     },
 	{
        "key": "PanSearch",
@@ -40,7 +40,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt+4k|auto|fhd"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt"
     },
 	{
 		      "key": "七夜",
@@ -50,7 +50,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt+4k|auto|fhd"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt"
     },
 	{
       "key": "UpYun",
@@ -60,7 +60,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt+4k|auto|fhd"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt"
     },
 	{
         "key": "YiSo",
@@ -70,7 +70,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://agit.ai/kankan314/kan/raw/branch/master/tv/tok.txt+4k|auto|fhd"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt"
     }
   ],
   "parses":[
