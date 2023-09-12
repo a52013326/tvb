@@ -10,10 +10,9 @@
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
   }],
+  
   "sites":[
   
-{"key":"豆瓣","name":"📺豆瓣 | 热播","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt"},
-
 
     {
       "key": "csp_WoGG",
@@ -25,7 +24,7 @@
 	"filterable":1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt"
     },
- 
+   {"key":"豆瓣","name":"📺影视推荐","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {
       "key": "PanSou",
@@ -68,6 +67,16 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt"
     },
 		{
+        "key": "YiSo",
+      "name": "🆎易搜 | 4K",
+      "type": 3,
+      "api": "csp_YiSo",
+       "searchable": 1,
+	"quickSearch":1,
+	"filterable":1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt"
+    },
+		{
             "key":"drpy_js_南瓜影视",
             "name":"👑南瓜影视",
             "type":3,
@@ -85,17 +94,8 @@
    "quickSearch": 0,
    "filterable": 0,
    "ext": "https://agit.ai/haifeng2777/TVB/raw/branch/master/js/%e8%8f%9c%e7%8b%97.js"
-  },	
-	{
-        "key": "YiSo",
-      "name": "🆎易搜 | 4K",
-      "type": 3,
-      "api": "csp_YiSo",
-       "searchable": 1,
-	"quickSearch":1,
-	"filterable":1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt"
-    }
+  }
+
   ],
  "parses": [{ 
          "name": "并发", 
