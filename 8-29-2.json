@@ -1,6 +1,6 @@
 {
-  "spider":"http://ftp6284928.host108.abeiyun.cn/jar/tvbox.txt;md5;a4bf71ea71185b7815d3e94d591a7c51",
-  "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;bf1f28d65240042a470d4f80035e529f",
+  "wallpaper": "https://hitang.cacifer.repl.co",
   "lives":[{
     "name":"live",
     "type":0,
@@ -11,7 +11,15 @@
     "logo":"https://epg.112114.xyz/logo/{name}.png"
   }],
   "sites":[
-
+    {
+      "key": "豆瓣",
+      "name": "🎬影视",
+      "type": 3,
+      "searchable": 0,
+      "changeable": 1,
+      "api": "https://agit.ai/cacifer/xyz/raw/branch/master/JS/drpy2.min.js",
+      "ext": "https://agit.ai/cacifer/xyz/raw/branch/master/JS/drpy.js"
+    },
   {
       "key": "csp_WoGG",
       "name": "☁玩偶 | 4K",
