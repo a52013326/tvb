@@ -14,7 +14,8 @@
   {"key":"豆瓣","name":"豆瓣 | 热播","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
 
    
-  "key": "csp_XYQHikerAL_玩偶哥哥",
+ {
+ "key": "csp_XYQHikerAL_玩偶哥哥",
  "name":"📀玩偶哥哥(优)",
  "type":3,"api":"csp_XYQHikerAL",
  "playerType":1,
