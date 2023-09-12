@@ -1,6 +1,6 @@
 {
-"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;bf1f28d65240042a470d4f80035e529f",
-  "wallpaper": "https://hitang.cacifer.repl.co",
+"spider": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/custom_spider.jar;md5;fec1811bad085e87682f64be8bc9885a",
+	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives":[{
     "name":"live",
     "type":0,
@@ -11,6 +11,7 @@
     "logo":"https://epg.112114.xyz/logo/{name}.png"
   }],
   "sites":[
+  {"key":"t4_豆瓣","name":"T4┃影视推荐","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
     {
       "key": "豆瓣",
       "name": "🎬影视",
