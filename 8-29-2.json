@@ -13,9 +13,38 @@
   "sites":[
   {"key":"豆瓣","name":"🔍影视推荐","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
    
+   		 {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
+   
+    {
+ "key": "csp_XYQHikerAL_玩偶哥哥",
+ "name":"📀玩偶哥哥(优)",
+ "type":3,"api":"csp_XYQHikerAL",
+ "playerType":1,
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+"ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
+ },	
+   
+  {
+            "key": "csp_WoGG",
+            "name": "👽玩偶哥哥(饭太硬阿里)",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
+        },  
+   
+   
+   
+   
+   
+   
   {
       "key": "csp_WoGG",
-      "name": "☁玩偶 | 4K",
+      "name": "👽玩偶 | 4K",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -25,7 +54,7 @@
     },
 {
       "key": "PanSou",
-      "name": "☁盘搜 | 4K",
+      "name": "🙀盘搜 | 4K",
       "type": 3,
       "api": "csp_PanSou",
        "searchable": 1,
@@ -35,7 +64,7 @@
     },
 	{
        "key": "PanSearch",
-      "name": "☁盘Sea| 4K",
+      "name": "📀盘Sea| 4K",
       "type": 3,
       "api": "csp_PanSearch",
        "searchable": 1,
@@ -45,7 +74,7 @@
     },
 	{
 		      "key": "七夜",
-      "name": "☁七夜 | 4K",
+      "name": "😾七夜 | 4K",
       "type": 3,
       "api": "csp_Dovx",
        "searchable": 1,
@@ -65,7 +94,7 @@
     },
 		{
             "key":"drpy_js_南瓜影视",
-            "name":"南瓜影视[js]",
+            "name":"🥝南瓜影视[js]",
             "type":3,
             "api":"https://xhdwc.tk/lib/drpy1.min.js",
             "ext":"https://xhdwc.tk/js/南瓜影视.js"
@@ -74,7 +103,7 @@
 		
 	{
    "key": "js_菜狗",
-   "name": "菜狗大厂",
+   "name": "💘菜狗大厂",
    "type": 3,"playerType":2,
    "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
    "searchable": 2,
@@ -84,7 +113,7 @@
   },	
 	{
         "key": "YiSo",
-      "name": "☁易搜 | 4K",
+      "name": "🆎易搜 | 4K",
       "type": 3,
       "api": "csp_YiSo",
        "searchable": 1,
