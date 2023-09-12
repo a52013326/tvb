@@ -1,5 +1,5 @@
 {
-"spider": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/custom_spider.jar;md5;fec1811bad085e87682f64be8bc9885a",
+"spider": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/custom_spider.jar",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives":[{
     "name":"live",
@@ -17,7 +17,7 @@
 
     {
       "key": "csp_WoGG",
-      "name": "🐼玩偶 | 4K",
+      "name": "玩偶 | 4K",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
