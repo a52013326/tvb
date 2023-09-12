@@ -11,9 +11,8 @@
     "logo":"https://epg.112114.xyz/logo/{name}.png"
   }],
   "sites":[
-  {"key":"豆瓣","name":"🔍影视推荐","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
-   
-   		 {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
+  {"key":"豆瓣","name":"豆瓣 | 热播","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
+
    
     {
  "key": "csp_XYQHikerAL_玩偶哥哥",
@@ -23,7 +22,7 @@
  "searchable":1,
  "quickSearch":1,
  "filterable":1,
-"ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
+"ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/"
  },	
    
   {
@@ -34,7 +33,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
+"ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/"
         },  
    
    
@@ -50,7 +49,7 @@
       "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
+"ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/"
     },
 {
       "key": "PanSou",
@@ -94,7 +93,7 @@
     },
 		{
             "key":"drpy_js_南瓜影视",
-            "name":"🥝南瓜影视[js]",
+            "name":"👑南瓜影视",
             "type":3,
             "api":"https://xhdwc.tk/lib/drpy1.min.js",
             "ext":"https://xhdwc.tk/js/南瓜影视.js"
