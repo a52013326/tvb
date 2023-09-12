@@ -1,6 +1,6 @@
 {
-  "spider":"http://ftp6284928.host108.abeiyun.cn/jar/tvbox.txt;md5;a4bf71ea71185b7815d3e94d591a7c51",
-  "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+"spider": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/custom_spider.jar;md5;fec1811bad085e87682f64be8bc9885a",
+	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives":[{
     "name":"live",
     "type":0,
@@ -12,7 +12,8 @@
   }],
   "sites":[
   
-{"key":"豆瓣","name":"📺豆瓣 | 热播","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"豆瓣","name":"📺豆瓣 | 热播","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt"},
+
 
     {
       "key": "csp_WoGG",
