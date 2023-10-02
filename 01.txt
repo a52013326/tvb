@@ -126,7 +126,6 @@ CCTV-7    2K,http://111.59.63.32:9901/tsfile/live/1014_1.m3u8
 CCTV-7    2K,http://119.164.216.162:9901/tsfile/live/1000_1.m3u8
 CCTV-7    2K,http://221.213.43.82:8888/newlive/live/hls/9/live.m3u8
 CCTV-7    2K,http://59.47.226.94:8880/sql/2598/hls.m3u8
-CCTV-8    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
 CCTV-8    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV-8    2K,http://111.20.40.172/PLTV/88888893/224/3221226391/index.m3u8
 CCTV-8    2K,http://39.134.32.102:6610/270000001111/1110000309/index.m3u8?IASHttpSessionId=OTT
