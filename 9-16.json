@@ -1,6 +1,6 @@
 {
-"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;BCBFBCDB4A9C78A9CB0972ADFC68CB0D",
- "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;bf1f28d65240042a470d4f80035e529f",
+  "wallpaper": "https://hitang.cacifer.repl.co",
   "lives":[{
     "name":"live",
     "type":0,
@@ -11,7 +11,7 @@
     "logo":"https://epg.112114.xyz/logo/{name}.png"
   }],
   "sites":[
-      {"key":"豆瓣","name":" 🏠 ","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
+      {"key":"豆瓣","name":"🏠","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
   {
       "key": "csp_WoGG",
       "name": "👽玩偶 | 4K",
@@ -99,7 +99,9 @@
   
   
  
-  {"key":"阿里云盘","name": " ❤阿里云盘","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/ali.jar"},
+  {"key":"阿里云盘","name": "🖥阿里云盘","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/ali.jar"},
+  
+  
   
   
 	{
@@ -113,64 +115,16 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
     }
   ],
- "parses": [{ 
- 
-
-         "name": "并发", 
-         "type": 3, 
-         "url": "Demo" 
-    },{ 
-        "name": "聚合", 
-        "type": 3, 
-        "url": "Web" 
-    },{
-		"name": "第一解析",
-		"type": 1,
-		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}    
-	},
-	{"name":"蓝光秒播","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","优播线路","腾播线路"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},	
+ "parses": [
+	
+	
 
 	{
-      "name": "大大",
+      "name": "全网VIP视频解析",
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
-    },
+    }
 	
-	  {
-      "name": "欧歌分享",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    },
-	
-	
-	 {
-      "name": "欧歌API",
-      "type": 1,
-      "url": "http://tv.nxog.top/%E6%AC%A7%E6%AD%8C/?url="
-    },
-	
-	{
-		"name": "左岸1",
-		"type": 1,
-		"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		} 
-    },
- {
-      "name": "大厂",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="
-    },
-	
-	{
-		"name": "精选6",
-		"type": 0,
-		"url": "https://jx.bozrc.com:4433/player/?url="
-	}
 	],
 	
     "rules":[
