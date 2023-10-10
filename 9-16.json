@@ -11,7 +11,6 @@
     "logo":"https://epg.112114.xyz/logo/{name}.png"
   }],
   "sites":[
-      {"key":"豆瓣","name":"🏠影视推荐","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
   {
       "key": "csp_WoGG",
       "name": "👽玩偶 | 4K",
@@ -62,30 +61,12 @@
 	"filterable":1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
     },
-		{
-            "key":"drpy_js_南瓜影视",
-            "name":"👑南瓜影视",
-            "type":3,
-            "api":"https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy1.min.js",
-            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/nangua.js"
-        },
 		
-//{"key":"csp_SP33","name":"阿三🎭官解","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-//{"key":"Qtv","name":"企鹅🐧官解","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1,"changeable":0},
-//{"key":"Itv","name":"奇异🥝官解","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
-//{"key":"Mtv","name":"芒果🍋官解","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"csp_SP33","name":"阿三🎭官解","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"Qtv","name":"企鹅🐧官解","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1,"changeable":0},
+{"key":"Itv","name":"奇异🥝官解","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
+{"key":"Mtv","name":"芒果🍋官解","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
-	
-	 {
-      "key": "畅梦",
-      "name": "♻️畅梦秒播",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/changmeng.js"
-   },
-
-
-	
 	{
    "key": "js_菜狗",
    "name": "💘菜狗大厂",
@@ -116,15 +97,24 @@
     }
   ],
  "parses": [
-	
-	
 
 	{
-      "name": "全网VIP视频解析",
+      "name": "大大",
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
-    }
+    },
 	
+	 {
+      "name": "大厂",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="
+    },
+	
+	{
+      "name": "左岸解析",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+    }
 	],
 	
     "rules":[
