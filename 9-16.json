@@ -64,9 +64,7 @@
     },
 		
 {"key":"csp_SP33","name":"阿三🎭官解","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"Qtv","name":"企鹅🐧官解","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1,"changeable":0},
-{"key":"Itv","name":"奇异🥝官解","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
-{"key":"Mtv","name":"芒果🍋官解","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+
 
 	{
    "key": "js_菜狗",
@@ -93,8 +91,36 @@
       "quickSearch": 1,
       "changeable": 1
     },
-	
-  
+	{
+            "key": "360影视",
+            "name": "🚛360影视(官)",
+            "type": 3,
+            "api": "csp_SP360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+		  {
+      "key": "Itv",
+      "name": "🥝爱奇艺解析",
+      "type": 3,
+      "api": "csp_Itv",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0
+    },	
+  {
+            "key": "js 77",
+            "name": "♻️酷云77",
+            "type": 3,
+            "api": "http://ftp6587948.host121.Sanfengyun.cn/yydf/lib/drpy2.min.js",
+            "ext": "http://ftp6587948.host121.Sanfengyun.cn/yydf/lib/酷云77.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
   
 	{
         "key": "YiSo",
@@ -132,33 +158,37 @@
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
     },
-	
-	  {
-      "name": "欧歌分享",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    },
-	
-	
-	 {
-      "name": "欧歌API",
-      "type": 1,
-      "url": "http://tv.nxog.top/%E6%AC%A7%E6%AD%8C/?url="
-    },
-	
 	{
-		"name": "左岸1",
-		"type": 1,
-		"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		} 
-    },
- {
-      "name": "大厂",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="
-    },
+            "name": "精选3",
+            "type": 0,
+            "url": "https://www.yemu.xyz/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+		
+	{"name": "优米", "type": 1, "url": "https://api.xn--kcr500a391b.cc/api/jiexi/common?Key=k5Ed7d2zMu4FLRhwjw&url=","ext":{"flag":["YuMi"],"header":{"User-Agent":"okhttp/3.12.11"}}},	
 	{
       "name": "解析4",
       "type": 1,
