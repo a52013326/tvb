@@ -81,15 +81,25 @@
  
   {"key":"阿里云盘","name": "🖥阿里云盘","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/ali.jar"},
   
-  {
-      "key": "NanGua",
-      "name": "🎃南瓜",
+ {
+      "key": "南瓜",
+      "name": "🎃南瓜┃App",
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },	
+	{
+      "key": "csp_IQIYI",
+      "name": "🥝爱奇艺视频",
+      "type": 3,
+      "api": "csp_IQIYI",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://itvbox.cc/sft/jar/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"
     },
 {
             "key": "360yingshi",
@@ -120,15 +130,12 @@
          "name": "并发", 
          "type": 3, 
          "url": "Demo" 
-    },{
-		"name": "第一解析",
-		"type": 1,
-		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}    
-	},
-	{"name":"蓝光秒播","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","优播线路","腾播线路"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},	
+    }，
+	{
+      "name": "聚合",
+      "type": 3,
+      "url": "Demo"
+    },
 
 	{
       "name": "大大",
@@ -166,6 +173,7 @@
         },
 		
 	{"name": "优米", "type": 1, "url": "https://api.xn--kcr500a391b.cc/api/jiexi/common?Key=k5Ed7d2zMu4FLRhwjw&url=","ext":{"flag":["YuMi"],"header":{"User-Agent":"okhttp/3.12.11"}}},	
+	
 	{
       "name": "解析4",
       "type": 1,
@@ -201,6 +209,18 @@
         }
       }
     },
+		 {
+      "name": "7号线",
+      "type": 0,
+      "url": "https://parse.mw0.cc/?url="
+    },	
+	{
+      "name": "10号线",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },	
+{"name": "🐱8号","type": 0,"url": "https://www.pangujiexi.com/pangu/?url="},
+{"name":"8090","url":"https://www.8090.la/8090/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},		
 	{
       "name": "解析11",
       "type": 0,
