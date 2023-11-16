@@ -83,7 +83,7 @@
   
  {
       "key": "南瓜",
-      "name": "🎃南瓜┃App",
+      "name": "🎃南瓜 |App",
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 2,
@@ -131,11 +131,6 @@
          "type": 3, 
          "url": "Demo" 
     }，
-	{
-      "name": "聚合",
-      "type": 3,
-      "url": "Demo"
-   }，
 
 	{
       "name": "大大",
