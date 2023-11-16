@@ -91,16 +91,7 @@
       "quickSearch": 1,
       "changeable": 1
     },	
-	{
-      "key": "csp_IQIYI",
-      "name": "🥝爱奇艺视频",
-      "type": 3,
-      "api": "csp_IQIYI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://itvbox.cc/sft/jar/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"
-    },
+	
 {
             "key": "360yingshi",
             "name": "🌻 360影视 ",
@@ -134,48 +125,55 @@
         "name": "聚合", 
         "type": 3, 
         "url": "Web" 
-    },{
-		"name": "第一解析",
-		"type": 1,
-		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}    
-	},
-	{"name":"蓝光秒播","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","优播线路","腾播线路"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},	
+    },
 
 	{
       "name": "大大",
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
     },
-	
-	  {
-      "name": "欧歌分享",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    },
-	
+{
+            "name": "精选3",
+            "type": 0,
+            "url": "https://www.yemu.xyz/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+		
+	{"name": "优米", "type": 1, "url": "https://api.xn--kcr500a391b.cc/api/jiexi/common?Key=k5Ed7d2zMu4FLRhwjw&url=","ext":{"flag":["YuMi"],"header":{"User-Agent":"okhttp/3.12.11"}}},	
 	
 	 {
-      "name": "欧歌API",
-      "type": 1,
-      "url": "http://tv.nxog.top/%E6%AC%A7%E6%AD%8C/?url="
-    },
-	
+      "name": "7号线",
+      "type": 0,
+      "url": "https://parse.mw0.cc/?url="
+    },	
 	{
-		"name": "左岸1",
-		"type": 1,
-		"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		} 
-    },
- {
-      "name": "大厂",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="
-    },
+      "name": "10号线",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },	
 	
 	{
       "name": "解析4",
