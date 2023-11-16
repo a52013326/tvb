@@ -161,25 +161,11 @@
                 }
             }
         },
-		
-	{"name": "优米", "type": 1, "url": "https://api.xn--kcr500a391b.cc/api/jiexi/common?Key=k5Ed7d2zMu4FLRhwjw&url=","ext":{"flag":["YuMi"],"header":{"User-Agent":"okhttp/3.12.11"}}},	
-	
-	 {
-      "name": "7号线",
-      "type": 0,
-      "url": "https://parse.mw0.cc/?url="
-    },	
-	{
-      "name": "10号线",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },	
-	
 	{
       "name": "解析4",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
-    },
+    },	
 	{
       "name": "解析6",
       "type": 0,
@@ -210,6 +196,20 @@
         }
       }
     },
+	
+	 {
+      "name": "7号线",
+      "type": 0,
+      "url": "https://parse.mw0.cc/?url="
+    },	
+	{
+      "name": "10号线",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },	
+	
+	
+	
 	{
       "name": "解析11",
       "type": 0,
@@ -267,7 +267,7 @@
       }
     },
 	{
-		"name": "精选6",
+		"name": "VOER",
 		"type": 0,
 		"url": "https://jx.bozrc.com:4433/player/?url="
 	}
