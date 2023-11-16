@@ -126,10 +126,16 @@
   ],
 "parses": [{ 
  
+
          "name": "并发", 
          "type": 3, 
          "url": "Demo" 
-}，
+    }，
+	{
+      "name": "聚合",
+      "type": 3,
+      "url": "Demo"
+   }，
 
 	{
       "name": "大大",
@@ -213,7 +219,7 @@
       "type": 0,
       "url": "https://jx.m3u8.tv/jiexi/?url="
     },	
-
+{"name": "🐱8号","type": 0,"url": "https://www.pangujiexi.com/pangu/?url="},
 	
 	{
       "name": "解析11",
