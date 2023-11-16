@@ -192,6 +192,20 @@
       }
     },
 
+		{"name": "优米", "type": 1, "url": "https://api.xn--kcr500a391b.cc/api/jiexi/common?Key=k5Ed7d2zMu4FLRhwjw&url=","ext":{"flag":["YuMi"],"header":{"User-Agent":"okhttp/3.12.11"}}},	
+	
+	 {
+      "name": "7号线",
+      "type": 0,
+      "url": "https://parse.mw0.cc/?url="
+    },	
+	{
+      "name": "10号线",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },	
+{"name": "🐱8号","type": 0,"url": "https://www.pangujiexi.com/pangu/?url="},
+{"name":"8090","url":"https://www.8090.la/8090/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},	
 		{
       "name": "解析11",
       "type": 0,
