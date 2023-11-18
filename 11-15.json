@@ -139,10 +139,6 @@
          "name": "并发", 
          "type": 3, 
          "url": "Demo" 
-    },{ 
-        "name": "聚合", 
-        "type": 3, 
-        "url": "Web" 
     },
 
 	{
@@ -165,7 +161,16 @@
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
     },
-	
+	{
+      "name": "小鱼3",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=8718842&key=bcdtvzGHMQRUVZ1268&url="
+    },
+	{
+      "name": "星辰解析",
+      "type": 1,
+      "url": "http://api.qxzm.cc/api/jsonindex.php/?key=JrCkf04GwWSzg1K01x&url="
+    },
 	
 	{
       "name": "xmflv",
