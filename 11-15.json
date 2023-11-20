@@ -112,16 +112,11 @@
       "url": "http://json.84jia.com/home/api?type=ys&uid=15158&key=eijkoBDMPRVXY02359&url="
     },
 	{
-      "name": "小鱼2",
+      "name": "小鱼解析",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
     },
-	{
-      "name": "小鱼3",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=8718842&key=bcdtvzGHMQRUVZ1268&url="
-    },
-
+	
 	{
       "name": "西瓜视频",
       "type": 1,
@@ -167,22 +162,6 @@
       "type": 1,
       "url": "https://json.oorl.cn/api/?key=hHM0vaO2UyW0CYb3vG&url="
     },
-	{
-      "name": "初恋云2",
-      "type": 1,
-      "url": "https://json.oorl.cn/api/?key=TBkYTjVwi3m8XcDXGA&url="
-    },
-	{
-      "name": "初恋云3",
-      "type": 1,
-      "url": "https://json.oorl.cn/api/?key=9yeW2M2wFTBKZecHVx&url="
-    },
-	{
-      "name": "初恋云4",
-      "type": 1,
-      "url": "https://json.oorl.cn/api/?key=VkspKmcOFOLaNdL3pS&url="
-    },
-	  
 	
 	{
       "name": "xmflv",
