@@ -115,7 +115,7 @@
       "name": "小鱼2",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
-    }
+   },
 
 	{
       "name": "西瓜视频",
@@ -164,6 +164,9 @@
                     "芒果视频",
                     "乐视视频"
                     ],"header":{"User-Agent":"Dart/3.0(dart:io)"}}}
+
+
+	
 	],
 	
     "rules":[
