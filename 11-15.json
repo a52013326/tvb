@@ -77,7 +77,7 @@
    "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/caigou.js"
   },
   
-  
+  {"key":"csp_IQIYI","name":"💕IQIYI","type":3,"api":"csp_IQIYI","searchable":1,"ext":"综合"},
  
   {"key":"阿里云盘","name": "🖥阿里云盘","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/ali.jar"},
   
