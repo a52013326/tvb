@@ -109,7 +109,61 @@
         "泰剧"
       ]
     },
+ {
+      "key": "csp_SP360",
+      "name": "💘360〔SP〕",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.肥猫.love:63/json/360影视.json"
+    },
+ {
+      "key": "csp_IQIYI",
+      "name": "🥝爱奇艺视频",
+      "type": 3,
+      "api": "csp_IQIYI",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://itvbox.cc/sft/jar/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"
+    },	
 	
+{
+      "key": "爱奇艺资源",
+      "name": "️🥝奇艺影视♻️",
+      "type": 1,
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
+      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "奇幻片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "悬疑片",
+        "惊悚片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "综艺",
+        "动漫"
+      ]
+    },	
+
+	  
 {
             "key": "360yingshi",
             "name": "🌻 360影视 ",
@@ -150,7 +204,7 @@
 	{
       "name": "初恋云蓝光",
       "type": 1,
-      "url": "https://json.oorl.cn/api/jsonindex.php/?key=dvHCc1kv62MZIQSzQm&url="
+      "url": "https://json.oorl.cn/api/?key=hHM0vaO2UyW0CYb3vG&url="
     },
 	{
       "name": "觅知",
