@@ -122,6 +122,11 @@
       "url": "http://1.12.237.246:2233/api/?key=7vKZP9AxALuIfTPjwa&url="
     },
 	{
+      "name": "星辰解析",
+      "type": 1,
+      "url": "http://api.qxzm.cc/api/?key=JrCkf04GwWSzg1K01x&url="
+    },
+	{
       "name": "初恋云1",
       "type": 1,
       "url": "https://json.oorl.cn/api/?key=hHM0vaO2UyW0CYb3vG&url="
