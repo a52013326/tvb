@@ -79,34 +79,7 @@
  
   {"key":"阿里云盘","name": "🖥阿里云盘","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/ali.jar"},
   
-{
-      "key": "索尼采集",
-      "name": "🥤索尼影视",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "科幻片",
-        "动作片",
-        "恐怖片",
-        "纪录片",
-        "爱情片",
-        "战争片",
-        "剧情片",
-        "喜剧片",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "欧美剧",
-        "动漫电影",
-        "韩剧",
-        "日剧",
-        "泰剧"
-      ]
-    },
+
 	  
 {
             "key": "360yingshi",
@@ -145,7 +118,7 @@
     },
 	
 	{
-      "name": "西瓜视频",
+      "name": "西瓜解析",
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
     },
