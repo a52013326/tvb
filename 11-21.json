@@ -112,6 +112,16 @@
       "url": "http://json.84jia.com/home/api?type=ys&uid=8691737&key=bflqruHMPQSTUWX469&url="
     },
 	{
+      "name": "茶茶解析",
+      "type": 1,
+      "url": "http://154.94.5.156:5005/api/?key=PpABy4kckDjMyZtvQf&url="
+    },
+	{
+      "name": "茶茶解析2",
+      "type": 1,
+      "url": "http://1.12.237.246:2233/api/?key=7vKZP9AxALuIfTPjwa&url="
+    },
+	{
       "name": "初恋云1",
       "type": 1,
       "url": "https://json.oorl.cn/api/?key=hHM0vaO2UyW0CYb3vG&url="
