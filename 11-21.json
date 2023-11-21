@@ -109,7 +109,12 @@
 	{
       "name": "小鱼解析",
       "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=8691737&key=aeimvyzACJRZ156789&url="
+      "url": "http://json.84jia.com/home/api?type=ys&uid=8691737&key=bflqruHMPQSTUWX469&url="
+    },
+	{
+      "name": "初恋云1",
+      "type": 1,
+      "url": "https://json.oorl.cn/api/?key=hHM0vaO2UyW0CYb3vG&url="
     }
 
 	],
