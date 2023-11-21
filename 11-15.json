@@ -118,10 +118,26 @@
     },
 	
 	{
-      "name": "西瓜解析",
+      "name": "西瓜视频",
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
     },
+	{
+      "name": "茶茶解析1",
+      "type": 1,
+      "url": "http://1.12.237.246:2233/api/?key=7vKZP9AxALuIfTPjwa&url="
+    },
+	{
+      "name": "茶茶解析2",
+      "type": 1,
+      "url": "http://1.12.237.246:2233/api/?key=aLfASdG3uqYjZLpIZX&url="
+    },
+	{
+      "name": "茶茶解析3",
+      "type": 1,
+      "url": "http://1.12.237.246:2233/api/?key=XgBcRazcFYDxAozybf&url="
+    },
+	
 	{"name": "夜猫", "type": 1, "url": "http://42.51.37.161:5678/json/520239app9/gf2.php?url=","ext":{"flag":["qq",
                     "腾讯",
                     "企鹅",
