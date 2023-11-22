@@ -123,11 +123,6 @@
       "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
     },
 	{
-      "name": "茶茶解析1",
-      "type": 1,
-      "url": "http://1.12.237.246:2233/api/?key=7vKZP9AxALuIfTPjwa&url="
-    },
-	{
       "name": "茶茶解析2",
       "type": 1,
       "url": "http://1.12.237.246:2233/api/?key=aLfASdG3uqYjZLpIZX&url="
