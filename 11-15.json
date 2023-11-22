@@ -105,7 +105,8 @@
     }
   ],
 "parses": [
-    {"name":"并发","type":3,"url":"Demo"},
+    		{"name":"解析聚合","type":3,"url":"Demo"},
+        {"name":"Web聚合","type":3,"url":"Web"},
 	{
       "name": "小鱼解析",
       "type": 1,
