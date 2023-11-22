@@ -105,7 +105,7 @@
     }
   ],
 "parses": [
-    	{"name":"Json聚合","type":3,"url":"Demo"},
+    	 {"name":"Web聚合","type":3,"url":"Web"}，
 	{
       "name": "小鱼之家",
       "type": 1,
@@ -132,17 +132,7 @@
       "type": 1,
       "url": "http://1.12.237.246:2233/api/?key=XgBcRazcFYDxAozybf&url="
     },
-	
-	{
-      "name": "小城解析",
-      "type": 1,
-      "url": "http://139.159.239.156:8090/api/?key=j6DZzlWUHs4L0BTsTt&url="
-    },
-	{
-      "name": "XAL解析",
-      "type": 1,
-      "url": "http://vip.fxfkfz.top/home/api?type=ys&uid=2765466&key=cfjkouyCIMOQXY0458&url="
-    },
+
 	
 	{"name": "夜猫", "type": 1, "url": "http://42.51.37.161:5678/json/520239app9/gf2.php?url=","ext":{"flag":["qq",
                     "腾讯",
