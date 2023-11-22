@@ -105,8 +105,8 @@
     }
   ],
 "parses": [
-    	 {
-	"name":"Web聚合","type":3,"url":"Web" }，
+    	 		{"name":"并发","type":3,"url":"Demo"},
+		{"name":"聚合","type":3,"url":"Web"},
 	{
       "name": "小鱼之家",
       "type": 1,
