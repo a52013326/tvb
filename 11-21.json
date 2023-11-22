@@ -135,7 +135,26 @@
       "type": 1,
       "url": "http://1.12.237.246:2233/api/?key=Q2fQ5ze19UJbz5IEPy&url="
     },
-
+	
+	{
+      "name": "茶茶解析3",
+      "type": 1,
+      "url": "http://1.12.237.246:2233/api/?key=BOXPMqGChWXhYeU7eO&url="
+    },
+	
+	{
+      "name": "茶茶解析4",
+      "type": 1,
+      "url": "http://1.12.237.246:2233/api/?key=RdTO9P4HoZqrUOVNJU&url="
+    },
+	
+	{
+      "name": "茶茶解析5",
+      "type": 1,
+      "url": "http://1.12.237.246:2233/api/?key=TupOESBIaB2oCrFOzC&url="
+    },
+	
+	
 	
 	{
 	"name": "夜猫", "type": 1, "url": "http://42.51.37.161:5678/json/520239app9/gf2.php?url="
