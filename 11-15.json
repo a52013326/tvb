@@ -105,19 +105,19 @@
     }
   ],
 "parses": [
-    		{"name":"解析聚合","type":3,"url":"Demo"},
-        {"name":"Web聚合","type":3,"url":"Web"},
+    	{"name":"Json聚合","type":3,"url":"Demo"},
+	{
+      "name": "小鱼之家",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=15158&key=eijkoBDMPRVXY02359&url="
+    },
 	{
       "name": "小鱼解析",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
     },
 	
-	{
-      "name": "小鱼之家",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=15158&key=eijkoBDMPRVXY02359&url="
-    },
+	
 	{
       "name": "小鱼3",
       "type": 1,
