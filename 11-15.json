@@ -105,14 +105,7 @@
     }
   ],
 "parses": [
-    {"name":"解析聚合","type":3,"url":"Demo"},
-    {"name":"Json并发","type":2,"url":"Parallel"},
-    {"name":"Json轮询","type":2,"url":"Sequence"},
-	{
-      "name": "小鱼之家",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=15158&key=eijkoBDMPRVXY02359&url="
-    },
+    {"name":"并发","type":3,"url":"Demo"},
 	{
       "name": "小鱼解析",
       "type": 1,
@@ -120,22 +113,25 @@
     },
 	
 	{
+      "name": "小鱼之家",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=15158&key=eijkoBDMPRVXY02359&url="
+    },
+	
+	
+	{
       "name": "西瓜视频",
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
     },
+	
 	{
-      "name": "茶茶解析2",
-      "type": 1,
-      "url": "http://1.12.237.246:2233/api/?key=aLfASdG3uqYjZLpIZX&url="
-    },
-	{
-      "name": "茶茶解析3",
+      "name": "茶茶解析1",
       "type": 1,
       "url": "http://1.12.237.246:2233/api/?key=XgBcRazcFYDxAozybf&url="
     },
 	{
-      "name": "茶茶解析4",
+      "name": "茶茶解析2",
       "type": 1,
       "url": "http://1.12.237.246:2233/api/?key=G7nzSz1tEpqL8om5F4&url="
     },
