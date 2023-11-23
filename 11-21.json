@@ -126,11 +126,6 @@
     },
 	
 	{
-      "name": "茶茶解析1",
-      "type": 1,
-      "url": "http://1.12.237.246:2233/api/?key=G7nzSz1tEpqL8om5F4&url="
-    },
-	{
       "name": "茶茶解析2",
       "type": 1,
       "url": "http://1.12.237.246:2233/api/?key=Q2fQ5ze19UJbz5IEPy&url="
