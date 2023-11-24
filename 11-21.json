@@ -105,9 +105,9 @@
     }
   ],
 "parses": [
-    	{
-		"name":"Json聚合","type":3,"url":"Demo"
-		},
+    {"name":"🔥Demo","type":3,"url":"Demo"},
+{"name": "☀轮询","type": 2, "url": "Sequence"},
+{"name": "🚀并发","type": 2,"url": "Parallel"},
 	{
       "name": "小鱼之家",
       "type": 1,
@@ -124,7 +124,16 @@
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
     },
-	
+	{
+      "name": "火花解析",
+      "type": 1,
+      "url": "https://api.huohua.vip/api/?key=kihi2bm5mfQkphPkau&url="
+    },
+	{
+      "name": "茶茶解析1",
+      "type": 1,
+      "url": "http://1.12.237.246:2233/api/?key=G7nzSz1tEpqL8om5F4&url="
+    },
 	{
       "name": "茶茶解析2",
       "type": 1,
@@ -154,96 +163,7 @@
 	{
 	"name": "夜猫", "type": 1, "url": "http://42.51.37.161:5678/json/520239app9/gf2.php?url="
 	},  
-	{
-      "name": "xmflv",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "imgo",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-{
-      "name": "tyun77",
-      "type": 1,
-      "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
-      "ext": {
-        "flag": [
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果",
-          "芒果"
-        ],
-        "header": {
-          "User-Agent": "okhttp/3.12.0"
-        }
-      }
-    },
-{
-            "name": "yemu",
-            "type": 0,
-            "url": "https://www.yemu.xyz/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
-            }
-        },
-
-
+	
 	{
       "name": "初恋云1",
       "type": 1,
@@ -262,7 +182,6 @@
 		"url": "https://jx.bozrc.com:4433/player/?url="
 	}
 	],
-	
     "rules":[
         {
         "host":"www.iesdouyin.com",
