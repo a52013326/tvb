@@ -106,12 +106,16 @@
   ],
 "parses": [
       {"name":"🔥Demo","type":3,"url":"Demo"},
-{"name": "☀轮询","type": 2, "url": "Sequence"},
-{"name": "🚀并发","type": 2,"url": "Parallel"},
+	
 	{
       "name": "小鱼解析",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
+    },
+	{
+      "name": "小鱼解析3",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=8691737&key=bflqruHMPQSTUWX469&url="
     },
 	
 	{
@@ -138,11 +142,7 @@
       "type": 1,
       "url": "http://1.12.237.246:2233/api/?key=TupOESBIaB2oCrFOzC&url="
     },
-	{
-      "name": "火花解析",
-      "type": 1,
-      "url": "https://api.huohua.vip/api/?key=BOBM4vwSjkomI5FBTj&url="
-    },
+
 	
 	{
       "name": "初恋云1",
