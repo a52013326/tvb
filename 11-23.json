@@ -4,7 +4,7 @@
   "lives":[{
     "name":"live",
     "type":0,
-	"url": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/01.txt", 
+	"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/01.txt", 
     "playerType":1,
     "ua":"okhttp/3.12.13",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
@@ -20,7 +20,7 @@
       "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
     },
 {
       "key": "PanSou",
@@ -30,7 +30,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
     },
 	{
        "key": "PanSearch",
@@ -40,7 +40,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
     },
 	{
 	 "key": "七夜",
@@ -50,7 +50,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
     },
 	{
       "key": "UpYun",
@@ -60,7 +60,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
     },
 		
 
@@ -68,16 +68,16 @@
    "key": "js_菜狗",
    "name": "💘菜狗大厂",
    "type": 3,"playerType":2,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+   "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
    "searchable": 2,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/caigou.js"
+   "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/caigou.js"
   },
   
  
  
-  {"key":"阿里云盘","name": "🖥阿里云盘","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/ali.jar"},
+  {"key":"阿里云盘","name": "🖥阿里云盘","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/ali.jar"},
   
 
 	  
@@ -85,8 +85,8 @@
             "key": "360yingshi",
             "name": "🌻 360影视 ",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/360影视.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/360影视.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -100,7 +100,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://itvbox.cc/sft/jar/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"
     },
 	
 	{
@@ -111,7 +111,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
     }
   ],
 "parses": [
@@ -132,7 +132,7 @@
 	{
       "name": "小鱼解析3",
       "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=8691737&key=aeimvyzACJRZ156789&url="
+      "url": "http://json.84jia.com/home/api?type=ys&uid=8691737&key=bflqruHMPQSTUWX469&url="
     },
 	
 	{
