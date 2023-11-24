@@ -129,26 +129,16 @@
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
     },
+	{
+      "name": "小鱼解析3",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=8691737&key=aeimvyzACJRZ156789&url="
+    },
 	
 	{
       "name": "西瓜视频",
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
-    },
-	{
-      "name": "火花解析",
-      "type": 1,
-      "url": "https://api.huohua.vip/api/?key=kihi2bm5mfQkphPkau&url="
-    },
-	{
-      "name": "茶茶解析1",
-      "type": 1,
-      "url": "http://1.12.237.246:2233/api/?key=G7nzSz1tEpqL8om5F4&url="
-    },
-	{
-      "name": "茶茶解析2",
-      "type": 1,
-      "url": "http://1.12.237.246:2233/api/?key=Q2fQ5ze19UJbz5IEPy&url="
     },
 	
 	{
