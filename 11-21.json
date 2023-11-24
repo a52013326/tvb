@@ -124,16 +124,7 @@
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
     },
-	{
-      "name": "火花解析",
-      "type": 1,
-      "url": "https://api.huohua.vip/api/?key=kihi2bm5mfQkphPkau&url="
-    },
-	{
-      "name": "茶茶解析1",
-      "type": 1,
-      "url": "http://1.12.237.246:2233/api/?key=G7nzSz1tEpqL8om5F4&url="
-    },
+	
 	{
       "name": "茶茶解析2",
       "type": 1,
@@ -174,7 +165,11 @@
       "type": 1,
       "url": "https://json.oorl.cn/api/?key=TBkYTjVwi3m8XcDXGA&url="
     },
-	
+	{
+      "name": "火花解析",
+      "type": 1,
+      "url": "https://api.huohua.vip/api/?key=kihi2bm5mfQkphPkau&url="
+    },
 	
 	{
 		"name": "OVER",
