@@ -76,7 +76,6 @@
   },
 
  
-  {"key":"阿里云盘","name": "🖥阿里云盘","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/ali.jar"},
 {
 "key":"drpy_js_奇珍异兽",
 "name":" 💚爱奇艺",
@@ -85,8 +84,6 @@
 "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
 },
 
- {"key":"爱奇异","name":"💜爱奇艺(官)","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"},
- {"key":"360影视","name":"🚛360影视(官)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
 {
             "key": "360yingshi",
@@ -130,17 +127,17 @@
       "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
     },
 	
-	 {"name":"虾米1","type":1,"url":"https://jx.xmflv.cc/?url="},
-	 {"name":"虾米2","type":1,"url":"https://jx.xmflv.com/?url="},
+{"name":"虾米","type":1,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+
 	{
       "name": "少泽",
       "type": 1,
       "url": "https://jx.shaoze.xyz/web/json?token=5201340&url="
 	  },
 	  
-	  {"name":"m3u8嗅探","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}, 
+{"name":"m3u8嗅探","type":1,"url":"https://jx.m3u8.tv/jiexi/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优酷","mgtv","imgo","芒果"]}}, 
 
-	  {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
+	{"name":"夜幕","type":1,"url":"https://www.yemu.xyz/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 	  
 	
 	
