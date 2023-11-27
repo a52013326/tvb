@@ -66,7 +66,7 @@
 
 	{
    "key": "js_菜狗",
-   "name": "🐶菜狗大厂",
+   "name": "🐶搜狗视频",
    "type": 3,"playerType":2,
    "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
    "searchable": 2,
@@ -85,7 +85,8 @@
 "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
 },
 
-
+ {"key":"爱奇异","name":"💜爱奇艺(官)","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"},
+ {"key":"360影视","name":"🚛360影视(官)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
 {
             "key": "360yingshi",
@@ -113,7 +114,7 @@
 "parses": [
       {"name":"🔥Demo","type":3,"url":"Demo"},
 	{
-	  "name": "推荐",
+	  "name": "爱奇艺",
 	  "type":1,
 	  "url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
 	  },
@@ -137,23 +138,11 @@
       "url": "https://jx.shaoze.xyz/web/json?token=5201340&url="
 	  },
 	  
-	  {"name":"m3u8嗅探","type":1,"url":"https://jx.m3u8.tv/jiexi/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优
-酷","mgtv","imgo","芒果"]}}, 
+	  {"name":"m3u8嗅探","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}, 
 
-	  {"name":"夜幕","type":1,"url":"https://www.yemu.xyz/?url="},
+	  {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
 	  
-	{
-      "name": "茶茶解析4",
-      "type": 1,
-      "url": "http://1.12.237.246:2233/api/?key=RdTO9P4HoZqrUOVNJU&url="
-    },
 	
-	{
-      "name": "茶茶解析5",
-      "type": 1,
-      "url": "http://1.12.237.246:2233/api/?key=TupOESBIaB2oCrFOzC&url="
-    },
-
 	
 	{
 		"name": "OVER",
