@@ -114,43 +114,43 @@
       {"name":"🔥Demo","type":3,"url":"Demo"},
 	{
 	  "name": "推荐",
-	  "type":0,
+	  "type":1,
 	  "url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
 	  },
 	{
       "name": "小鱼解析",
-      "type": 0,
+      "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
     },
 	
 	{
       "name": "西瓜视频",
-      "type":0,
+      "type":1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
     },
 	
-	 {"name":"虾米1","type":0,"url":"https://jx.xmflv.cc/?url="},
-	 {"name":"虾米2","type":0,"url":"https://jx.xmflv.com/?url="},
+	 {"name":"虾米1","type":1,"url":"https://jx.xmflv.cc/?url="},
+	 {"name":"虾米2","type":1,"url":"https://jx.xmflv.com/?url="},
 	{
       "name": "少泽",
-      "type": 0,
+      "type": 1,
       "url": "https://jx.shaoze.xyz/web/json?token=5201340&url="
 	  },
 	  
-	  {"name":"m3u8嗅探","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优
+	  {"name":"m3u8嗅探","type":1,"url":"https://jx.m3u8.tv/jiexi/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优
 酷","mgtv","imgo","芒果"]}}, 
 
-	  {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
+	  {"name":"夜幕","type":1,"url":"https://www.yemu.xyz/?url="},
 	  
 	{
       "name": "茶茶解析4",
-      "type": 0,
+      "type": 1,
       "url": "http://1.12.237.246:2233/api/?key=RdTO9P4HoZqrUOVNJU&url="
     },
 	
 	{
       "name": "茶茶解析5",
-      "type": 0,
+      "type": 1,
       "url": "http://1.12.237.246:2233/api/?key=TupOESBIaB2oCrFOzC&url="
     },
 
