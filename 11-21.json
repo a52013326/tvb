@@ -74,27 +74,15 @@
    "filterable": 0,
    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/caigou.js"
   },
-  {"key":"爱奇异","name":"💜爱奇艺(官)","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"},
- {"key":"360影视","name":"🚛360影视(官)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
  
   {"key":"阿里云盘","name": "🖥阿里云盘","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/ali.jar"},
-   {"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com"},
+	  
 {
 "key":"drpy_js_奇珍异兽",
 "name":" 💚爱奇艺",
 "type":3,
 "api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
 "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
-},
-
- {
-    "key":"csp_woggcli",
-    "name":"📕玩偶自营",
-    "type":4,
-    "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
 },
 
 {
