@@ -127,17 +127,17 @@
       "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
     },
 	
-	 {"name":"虾米1","type":0,"url":"https://jx.xmflv.cc/?url="},
-	 {"name":"虾米2","type":0,"url":"https://jx.xmflv.com/?url="},
+	 {"name":"虾米1","type":1,"url":"https://jx.xmflv.cc/?url="},
+	 {"name":"虾米2","type":1,"url":"https://jx.xmflv.com/?url="},
 	{
       "name": "少泽",
       "type": 1,
       "url": "https://jx.shaoze.xyz/web/json?token=5201340&url="
 	  },
 	  
-	  {"name":"m3u8嗅探","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}, 
+	  {"name":"m3u8嗅探","type":1,"url":"https://jx.m3u8.tv/jiexi/?url="}, 
 
-	  {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
+	  {"name":"夜幕","type":1,"url":"https://www.yemu.xyz/?url="},
 	  
 	
 	
