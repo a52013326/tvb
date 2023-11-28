@@ -125,6 +125,10 @@
       "type": 1,
       "url": "https://jx.shaoze.xyz/web/json?token=5201340&url="
 	  },
+
+ {"name":"至圣云","type":0,"url":"http://jx.zsygzs.top/api/?key=N9eoGhBU3NWPUWQcxH&url="},
+
+ {"name":"乐酷蓝光","type":0,"url":"https://yinshi.eatuo.com/index.php/mvod/jx2?url="},
 	{
       "name": "西瓜视频",
       "type":1,
@@ -139,6 +143,7 @@
 
 	  {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
 	  
+	
 	
 	{
 		"name": "OVER",
