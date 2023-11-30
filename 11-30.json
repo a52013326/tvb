@@ -30,7 +30,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
 	{
        "key": "PanSearch",
@@ -40,7 +40,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
 	{
 	 "key": "七夜",
@@ -50,7 +50,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
 	{
       "key": "UpYun",
@@ -60,7 +60,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
 		
 
@@ -105,7 +105,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     }
   ],
 "parses": [
