@@ -11,7 +11,16 @@
     "logo":"https://epg.112114.xyz/logo/{name}.png"
   }],
   "sites":[
-       {"key":"豆瓣","name":"🏠影视推荐","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
+       {"key":"影视","name":"🏠影视推荐","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
+	   {"key": "豆瓣",
+	   "name":"Ⓜ️┃豆瓣┃荐片",
+	   "type":3,
+	   "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+	   "searchable":2,
+	   "quickSearch":1,
+	   "filterable":0,
+	   "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/豆瓣.js"
+	   },	
 	  {
       "key": "csp_WoGG",
       "name": "👽玩偶 | 4K",
@@ -20,7 +29,7 @@
       "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$https://wogg.xyz/"
     },
 {
       "key": "PanSou",
@@ -74,11 +83,20 @@
    "filterable": 0,
    "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/caigou.js"
   },
-
+{
+"key": "dr_腾云驾雾",
+"name": "🐧腾讯视频",
+"type": 3,
+"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+"searchable": 2,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/腾云驾雾.js"
+},
 
 {
 "key":"drpy_js_奇珍异兽",
-"name":" 💚爱奇艺",
+"name":" 🐨爱奇艺",
 "type":3,
 "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
 "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
@@ -87,7 +105,7 @@
 
 {
             "key": "360yingshi",
-            "name": "🌻 360影视 ",
+            "name": "🐹360影视 ",
             "type": 3,
             "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/360影视.js",
