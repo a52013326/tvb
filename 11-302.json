@@ -68,7 +68,7 @@
       "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
+      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt$$$https://wogg.xyz/"
     },
     {
             "key": "🐿csp_WoGG7",
@@ -87,7 +87,7 @@
             "api": "csp_Wogg",
             "searchable": 1,
             "changeable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+            "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd",
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/pg.jar"
         },
 {
@@ -98,7 +98,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd"
     },
     {
     "key": "📀csp_Yisou5",
@@ -109,7 +109,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+            "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd",
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xyq.jar"
         },	
     
@@ -121,7 +121,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd"
     },
 	{
 	 "key": "七夜",
@@ -131,7 +131,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd"
     },
 	{
       "key": "UpYun",
@@ -141,7 +141,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd"
     },
 		
 {
@@ -153,7 +153,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+            "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd",
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xyq.jar"
         },	
 {
@@ -177,7 +177,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+            "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd",
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xyq.jar"
         },
   {
@@ -229,7 +229,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd"
     }
   ],
 "parses": [
