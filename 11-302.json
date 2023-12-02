@@ -233,7 +233,7 @@
     }
   ],
 "parses": [
-      {"name":" ❤自动解析视频","type":3,"url":"Demo"},
+      {"name":"💖自动解析视频","type":3,"url":"Demo"},
  {
       "name": "💚爱奇艺1",
       "type": 1,
@@ -250,9 +250,9 @@
 	 
 	 {"name":"💜爱奇艺4","type":0,"url":"https://jx.xmflv.com/?url="},
 	 
-	{"name":"💔爱奇艺5","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}, 
+	{"name":"💛爱奇艺5","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}, 
 	
-	{"name":"💓爱奇艺6","type":0,"url":"https://www.yemu.xyz/?url="},
+	{"name":"🧡爱奇艺6","type":0,"url":"https://www.yemu.xyz/?url="},
 	{
 	  "name": "💗爱奇艺7",
 	  "type":1,
@@ -268,7 +268,7 @@
 	 {"name":"💛腾讯视频3","type":1,"url":"http://jx.zsygzs.top/api/?key=ID0BsEbbne6xEhsktX&url="},  
 	{"name":"💔腾讯视频4","type":1,"url":"https://api.jsdu.cn:8999/api/?key=XjZ9095DACPnAHqiTL&url="},
 	{
-		"name": "OVER",
+		"name": " 💘OVER",
 		"type": 0,
 		"url": "https://jx.bozrc.com:4433/player/?url="
 	}
