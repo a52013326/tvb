@@ -233,28 +233,28 @@
     }
   ],
 "parses": [
-      {"name":"💖自动解析视频","type":3,"url":"Demo"},
+      {"name":"💖聚合解析","type":3,"url":"Demo"},
  {
-      "name": "💚爱奇艺1",
+      "name": "小鱼解析",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
     },
  
 	{
-      "name": "💛爱奇艺2",
+      "name": "少泽解析",
       "type": 1,
       "url": "https://jx.shaoze.xyz/web/json?token=5201340&url="
 	  },
 	  
-	 {"name":"💙爱奇艺3","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["qq","iqiyi","youku","mgtv"]}},
+	 {"name":"南瓜解析"，"type":1，"url":"http://119.91.123.253:2345/Api/yun.php?url="，"ext":{"flag":["qiyi"，"imgo","爱奇艺","奇艺"，"qq","腾讯"，"youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 	 
-	 {"name":"💜爱奇艺4","type":0,"url":"https://jx.xmflv.com/?url="},
+	 {"name":"虾米解析","type":0,"url":"https://jx.xmflv.com/?url="},
 	 
-	{"name":"💛爱奇艺5","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}, 
+	{"name":"M3U8解析","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}, 
 	
-	{"name":"🧡爱奇艺6","type":0,"url":"https://www.yemu.xyz/?url="},
+	{"name":"夜幕解析","type":0,"url":"https://www.yemu.xyz/?url="},
 	{
-	  "name": "💗爱奇艺7",
+	  "name": "乐乐解析",
 	  "type":1,
 	  "url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
 	  },
@@ -263,10 +263,9 @@
       "type":1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
     },
-	 {"name":"💙腾讯视频1","type":1,"url":"http://jx.zsygzs.top/api/?key=N9eoGhBU3NWPUWQcxH&url="},  
-	  {"name":"💜腾讯视频2","type":1,"url":"https://yinshi.eatuo.com/index.php/mvod/jx2?url="},
-	 {"name":"💛腾讯视频3","type":1,"url":"http://jx.zsygzs.top/api/?key=ID0BsEbbne6xEhsktX&url="},  
-	{"name":"💔腾讯视频4","type":1,"url":"https://api.jsdu.cn:8999/api/?key=XjZ9095DACPnAHqiTL&url="},
+	 {"name":"至圣云解析","type":1,"url":"http://jx.zsygzs.top/api/?key=N9eoGhBU3NWPUWQcxH&url="},  
+	  {"name":"追影视界","type":1,"url":"https://yinshi.eatuo.com/index.php/mvod/jx2?url="},
+	{"name":"乐酷蓝光","type":1,"url":"https://api.jsdu.cn:8999/api/?key=XjZ9095DACPnAHqiTL&url="},
 	{
 		"name": " 💘OVER",
 		"type": 0,
