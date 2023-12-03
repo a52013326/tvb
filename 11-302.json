@@ -244,12 +244,7 @@
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
     },
- {
-	"name":"南瓜",
-	"type":1,
-	"url":"http://119.91.123.253:2345/Api/yun.php?url=",
-	"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}
-	}，
+	{"name":"南瓜","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url="}，
 	 {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="},
 	{"name":"M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}, 
 
