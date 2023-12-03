@@ -233,7 +233,12 @@
     }
   ],
 "parses": [
-     {"name":"Json聚合"，"type":3,"url":"Demo"},
+ 	 {
+		 "name":"🚀轮询"，
+		 "type":3,
+		 "url":"Demo"
+	 },
+   
  {
       "name": "小鱼",
       "type": 1,
