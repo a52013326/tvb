@@ -233,45 +233,43 @@
     }
   ],
 "parses": [
-      {"name":"聚合解析","type":3,"url":"Demo"},
+     {"name":"Json聚合"，"type":3,"url":"Demo"},
  {
-      "name": "小鱼解析",
+      "name": "小鱼",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
     },
- 
-	{
-      "name": "少泽解析",
-      "type": 1,
-      "url": "https://jx.shaoze.xyz/web/json?token=5201340&url="
-	  },
-	{
-	"name":"南瓜解析",
+ {
+	"name":"南瓜",
 	"type":1,
 	"url":"http://119.91.123.253:2345/Api/yun.php?url=",
 	"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}
-	},	  
-	
-	 {"name":"虾米解析","type":0,"url":"https://jx.xmflv.com/?url="},
-	 
-	{"name":"M3U8解析","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}, 
-	
-	{"name":"夜幕解析","type":0,"url":"https://www.yemu.xyz/?url="},
+	}，
+	 {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="},
+	{"name":"M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}, 
+
+	{"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
 	{
-	  "name": "乐乐解析",
+      "name": "少泽",
+      "type": 1,
+      "url": "https://jx.shaoze.xyz/web/json?token=5201340&url="
+	  },
+	
+	{
+	  "name": "乐乐",
 	  "type":1,
 	  "url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
 	  },
 	 	{
-      "name": "💚西瓜视频",
+      "name": "西瓜",
       "type":1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
     },
-	 {"name":"至圣云解析","type":1,"url":"http://jx.zsygzs.top/api/?key=N9eoGhBU3NWPUWQcxH&url="},  
-	  {"name":"追影视界","type":1,"url":"https://yinshi.eatuo.com/index.php/mvod/jx2?url="},
-	{"name":"乐酷蓝光","type":1,"url":"https://api.jsdu.cn:8999/api/?key=XjZ9095DACPnAHqiTL&url="},
+	 {"name":"至圣云","type":1,"url":"http://jx.zsygzs.top/api/?key=N9eoGhBU3NWPUWQcxH&url="},  
+	
+	  {"name":"乐酷","type":1,"url":"https://yinshi.eatuo.com/index.php/mvod/jx2?url="},
 	{
-		"name": " 💘OVER",
+		"name": " OVER",
 		"type": 0,
 		"url": "https://jx.bozrc.com:4433/player/?url="
 	}
