@@ -234,37 +234,34 @@
   ],
 "parses": [
     	{"name":"🚀聚合解析","type":3,"url":"Demo"},
-   
- {
-      "name": "小鱼之家",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
-    },
-	{
-      "name": "少泽",
-      "type": 1,
-      "url": "https://jx.shaoze.xyz/web/json?token=5201340&url="
-	  },
-	
+
 	 {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="},
 	{"name":"M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}, 
 
 	{"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
-	
-	{"name":"D B","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
-	{
-	  "name": "乐乐",
-	  "type":1,
-	  "url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
-	  },
+	 {
+      "name": "小鱼之家",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
+    	},
+	 {
+      "name": "小鱼解析",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=8725501&key=bghoqyABHMQW023467&url="
+    	},
+
+	 {"name":"乐酷蓝光","type":1,"url":"https://yinshi.eatuo.com/index.php/mvod/jx2?url="},
+{
+      "name": "初恋云",
+      "type": 0,
+      "url": "https://json.oorl.cn/api/?key=TBkYTjVwi3m8XcDXGA&url="
+    },
 	 	{
       "name": "西瓜视频",
       "type":1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
     },
-	 {"name":"至圣云","type":1,"url":"http://jx.zsygzs.top/api/?key=N9eoGhBU3NWPUWQcxH&url="},  
-	
-	  {"name":"乐酷蓝光","type":1,"url":"https://yinshi.eatuo.com/index.php/mvod/jx2?url="},
+	 
 	{
 		"name": " OVER",
 		"type": 0,
