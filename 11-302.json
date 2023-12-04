@@ -244,25 +244,25 @@
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
     	},
-	 {"name":"乐酷蓝光","type":1,"url":"https://yinshi.eatuo.com/index.php/mvod/jx2?url="},
+	{"name":"爱奇艺","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+
+	 {
+      "name": "火花",
+      "type": 1,
+      "url": "https://api.huohua.vip/api/?key=xZ1ib7AmHKhjqKLhQb&url="
+    	},
 	 {
       "name": "小鱼解析",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=8725501&key=bghoqyABHMQW023467&url="
     	},
 
-	
-{
-      "name": "初恋云",
-      "type": 1,
-      "url": "https://json.oorl.cn/api/?key=TBkYTjVwi3m8XcDXGA&url="
-    },
-	 	{
+	{
       "name": "西瓜视频",
       "type":1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
     },
-	 
+	  {"name":"乐酷蓝光","type":1,"url":"https://yinshi.eatuo.com/index.php/mvod/jx2?url="},
 	{
 		"name": " OVER",
 		"type": 0,
