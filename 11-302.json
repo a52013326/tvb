@@ -244,16 +244,17 @@
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
     	},
+	 {"name":"乐酷蓝光","type":1,"url":"https://yinshi.eatuo.com/index.php/mvod/jx2?url="},
 	 {
       "name": "小鱼解析",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=8725501&key=bghoqyABHMQW023467&url="
     	},
 
-	 {"name":"乐酷蓝光","type":1,"url":"https://yinshi.eatuo.com/index.php/mvod/jx2?url="},
+	
 {
       "name": "初恋云",
-      "type": 0,
+      "type": 1,
       "url": "https://json.oorl.cn/api/?key=TBkYTjVwi3m8XcDXGA&url="
     },
 	 	{
