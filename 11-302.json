@@ -223,18 +223,28 @@
     }
   ],
 "parses": [
-    	{"name":"🚀聚合解析","type":3,"url":"Demo"},
+    {"name":"🚀聚合解析","type":3,"url":"Demo"},
 	 {
       "name": "小鱼之家",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
     	},
-	{"name":"爱奇艺","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
-	 {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="},
-	{"name":"M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}, 
-
-	{"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
-	 {"name":"乐酷蓝光","type":1,"url":"https://yinshi.eatuo.com/index.php/mvod/jx2?url="},
+	{"name":"南瓜","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+	 {
+		 "name":"虾米","type":0,"url":"https://jx.xmflv.cc/?url="
+	 },
+	{
+		"name":"M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="
+	}, 
+	 {
+		 "name":"夜幕","type":0,"url":"https://www.yemu.xyz/v/d.php?url="
+	 },
+	 {
+		 "name":"乐酷蓝光","type":1,"url":"https://yinshi.eatuo.com/index.php/mvod/jx2?url="
+	 },
+	
+		 {"name":"火花","type":1,"url":"https://api.huohua.vip/api/?key=xZ1ib7AmHKhjqKLhQb&url="},
+	
 	{
       "name": "西瓜视频",
       "type":1,
@@ -242,12 +252,26 @@
     },
 	
 	 {
-      "name": "小鱼解析",
+      "name": "小鱼1",
       "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=8725501&key=bghoqyABHMQW023467&url="
+      "url": "http://json.84jia.com/home/api?type=ys&uid=13057848&key=eimnpqtvxAFKPXZ014&url="
+    	},
+	 {
+      "name": "小鱼2",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=13069992&key=bcglmrxFGHNVYZ1357&url="
+    	},
+	 {
+      "name": "小鱼3",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=13074796&key=agilmnrsvAFLPRWY16&url="
+    	},
+	 {
+      "name": "小鱼4",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=13084444&key=efmnxBCMRUWXYZ1345&url="
     	},
 
-	
 	 
 	{
 		"name": " OVER",
