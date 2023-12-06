@@ -49,17 +49,7 @@
       "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
       "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
     },
-    {
-      "key": "dr_腾云驾雾",
-      "name": "🐧腾讯视频",
-      "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/腾云驾雾.js"
-    },
-
+  
 	  {
       "key": "csp_WoGG",
       "name": "👽玩偶 | 4K",
