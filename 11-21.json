@@ -242,14 +242,24 @@
     },
 	
 	 {
-      "name": "小鱼50次",
+      "name": "小鱼1",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=13057848&key=eimnpqtvxAFKPXZ014&url="
     	},
 	 {
-      "name": "小鱼50次",
+      "name": "小鱼2",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=13069992&key=bcglmrxFGHNVYZ1357&url="
+    	},
+	 {
+      "name": "小鱼3",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=13074796&key=agilmnrsvAFLPRWY16&url="
+    	},
+	 {
+      "name": "小鱼4",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=13084444&key=efmnxBCMRUWXYZ1345&url="
     	},
 
 	
