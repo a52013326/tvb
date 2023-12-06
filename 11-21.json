@@ -236,15 +236,15 @@
 	{
 		"name":"M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="
 	}, 
-	{
-		"name":"夜幕","type":0,"url":"https://www.yemu.xyz/v/d.php?url="
-	}， 	 
+	 {
+		 "name":"夜幕","type":0,"url":"https://www.yemu.xyz/v/d.php?url="
+	 },
 	 {
 		 "name":"乐酷蓝光","type":1,"url":"https://yinshi.eatuo.com/index.php/mvod/jx2?url="
 	 },
 	 {
 		 "name":"火花","type":1,"url":"https://api.huohua.vip/api/?key=xZ1ib7AmHKhjqKLhQb&url="
-	 }， 
+	 }，
 	 {
 		 "name":"至圣云","type":1,"url":"http://jx.zsygzs.top/api/?key=N9eoGhBU3NWPUWQcxH&url="
 	 },
