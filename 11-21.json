@@ -4,7 +4,7 @@
   "lives":[{
     "name":"live",
     "type":0,
-	"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/01.txt", 
+	"url": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/01.txt", 
     "playerType":1,
     "ua":"okhttp/3.12.13",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
@@ -15,28 +15,28 @@
 	   {"key": "豆瓣",
 	   "name":"Ⓜ️┃豆瓣┃荐片",
 	   "type":3,
-	   "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+	   "api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
 	   "searchable":2,
 	   "quickSearch":1,
 	   "filterable":0,
-	   "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/豆瓣.js"
+	   "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/豆瓣.js"
 	   },	
     {
    "key": "js_菜狗",
    "name": "🐶搜狗视频",
    "type": 3,"playerType":2,
-   "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+   "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
    "searchable": 2,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/caigou.js"
+   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/caigou.js"
     },
     {
       "key": "360yingshi",
       "name": "🐹 360影视 ",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/360影视.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/360影视.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -46,8 +46,8 @@
       "key":"drpy_js_奇珍异兽",
       "name":" 🌳 爱奇艺",
       "type":3,
-      "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
+      "api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
     },
   
 	  {
@@ -58,7 +58,7 @@
       "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt$$$https://wogg.xyz/"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
     },
     {
             "key": "🐿csp_WoGG7",
@@ -68,7 +68,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/ali1191.jar"
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/ali1191.jar"
         },
 		 {
             "key": "🐝玩偶5",
@@ -77,8 +77,8 @@
             "api": "csp_Wogg",
             "searchable": 1,
             "changeable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/pg.jar"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/pg.jar"
         },
 {
       "key": "PanSou",
@@ -88,7 +88,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
     },
     {
     "key": "📀csp_Yisou5",
@@ -99,8 +99,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xyq.jar"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xyq.jar"
         },	
     
 	{
@@ -111,7 +111,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
     },
 	{
 	 "key": "七夜",
@@ -121,7 +121,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
     },
 	{
       "key": "UpYun",
@@ -131,7 +131,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
     },
 		
 {
@@ -143,8 +143,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xyq.jar"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xyq.jar"
         },	
 {
             "key": "📀csp_XYQHiker_盘搜索",
@@ -155,8 +155,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/盘搜索.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xyq.jar"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/盘搜索.json",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xyq.jar"
         },
 	{
             "key": "📀csp_Upyunso5",
@@ -167,8 +167,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xyq.jar"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xyq.jar"
         },
   {
             "key": "📀csp_XYQHiker_DOVX搜索",
@@ -179,8 +179,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/DOVX搜索.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xyq.jar"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/DOVX搜索.json",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xyq.jar"
         },
 	{
             "key": "🐿阿里云盘7",
@@ -190,7 +190,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/ali1191.jar"
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/ali1191.jar"
         },	
 	{
             "key": "🐿纸条7",
@@ -200,7 +200,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/ali1191.jar"
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/ali1191.jar"
         },	
 
   
@@ -219,7 +219,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
     }
   ],
 "parses": [
