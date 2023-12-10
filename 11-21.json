@@ -50,15 +50,30 @@
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
     },
   
-	  {
-      "key": "csp_WoGG",
-      "name": "👽玩偶 | 4K",
+	 	{
+    "key": "玩偶",
+    "name": "👽玩偶 | 4K",
+    "type": 3,
+    "api": "csp_Wogg",
+    "searchable": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "ext": {
+        "token": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt",
+		"filterable": 1,
+        "danmu": false
+    },
+    "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/928.jar"
+    },	
+	   {
+      "key": "玩偶哥哥",
+      "name": "👽玩偶┃云盘",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_XYQHikerAL",
       "searchable": 1,
-	"quickSearch":1,
-	"filterable":1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/1121.txt+4k|auto|fhd$$$http://www.wogg.xyz/"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/玩偶哥哥.json"
     },
     {
             "key": "🐿csp_WoGG7",
@@ -70,16 +85,7 @@
             "filterable": 1,
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/ali1191.jar"
         },
-		 {
-            "key": "🐝玩偶5",
-            "name": "🐝玩偶",
-            "type": 3,
-            "api": "csp_Wogg",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/1121.txt+4k|auto|fhd",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/pg.jar"
-        },
+	
 {
       "key": "PanSou",
       "name": "🙀盘搜 | 4K",
@@ -88,7 +94,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/1121.txt+4k|auto|fhd"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
     },
     {
     "key": "📀csp_Yisou5",
@@ -99,7 +105,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/1121.txt+4k|auto|fhd",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd",
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xyq.jar"
         },	
     
@@ -111,7 +117,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/1121.txt+4k|auto|fhd"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
     },
 	{
 	 "key": "七夜",
@@ -121,7 +127,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/1121.txt+4k|auto|fhd"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
     },
 	{
       "key": "UpYun",
@@ -131,7 +137,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/1121.txt+4k|auto|fhd"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
     },
 		
 {
@@ -143,7 +149,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/1121.txt+4k|auto|fhd",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd",
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xyq.jar"
         },	
 {
@@ -167,7 +173,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/1121.txt+4k|auto|fhd",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd",
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xyq.jar"
         },
   {
@@ -204,7 +210,7 @@
         },	
 
   
-
+{"key":"AliPS","name":"云盘｜盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"},
 
 
 
@@ -219,7 +225,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/1121.txt+4k|auto|fhd"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
     }
   ],
 "parses": [
@@ -239,7 +245,11 @@
 	 {
 		 "name":"夜幕","type":0,"url":"https://www.yemu.xyz/v/d.php?url="
 	 },
-
+	 {
+		 "name":"乐酷蓝光","type":1,"url":"https://yinshi.eatuo.com/index.php/mvod/jx2?url="
+	 },
+	
+		 {"name":"火花","type":1,"url":"https://api.huohua.vip/api/?key=xZ1ib7AmHKhjqKLhQb&url="},
 	
 	{
       "name": "西瓜视频",
@@ -252,6 +262,11 @@
       "url": "https://www.pangujiexi.com/pangu/?url="
     },
 	
+{
+      "name": "好看",
+      "type": 0,
+      "url": "https://jx.haokantv.cyou/player/?url="
+    },
 	 {
       "name": "ckplayer",
       "type": 0,
@@ -272,17 +287,9 @@
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=13069992&key=bcglmrxFGHNVYZ1357&url="
     	},
-	{
-      "name": "小鱼3",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=13074796&key=agilmnrsvAFLPRWY16&url="
-    	},
-	 {
-      "name": "小鱼4",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=13084444&key=efmnxBCMRUWXYZ1345&url="
-    	},
 
+
+	
 	 
 	{
 		"name": " OVER",
