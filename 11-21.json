@@ -65,19 +65,9 @@
     },
     "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/928.jar"
     },	
-	   {
-      "key": "玩偶哥哥",
-      "name": "👽玩偶┃云盘",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/玩偶哥哥.json"
-    },
     {
             "key": "🐿csp_WoGG7",
-            "name": "🐿玩偶哥哥",
+            "name": "👽玩偶┃云盘",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
@@ -208,12 +198,6 @@
             "changeable": 1,
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/ali1191.jar"
         },	
-
-  
-{"key":"AliPS","name":"云盘｜盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"},
-
-
-
 
 
   
