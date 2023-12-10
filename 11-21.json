@@ -60,14 +60,14 @@
     "changeable": 1,
     "ext": {
         "token": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt",
-		"filterable": 1,
+	"filter": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/wogg.json",
         "danmu": false
     },
     "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/928.jar"
     },	
     {
-            "key": "🐿csp_WoGG7",
-            "name": "👽玩偶┃云盘",
+            "key": "👽csp_WoGG7",
+            "name": "👽玩偶哥哥",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
