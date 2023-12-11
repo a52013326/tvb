@@ -11,16 +11,16 @@
     "logo":"https://epg.112114.xyz/logo/{name}.png"
   }],
   "sites":[
-       {"key":"影视","name":"🏠影视推荐","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
-	   {"key": "豆瓣",
-	   "name":"Ⓜ️┃豆瓣┃荐片",
-	   "type":3,
-	   "api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-	   "searchable":2,
-	   "quickSearch":1,
-	   "filterable":0,
-	   "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/豆瓣.js"
-	   },	
+       {"key":"影视","name":"🏠影视推荐","type": 4,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1},
+	  		 {
+            "key": "豆瓣",
+            "name": "🚀豆瓣排行",
+            "type": 3,
+            "api": "csp_DouDou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
     {
    "key": "js_菜狗",
    "name": "🐶搜狗视频",
@@ -50,66 +50,17 @@
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
     },
   
-	 	{
-    "key": "玩偶",
-    "name": "👽玩偶 | 4K",
-    "type": 3,
-    "api": "csp_Wogg",
-    "searchable": 1,
-    "filterable": 1,
-    "changeable": 1,
-    "ext": {
-        "token": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt",
-	"filter": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/wogg.json",
-        "danmu": false
-    },
-    "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/928.jar"
-    },	
-    {
-            "key": "👽csp_WoGG7",
-            "name": "👽玩偶哥哥",
+	 {
+            "key": "csp_WoGG",
+            "name": "👽玩偶 | 4K",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/ali1191.jar"
-        },
-	
-{
-      "key": "PanSou",
-      "name": "🙀盘搜 | 4K",
-      "type": 3,
-      "api": "csp_PanSou",
-       "searchable": 1,
-	"quickSearch":1,
-	"filterable":1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
-    },
-    {
-    "key": "📀csp_Yisou5",
-            "name": "📀易搜| 4K",
-            "type": 3,
-            "api": "csp_Yisou",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xyq.jar"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"
         },	
-    
-	{
-       "key": "PanSearch",
-      "name": "📀盘Sea| 4K",
-      "type": 3,
-      "api": "csp_PanSearch",
-       "searchable": 1,
-	"quickSearch":1,
-	"filterable":1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
-    },
-	{
+		{
 	 "key": "七夜",
       "name": "😾七夜 | 4K",
       "type": 3,
@@ -118,10 +69,22 @@
 	"quickSearch":1,
 	"filterable":1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
+    },	
+
+{
+      "key": "PanSou",
+      "name": "🦊盘搜 | 4K",
+      "type": 3,
+      "api": "csp_PanSou",
+       "searchable": 1,
+	"quickSearch":1,
+	"filterable":1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
     },
-	{
+
+    	{
       "key": "UpYun",
-      "name": "☁Up搜 | 4K",
+      "name": "😻Up搜 | 4K",
       "type": 3,
       "api": "csp_UpYun",
        "searchable": 1,
@@ -129,81 +92,23 @@
 	"filterable":1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
     },
-		
-{
-            "key": "📀Gitcafe",
-            "name": "📀小纸条 | 4K",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xyq.jar"
-        },	
-{
-            "key": "📀csp_XYQHiker_盘搜索",
-            "name": "📀盘搜索| 4K",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/盘搜索.json",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xyq.jar"
-        },
 	{
-            "key": "📀csp_Upyunso5",
-            "name": "📀UP云搜| 4K",
-            "type": 3,
-            "api": "csp_Upyunso",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xyq.jar"
-        },
-  {
-            "key": "📀csp_XYQHiker_DOVX搜索",
-            "name": "📀DOVX| 4K",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/DOVX搜索.json",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/xyq.jar"
-        },
-	{
-            "key": "🐿阿里云盘7",
-            "name": "🐿阿里云盘| 4K",
-            "type": 3,
-            "api": "csp_Dovx",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/ali1191.jar"
-        },	
-	{
-            "key": "🐿纸条7",
-            "name": "🐿纸条搜索| 4K",
-            "type": 3,
-            "api": "csp_Paper",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/ali1191.jar"
-        },	
+       "key": "PanSearch",
+      "name": "🙀盘Sea| 4K",
+      "type": 3,
+      "api": "csp_PanSearch",
+       "searchable": 1,
+	"quickSearch":1,
+	"filterable":1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
+    },
+
 
 
   
 	{
         "key": "YiSo",
-      "name": "🆎易搜 | 4K",
+      "name": "😹易搜 | 4K",
       "type": 3,
       "api": "csp_YiSo",
        "searchable": 1,
