@@ -58,7 +58,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"
         },	
 		{
 	 "key": "七夜",
@@ -147,12 +147,7 @@
       "type": 0,
       "url": "https://www.pangujiexi.com/pangu/?url="
     },
-	
-{
-      "name": "好看",
-      "type": 0,
-      "url": "https://jx.haokantv.cyou/player/?url="
-    },
+
 	 {
       "name": "ckplayer",
       "type": 0,
