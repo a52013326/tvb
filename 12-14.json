@@ -11,10 +11,10 @@
     "logo":"https://epg.112114.xyz/logo/{name}.png"
   }],
   "sites":[
-       {"key":"影视","name":"🏠主页","type": 4,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1},
+       {"key":"影视","name":"影视仓","type": 4,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1},
 	  	      {
         "key": "豆瓣",
-        "name": "🐼┃豆瓣┃推荐",
+        "name": "🐼 | 豆瓣推荐",
         "type": 3,
         "api": "csp_DouDou",
         "searchable": 0,
@@ -23,7 +23,7 @@
       },
 	      {
       "key": "360yingshi",
-      "name": "🍑┃360影视┃官源 ",
+      "name": "🍑 | 360影视 ",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/360影视.js",
@@ -34,7 +34,7 @@
      },
     {
    "key": "js_菜狗",
-   "name": "🐶┃搜狗TV┃官源",
+   "name": "🐶 | 搜狗TV",
    "type": 3,"playerType":2,
    "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
    "searchable": 2,
@@ -44,28 +44,28 @@
     },
     {
       "key":"drpy_js_奇珍异兽",
-      "name":" 💝┃爱奇艺┃官源",
+      "name":" 💝 | 爱奇艺",
       "type":3,
       "api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
     },
    {
         "key": "drpy_js_腾云驾雾",
-        "name": "🐧┃腾讯视频┃官源",
+        "name": "🐧 | 腾讯视频",
         "type": 3,
         "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
         "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/腾云驾雾.js"
       },
 	       {
         "key": "drpy_js_百忙无果",
-        "name": "🍋┃芒果TV┃官源",
+        "name": "🍋 | 芒果TV",
         "type": 3,
         "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
         "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/百忙无果.js"
       },
 	       {
         "key": "drpy_js_优酷",
-        "name": "⛽┃优酷TV┃官源",
+        "name": "⛽ | 优酷TV",
         "type": 3,
         "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
         "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/优酷.js"
@@ -159,7 +159,7 @@
 	
 		 {"name":"🐧火花","type":1,"url":"https://api.huohua.vip/api/?key=xZ1ib7AmHKhjqKLhQb&url="},
 		{
-        "name": 🐧777"",
+        "name": "🐧777",
         "type": 0,
         "url": "https://jx.jsonplayer.com/player/?url="
       },	 
