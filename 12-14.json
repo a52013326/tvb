@@ -46,6 +46,9 @@
       "key":"drpy_js_奇珍异兽",
       "name":"💝┃ 爱奇艺 ",
       "type":3,
+	  "filterable": 1,
+		"quickSearch": 1,
+      "searchable": 1,
       "api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
     },
@@ -53,6 +56,9 @@
         "key": "drpy_js_腾云驾雾",
         "name": "🐧┃腾讯视频",
         "type": 3,
+			  "filterable": 1,
+		"quickSearch": 1,
+      "searchable": 1,
         "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
         "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/腾云驾雾.js"
       },
@@ -60,6 +66,9 @@
         "key": "drpy_js_百忙无果",
         "name": "🍋┃芒果视频",
         "type": 3,
+			  "filterable": 1,
+		"quickSearch": 1,
+      "searchable": 1,
         "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
         "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/百忙无果.js"
       },
@@ -67,6 +76,9 @@
         "key": "drpy_js_优酷",
         "name": "⛽┃优酷视频",
         "type": 3,
+			  "filterable": 1,
+		"quickSearch": 1,
+      "searchable": 1,
         "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
         "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/优酷.js"
       },
