@@ -14,7 +14,7 @@
        {"key":"影视","name":"影视仓","type": 4,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1},
 	  	      {
         "key": "豆瓣",
-        "name": "🐼 | 豆瓣推荐",
+        "name": "🐼┃豆瓣┃推荐",
         "type": 3,
         "api": "csp_DouDou",
         "searchable": 0,
@@ -23,7 +23,7 @@
       },
 	      {
       "key": "360yingshi",
-      "name": "🍑 | 360影视 ",
+      "name": "🍄┃360影视┃官源 ",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/360影视.js",
@@ -34,7 +34,7 @@
      },
     {
    "key": "js_菜狗",
-   "name": "🐶 | 搜狗TV",
+   "name": "🐶┃搜狗TV┃官源",
    "type": 3,"playerType":2,
    "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
    "searchable": 2,
@@ -44,28 +44,28 @@
     },
     {
       "key":"drpy_js_奇珍异兽",
-      "name":" 💝 | 爱奇艺",
+      "name":" 💝┃爱奇艺┃官源",
       "type":3,
       "api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
     },
    {
         "key": "drpy_js_腾云驾雾",
-        "name": "🐧 | 腾讯视频",
+        "name": "🐧┃腾讯视频┃官源",
         "type": 3,
         "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
         "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/腾云驾雾.js"
       },
 	       {
         "key": "drpy_js_百忙无果",
-        "name": "🍋 | 芒果TV",
+        "name": "🍋┃芒果TV┃官源",
         "type": 3,
         "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
         "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/百忙无果.js"
       },
 	       {
         "key": "drpy_js_优酷",
-        "name": "⛽ | 优酷TV",
+        "name": "⛽┃优酷TV┃官源",
         "type": 3,
         "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
         "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/优酷.js"
@@ -73,7 +73,7 @@
 	  
 	 {
             "key": "csp_WoGG",
-            "name": "👽玩偶 | 4K",
+            "name": "👽┃玩偶 4K",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
@@ -83,7 +83,7 @@
         },	
 		{
 	 "key": "七夜",
-      "name": "😾七夜 | 4K",
+      "name": "😾┃七夜 4K",
       "type": 3,
       "api": "csp_Dovx",
        "searchable": 1,
@@ -94,7 +94,7 @@
 
 {
       "key": "PanSou",
-      "name": "🦊盘搜 | 4K",
+      "name": "🦊┃盘搜 4K",
       "type": 3,
       "api": "csp_PanSou",
        "searchable": 1,
@@ -105,7 +105,7 @@
 
     	{
       "key": "UpYun",
-      "name": "😻Up搜 | 4K",
+      "name": "😻┃Up搜 4K",
       "type": 3,
       "api": "csp_UpYun",
        "searchable": 1,
@@ -115,7 +115,7 @@
     },
 	{
        "key": "PanSearch",
-      "name": "🙀盘Se| 4K",
+      "name": "🙀┃盘Se 4K",
       "type": 3,
       "api": "csp_PanSearch",
        "searchable": 1,
@@ -129,7 +129,7 @@
   
 	{
         "key": "YiSo",
-      "name": "😹易搜 | 4K",
+      "name": "😹┃易搜 4K",
       "type": 3,
       "api": "csp_YiSo",
        "searchable": 1,
