@@ -12,7 +12,7 @@
   }],
   "sites":[
        {"key":"影视","name":"影视仓","type": 4,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1},
-	  	      {
+	{
         "key": "豆瓣",
         "name": "🐼┃豆瓣推荐",
         "type": 3,
@@ -20,10 +20,10 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 0
-      },
-	      {
+       },
+     {
       "key": "360yingshi",
-      "name": "🍄┃ 360影视",
+      "name": "🐹┃ 360影视",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/360影视.js",
@@ -33,7 +33,7 @@
        "changeable": 1
      },
     {
-   "key": "js_菜狗",
+     "key": "js_菜狗",
    "name": "🐶┃搜狗视频",
    "type": 3,"playerType":2,
    "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
@@ -41,44 +41,44 @@
    "quickSearch": 0,
    "filterable": 0,
    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/菜狗.js"
-    },
-    {
+     },
+     {
       "key":"drpy_js_奇珍异兽",
-      "name":"💝┃ 爱奇艺 ",
+      "name":"🐨┃ 爱奇艺 ",
       "type":3,
-	  "filterable": 1,
-		"quickSearch": 1,
+      "filterable": 1,
+      "quickSearch": 1,
       "searchable": 1,
       "api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
-    },
-   {
+      },
+      {
         "key": "drpy_js_腾云驾雾",
         "name": "🐧┃腾讯视频",
         "type": 3,
-			  "filterable": 1,
-		"quickSearch": 1,
+	"filterable": 1,
+	"quickSearch": 1,
       "searchable": 1,
         "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
         "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/腾云驾雾.js"
-      },
-	       {
+       },
+      {
         "key": "drpy_js_百忙无果",
         "name": "🍋┃芒果视频",
         "type": 3,
-			  "filterable": 1,
-		"quickSearch": 1,
+	"filterable": 1,
+	"quickSearch": 1,
       "searchable": 1,
         "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
         "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/百忙无果.js"
       },
-	       {
+      {
         "key": "drpy_js_优酷",
         "name": "⛽┃优酷视频",
         "type": 3,
-			  "filterable": 1,
-		"quickSearch": 1,
-      "searchable": 1,
+	 "filterable": 1,
+	"quickSearch": 1,
+        "searchable": 1,
         "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
         "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/优酷.js"
       },
@@ -93,7 +93,7 @@
             "filterable": 1,
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"
         },	
-		{
+	{
 	 "key": "七夜",
       "name": "😾┃七夜 4K",
       "type": 3,
@@ -102,9 +102,9 @@
 	"quickSearch":1,
 	"filterable":1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
-    },	
+       },	
 
-{
+     {
       "key": "PanSou",
       "name": "🦊┃盘搜 4K",
       "type": 3,
@@ -113,9 +113,9 @@
 	"quickSearch":1,
 	"filterable":1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
-    },
+      },
 
-    	{
+      {
       "key": "UpYun",
       "name": "😻┃Up搜 4K",
       "type": 3,
@@ -124,7 +124,7 @@
 	"quickSearch":1,
 	"filterable":1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
-    },
+      },
 	{
        "key": "PanSearch",
       "name": "🙀┃盘Se 4K",
@@ -134,7 +134,7 @@
 	"quickSearch":1,
 	"filterable":1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
-    },
+     },
 
 
 
@@ -157,7 +157,7 @@
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=2409835&key=celqrswyAJLUWY0248&url="
     	},
-		{
+	{
 		 "name":"虾米","type":0,"url":"https://jx.xmflv.cc/?url="
 	 },
 	{"name":"南瓜","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
@@ -169,8 +169,8 @@
 		 "name":"夜幕","type":0,"url":"https://www.yemu.xyz/v/d.php?url="
 	 },
 	
-		 {"name":"🐧火花","type":1,"url":"https://api.huohua.vip/api/?key=xZ1ib7AmHKhjqKLhQb&url="},
-		{
+	 {"name":"🐧火花","type":1,"url":"https://api.huohua.vip/api/?key=xZ1ib7AmHKhjqKLhQb&url="},
+	{
         "name": "🐧777",
         "type": 0,
         "url": "https://jx.jsonplayer.com/player/?url="
@@ -185,12 +185,12 @@
       "name": "️盘古",
       "type": 0,
       "url": "https://www.pangujiexi.com/pangu/?url="
-    },
- {
+       },
+ 	 {
         "name": "playm3u8",
         "type": 0,
         "url": "https://www.8090g.cn/?url="
-      },
+        },
 	 {
       "name": "ckplayer",
       "type": 0,
@@ -202,9 +202,6 @@
       }
     },
 
-
-	
-	 
 	{
 		"name": " OVER",
 		"type": 0,
