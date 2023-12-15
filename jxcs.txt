@@ -100,7 +100,7 @@
 		
 	{
       "name": "aiu6",
-      "type": 0,
+      "type": 1,
       "url": "https://bf.aiu6.cn/?url=",
       "ext": {
         "header": {
