@@ -65,59 +65,59 @@
 
 		 {
         "name": "ddcys",
-        "type": 0,
+        "type": 1,
         "url": "http://sf.ddcys.com/JSON/json.php/?url="
         },
 		
 			 {
         "name": "爱酷119",
-        "type": 0,
+        "type": 1,
         "url": "https://api.json.icu/api/?key=11965352ced89ffc3137ec658c22848f&url="
         },
 		
 			 {
         "name": "爱酷685",
-        "type": 0,
+        "type": 1,
         "url": "https://api.json.icu/api/?key=685c4b87623dbd3f2b85f5339a146ce9&url="
         },
 		
 		
 			 {
         "name": "爱酷c60",
-        "type": 0,
+        "type": 1,
         "url": "https://api.json.icu/api/?key=c60086bb91997b98358194263f13e670&url="
         },
 		
 		
 			 {
         "name": "玩偶",
-        "type": 0,
+        "type": 1,
         "url": "http://api.888484.xyz/%E7%A5%9E%E7%A7%98%E5%93%A5%E5%93%A5/super.php?v="
         },
 		
 		
 			 {
         "name": "乌贼",
-        "type": 0,
+        "type": 1,
         "url": "https://wuzei.serv00.net/jx/hx.php?url="
         },
 		
 		
 			 {
         "name": "星域解析",
-        "type": 0,
+        "type": 1,
         "url": "https://bf.aiu6.cn/?url="
         },
 		
 			 {
         "name": "星域解析",
-        "type": 0,
+        "type": 1,
         "url": "https://bf.aiu6.cn/jxplayer.php?v="
         },
 		
 			 {
         "name": "爱酷7K",
-        "type": 0,
+        "type": 1,
         "url": "https://api.jsdu.cn/api/?key=7KdQDFLcmUnNN6uqRL&url="
         },
 		
