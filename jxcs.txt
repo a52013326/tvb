@@ -75,12 +75,7 @@
         "url": "https://api.json.icu/api/?key=11965352ced89ffc3137ec658c22848f&url="
         },
 		
-			 {
-        "name": "爱酷685",
-        "type": 1,
-        "url": "https://api.json.icu/api/?key=685c4b87623dbd3f2b85f5339a146ce9&url="
-        },
-		
+
 		
 			 {
         "name": "爱酷c60",
@@ -103,23 +98,27 @@
         },
 		
 		
-			 {
-        "name": "星域解析",
-        "type": 1,
-        "url": "https://bf.aiu6.cn/?url="
-        },
-		
-			 {
-        "name": "星域解析",
-        "type": 1,
-        "url": "https://bf.aiu6.cn/jxplayer.php?v="
-        },
-		
-			 {
-        "name": "爱酷7K",
-        "type": 1,
-        "url": "https://api.jsdu.cn/api/?key=7KdQDFLcmUnNN6uqRL&url="
-        },
+	{
+      "name": "aiu6",
+      "type": 0,
+      "url": "https://bf.aiu6.cn/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+	
+	{
+      "name": "aiu66",
+      "type": 0,
+      "url": "https://bf.aiu6.cn/jxplayer.php?v=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
 		
 	 
 	{
