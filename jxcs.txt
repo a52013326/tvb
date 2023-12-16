@@ -13,19 +13,9 @@
   "sites":[
        {"key":"影视","name":"🏠影视推荐","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
 	  	
-    {
-   "key": "js_菜狗",
-   "name": "🐶搜狗视频",
-   "type": 3,"playerType":2,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/caigou.js"
-    },
-    {
+   {
       "key": "360yingshi",
-      "name": "🐹 360影视 ",
+      "name": "🐹┃ 360影视",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/360影视.js",
@@ -35,13 +25,40 @@
        "changeable": 1
      },
     {
+     "key": "js_菜狗",
+   "name": "🐶┃搜狗视频",
+   "type": 3,"playerType":2,
+   "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/菜狗.js"
+     },
+     {
       "key":"drpy_js_奇珍异兽",
-      "name":" 🌳 爱奇艺",
+      "name":"🐨┃ 爱奇艺 ",
       "type":3,
       "api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
-    },
-  
+      },
+      {
+        "key": "drpy_js_腾云驾雾",
+        "name": "🐧┃腾讯视频",
+        "type": 3,
+        "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/腾云驾雾.js"
+       },
+      {
+        "key": "drpy_js_百忙无果",
+        "name": "🍋┃芒果视频",
+        "type": 3,
+        "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/百忙无果.js"
+      },
+      {
+        "key": "drpy_js_优酷",
+        "name": "⛽┃优酷视频",
+        "type": 3,
+        "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/优酷.js"
+      },
 	
   
 	{
@@ -96,8 +113,25 @@
         "type": 1,
         "url": "https://wuzei.serv00.net/jx/hx.php?url="
         },
-		
-		
+	 {
+		 "name":"乐酷蓝光","type":1,"url":"https://yinshi.eatuo.com/index.php/mvod/jx2?url="
+	 },
+
+ {
+		 "name":"至圣云","type":1,"url":"http://jx.zsygzs.top/api/?key=N9eoGhBU3NWPUWQcxH&url="
+	 },
+
+	{
+      "name": "️解析2",
+      "type": 0,
+      "url": "https://www.pangujiexi.com/pangu/?url="
+    },
+	
+{
+      "name": "解析21",
+      "type": 0,
+      "url": "https://jx.haokantv.cyou/player/?url="
+    },	
 	{
       "name": "aiu6",
       "type": 0,
