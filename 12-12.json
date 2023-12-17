@@ -137,7 +137,11 @@
   ],
 "parses": [
     	{"name":"聚合解析","type":3,"url":"Demo"},
-	
+	{
+      "name": "小鱼之家",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=bcdstvxADFJLRW0279&url="
+    },
 	 {
       "name": "小鱼解析",
       "type": 1,
