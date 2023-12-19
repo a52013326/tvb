@@ -112,7 +112,7 @@
 
 		 {
         "name": "优乐视",
-        "type": 1,
+        "type": 0,
         "url": "https://www.youleshi.cn/player/?url="
         },
 		
@@ -126,14 +126,14 @@
 		
 			 {
         "name": "追影",
-        "type": 1,
+        "type": 0,
         "url": "https://yinshi.eatuo.com/index.php/mvod/jx2?url="
         },
 		
 		
 			 {
         "name": "茶语",
-        "type": 1,
+        "type": 0,
         "url": "http://authi.cnlav.cn/home/api?type=ys&uid=5223572&key=cefgloyFHMORXY0468&url="
         },
 		
