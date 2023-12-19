@@ -158,7 +158,7 @@
         "url": "https://www.youleshi.cn/player/?url="
         },
 	{
-      "name": "茶语2",
+      "name": "茶语",
       "type": 1,
       "url": "http://authi.cnlav.cn/home/api?type=ys&uid=5223572&key=cefgloyFHMORXY0468&url=",
       "ext": {
@@ -195,36 +195,6 @@
 	 {"name":"乐酷蓝光","type":1,"url":"https://yinshi.eatuo.com/index.php/mvod/jx2?url="},
 	 {"name":"火花","type":1,"url":"https://api.huohua.vip/api/?key=xZ1ib7AmHKhjqKLhQb&url="},
 	 {"name":"至圣云","type":1,"url":"http://jx.zsygzs.top/api/?key=N9eoGhBU3NWPUWQcxH&url="},
-	{ "name": "乌贼","type": 1,"url": "https://wuzei.serv00.net/jx/hx.php?url="},
-	{
-        "name": "ddcys",
-        "type": 1,
-        "url": "http://sf.ddcys.com/JSON/json.php/?url="
-        },
-	
-	{
-      "name": "aiu6",
-      "type": 0,
-      "url": "https://bf.aiu6.cn/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },
-	 {
-        "name": "爱酷119",
-        "type": 1,
-        "url": "https://api.json.icu/api/?key=11965352ced89ffc3137ec658c22848f&url="
-        },
-	{
-        "name": "爱酷c60",
-        "type": 1,
-        "url": "https://api.json.icu/api/?key=c60086bb91997b98358194263f13e670&url="
-        },
-	
-	
-
 	
 	{"name":"南瓜","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 
