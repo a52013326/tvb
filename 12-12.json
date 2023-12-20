@@ -138,20 +138,27 @@
 "parses": [
     	{"name":"聚合解析","type":3,"url":"Demo"},
 	{
-      "name": "小鱼之家",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=bcdstvxADFJLRW0279&url="
-    },
-	 {
-      "name": "小鱼解析",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=12177641&key=bcfiovwCGJQSW23478&url="
-    	},
+        "name": "米菜",
+        "type": 1,
+        "url": "https://daina.hk/api/?key=16d8883cfbfc0b8a7d7221c83806dc70&url="
+        },
 	{
         "name": "飞云",
         "type": 1,
         "url": "https://daina.hk/api/?key=e1e84ecae847b6e4a1a27fd4611f45f5&url="
         },
+	{
+      "name": "小鱼解析",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=12177641&key=bcfiovwCGJQSW23478&url="
+    	},
+	{
+      "name": "小鱼之家",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=bcdstvxADFJLRW0279&url="
+   	 },
+	 
+	
 	{
         "name": "优乐视",
         "type": 0,
