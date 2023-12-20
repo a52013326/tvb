@@ -67,7 +67,8 @@
         "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
         "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/优酷.js"
       },
-	  {"key":"csp_Cs1369","name":"🎏┃996影视"，"type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+	  {"key":"csp_Cs1369","name":"🎏┃996影视","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+	 
 {
 "key":"csp_qiao_侠客_QJ",
 "name":"🦁┃侠 客 ",
