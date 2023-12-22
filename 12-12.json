@@ -70,7 +70,7 @@
 	  {"key":"996影视","name":"🎏┃996影视","type":3,"viewType": 1,"api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/369影视.js"},
 	
 	{"key":"巧技一","name":"🤖┃ 巧技一","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/qiaoji1.js","jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32"},
-	{"key":"巧技二","name":"🤖┃ 巧技二","type":3,"api":"csp_qiao2"，"playerType":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/qiaoji2.js","jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32"},
+	
 	{"key":"巧技三","name":"🤖┃ 巧技三","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/qiaoji3.js","jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32"},
 
 	  {"key": "超神","name": "🤖┃超神巧技","type": 3,"api": "csp_qiao","searchable": 1,"quickSearch": 1,"playerType": 2,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/chaoshen.js","jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"},
