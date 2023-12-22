@@ -199,28 +199,19 @@
         "type": 1,
         "url": "https://daina.hk/api/?key=e1e84ecae847b6e4a1a27fd4611f45f5&url="
         },
-		
-		{
-        "name": "饭盘",
-        "type": 0,
-        "url": "http://vip.u4t.cn:93/api/?key=lmzskmaRsI0ajwnQYh&url="
-	 "ext": {"header": { "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }		
-        },
-			{
+	
+	{
         "name": "快鹰",
         "type": 1,
         "url": "https://sp.huihuidns.cn/api/?key=HjBX5MmpOe3OEr5V8B&url="
-				      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
         },
-	
-	
-	
+		
+		{
+        "name": "饭盘",
+        "type": 1,
+        "url": "http://vip.u4t.cn:93/api/?key=lmzskmaRsI0ajwnQYh&url="
+        },
+
 	
 	{
         "name": "优乐视",
