@@ -70,8 +70,8 @@
 	  {"key":"996影视","name":"🎏┃996影视","type":3,"viewType": 1,"api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/369影视.js"},
 	
 	{"key":"巧技一","name":"🤖┃ 巧技一","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/qiaoji1.js","jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32"},
-	{"key":"巧技二","name":"🤖┃ 巧技二","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/qiaoji2.js","jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32"},
-	{"key":"巧技三","name":"🤖┃ 巧技三","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/qiaoji3.js","jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32"},
+	//{"key":"巧技二","name":"🤖┃ 巧技二","type":3,"api":"csp_qiao2"，"playerType":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/qiaoji2.js","jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32"},
+	//{"key":"巧技三","name":"🤖┃ 巧技三","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/qiaoji3.js","jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32"},
 
 	  {"key": "超神","name": "🤖┃超神巧技","type": 3,"api": "csp_qiao","searchable": 1,"quickSearch": 1,"playerType": 2,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/chaoshen.js","jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"},
 
@@ -154,24 +154,7 @@
         "type": 1,
         "url": "https://daina.hk/api/?key=e1e84ecae847b6e4a1a27fd4611f45f5&url="
         },
-	{
-      "name": "小鱼解析",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=12177641&key=bcfiovwCGJQSW23478&url="
-    	},
-	{
-      "name": "小鱼之家",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=bcdstvxADFJLRW0279&url="
-   	 },
-	 
-	
-	{
-        "name": "优乐视",
-        "type": 0,
-        "url": "https://www.youleshi.cn/player/?url="
-        },
-	{
+		 {
       "name": "茶语",
       "type": 1,
       "url": "http://authi.cnlav.cn/home/api?type=ys&uid=5223572&key=cefgloyFHMORXY0468&url=",
@@ -206,6 +189,35 @@
         ]
       }
     },
+		{
+        "name": "饭盘",
+        "type": 1,
+        "url": "http://vip.u4t.cn:93/api/?key=lmzskmaRsI0ajwnQYh&url="
+        },
+			{
+        "name": "快鹰",
+        "type": 1,
+        "url": "https://sp.huihuidns.cn/api/?key=HjBX5MmpOe3OEr5V8B&url="
+        },
+	{
+      "name": "小鱼解析",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=12177641&key=bcfiovwCGJQSW23478&url="
+    	},
+	{
+      "name": "小鱼之家",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=bcdstvxADFJLRW0279&url="
+   	 },
+	
+	
+	
+	{
+        "name": "优乐视",
+        "type": 0,
+        "url": "https://www.youleshi.cn/player/?url="
+        },
+	
 	 {"name":"乐酷蓝光","type":1,"url":"https://yinshi.eatuo.com/index.php/mvod/jx2?url="},
 	 {"name":"火花","type":1,"url":"https://api.huohua.vip/api/?key=xZ1ib7AmHKhjqKLhQb&url="},
 	 {"name":"至圣云","type":1,"url":"http://jx.zsygzs.top/api/?key=N9eoGhBU3NWPUWQcxH&url="},
