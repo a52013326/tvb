@@ -191,6 +191,11 @@
       }
     },
 	{
+        "name": "优乐视",
+        "type": 0,
+        "url": "https://www.youleshi.cn/player/?url="
+        },
+	{
         "name": "快鹰",
         "type": 1,
         "url": "https://sp.huihuidns.cn/api/?key=HjBX5MmpOe3OEr5V8B&url="
@@ -205,17 +210,6 @@
         "type": 1,
         "url": "https://daina.hk/api/?key=16d8883cfbfc0b8a7d7221c83806dc70&url="
         },
-	{
-        "name": "优乐视",
-        "type": 1,
-        "url": "https://www.youleshi.cn/player/?url="
-        },
-	
-	{
-        "name": "饭盘",
-        "type": 1,
-        "url": "http://vip.u4t.cn:93/api/?key=lmzskmaRsI0ajwnQYh&url="
-        }, 
 	
 	
 	
