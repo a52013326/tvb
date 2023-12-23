@@ -219,35 +219,18 @@
         "name": "飞云",
         "type": 1,
         "url": "https://daina.hk/api/?key=e1e84ecae847b6e4a1a27fd4611f45f5&url="
-	 "ext": {
-        "flag": [
-          "FYNB"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }	
         },
 	{
         "name": "米菜",
         "type": 1,
         "url": "https://daina.hk/api/?key=16d8883cfbfc0b8a7d7221c83806dc70&url="
-		 "ext": {
-        "flag": [
-          "FYNB"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
         },
 	
 	
 	{
         "name": "快鹰",
         "type": 1,
-        "url": "https://sp.huihuidns.cn/api/?key=HjBX5MmpOe3OEr5V8B&url="
-		
+        "url": "https://sp.huihuidns.cn/api/?key=HjBX5MmpOe3OEr5V8B&url="	
         },
 	
 	
