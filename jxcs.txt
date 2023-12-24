@@ -63,14 +63,7 @@
 "parses": [
     	{"name":"🚀聚合解析","type":3,"url":"Demo"},
 	
-    {
-        "name": "彩虹11",
-        "type": 1, 
-        "url": "http://json.84jia.com/home/api?type=ys&uid=13135206&key=aefmnsABDHIJMSVY08&url=",
-        "ext": {
-			"flag": ["qq","腾讯","qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}    
-    },
+  
 	
 	 {
       "name": "动画片",
@@ -103,7 +96,7 @@
         ]  }},   
 		
 	{"name":"优乐视","type":0,"url":"https://www.youleshi.cn/player/?url=","ext":{"flag":["canglan"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"星域","type":0,"url":"https://bf.aiu6.cn/jxplayer.php?v=","ext":{"flag":["canglan"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"星域","type":0,"url":"https://bf.aiu6.cn/?url=","ext":{"flag":["canglan"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {
       "name": "小城解析",
       "type": 1,
@@ -134,7 +127,7 @@
     },
 {
       "name": "快鹰",
-      "type": 0,
+      "type": 1,
       "url": "https://sp.huihuidns.cn/api/?key=HjBX5MmpOe3OEr5V8B&url="
     },
 
