@@ -62,51 +62,10 @@
   ],
 "parses": [
     	{"name":"🚀聚合解析","type":3,"url":"Demo"},
-	{
-        "name": "彩虹",
-        "type": 1, 
-        "url": "https://api.jsdu.cn:8999/api/?key=XrHZR1SEA4BagkHJrj&url=",
-        "ext": {
-			"flag": ["qq","腾讯","qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}    
-    },
-     {
-      "name": "云边解析1",
-      "type": 1,
-      "url": "https://api.jsdu.cn:8999/api/?key=TSP39sAYglNJLPSniO&url="
-    },	
-     {
-      "name": "云边解析2",
-      "type": 1,
-      "url": "https://api.jsdu.cn:8999/api/?key=zc2t4VEAWcxT01qTX0&url="
-    },
-     {
-      "name": "云边解析3",
-      "type": 1,
-      "url": "https://api.jsdu.cn:8999/api/?key=RJJGO4Tc1f3uET0Dl7&url="
-    },	  
-    {
-      "name": "云边解析4",
-      "type": 1,
-      "url": "https://api.jsdu.cn:8999/api/?key=sdGTykovRbIqAC6qme&url="
-    },
-     {
-      "name": "云边解析5",
-      "type": 1,
-      "url": "https://api.jsdu.cn:8999/api/?key=nb1cOstLOjdbndjcht&url="
-    },
-      {
+	 {
       "name": "分享智能2",
       "type": 1,
       "url": "https://jx.shaoze.xyz/web/json?token=5201340&url="},
-       {
-        "name": "彩虹11",
-        "type": 1, 
-        "url": "http://json.84jia.com/home/api?type=ys&uid=13135206&key=aefmnsABDHIJMSVY08&url=",
-        "ext": {
-			"flag": ["qq","腾讯","qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}    
-    },		
       {
   "name": "分享聚合", 
   "type": 1, "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="},  
@@ -126,42 +85,45 @@
         ]
       }
     },
-    
+    {
+        "name": "彩虹",
+        "type": 1, 
+        "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url=",
+        "ext": {
+			"flag": ["qq","腾讯","qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		}    
+    },		   
      {
       "name": "官解2",
       "type": 1,
-      "url": "https://api.jsdu.cn:8999/api/?key=ncLuB8Z62rW2kwTuF7&url="
+      "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
     },
-    {
+     {
       "name": "小鱼解析1",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=12177641&key=bcfiovwCGJQSW23478&url="
     },
     {
-      "name": "小城解析11",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=12417785&key=bcejkpyDLOPQTYZ149&url="
-    },
-    {
       "name": "小城解析",
       "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=12426140&key=cgklnsDHIKLNTV0128&url="
+      "url": "http://json.84jia.com/home/api?type=ys&uid=9522100&key=iqrtxAEJLMNVWXY289&url="
     },
      {
       "name": "小新解析",
       "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=12437834&key=abchpswxyAHIJMOT01&url="
+      "url": "http://json.84jia.com/home/api?type=ys&uid=9535639&key=cikoqtuvBFGWXY1267&url="
+    },
+	{
+      "name": "小陈解析",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=9562819&key=abdqwxDEHKLQRUWZ69&url="
     },
     {
       "name": "小鱼解析",
       "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=12446980&key=aehoqruBDGKTU23678&url="
+      "url": "http://json.84jia.com/home/api?type=ys&uid=9552259&key=mrsvyBCDFILMOWZ289&url="
     },
- {
-      "name": "动画片",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=5223550&key=defotCEIJKOPSUYZ67&url="
-    },
+ 
      {
       "name": "自动解析",
       "type": 1,
@@ -196,9 +158,9 @@
             "url": "https://jxjson.cf/json.php?url=",
             "ext": {
                 "flag": [
-                      "qq",
-          "mgtv",
-          "YuMi-vip"
+                    "qiqi-",
+                    "YuMi",
+                    "YuMi-vip"
                 ]
             }
         },
@@ -206,7 +168,7 @@
     {
       "name": "夜曲解析",
       "type": 1,
-      "url": "https://api.jsdu.cn:8999/api/?type=diy&key=XrHZR1SEA4BagkHJrj&url=",
+      "url": "http://xhww.fun:63/小米特别爱肥猫.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -246,7 +208,7 @@
      {
       "name": "茶桶1解析",
       "type": 1,
-      "url": "http://authi.cnlav.cn/home/api?type=ys&uid=5466674&key=deglptABLMSVZ12346&url=",
+      "url": "http://119.91.123.253:1234/Api/cs.php?url=",
       "ext": {
         "flag": [
           "qiyi",
