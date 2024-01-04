@@ -150,44 +150,11 @@
 	{
       "name": "小鱼之家",
       "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=bcdstvxADFJLRW0279&url="
+      "url": "http://jx.meowtv.cn/?url="
    	 },
-	{
-      "name": "茶语",
-      "type": 1,
-      "url": "http://authi.cnlav.cn/home/api?type=ys&uid=5223572&key=cefgloyFHMORXY0468&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
-          "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
-      }
-    },
-	 
+	
+	 {"name":"ovvo","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
+	 {"name":"playm3u8","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url="},
 		
 	{"name":"优乐视","type":0,"url":"https://www.youleshi.cn/player/?url=","ext":{"flag":["canglan"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
