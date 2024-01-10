@@ -76,6 +76,7 @@
 
 	  {"key": "超神","name": "🤖┃超神巧技","type": 3,"api": "csp_qiao","searchable": 1,"quickSearch": 1,"playerType": 2,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/chaoshen.js","jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"},
 
+
 	 {
             "key": "csp_WoGG",
             "name": "👽┃玩偶 4K",
@@ -84,8 +85,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"
         },	
+
 	{
 	 "key": "七夜",
       "name": "😾┃七夜 4K",
