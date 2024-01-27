@@ -1,10 +1,10 @@
 {
- "spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/custom_spider.jar;md5;5543dae038ce2248e7759e9cbca295b9",
+ "spider":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/custom_spider.jar;md5;5543dae038ce2248e7759e9cbca295b9",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives":[{
     "name":"live",
     "type":0,
-	"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/03.txt", 
+	"url": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/03.txt", 
     "playerType":1,
     "ua":"okhttp/3.12.13",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
@@ -31,13 +31,13 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$https://wogg.xyz/$$$关"},
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$https://wogg.xyz/$$$关"},
      {
       "key": "360yingshi",
       "name": "🐹┃ 360影视",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/360影视.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/360影视.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -47,24 +47,24 @@
      "key": "js_菜狗",
    "name": "🐶┃搜狗视频",
    "type": 3,"playerType":2,
-   "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-   "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/菜狗.js"
+   "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/菜狗.js"
      },
      {
       "key":"drpy_js_奇珍异兽",
       "name":"🐨┃ 爱奇艺 ",
       "type":3,
-      "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
+      "api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
       },
      
+	{"key":"巧技一","name":"🤖┃ 巧技一","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/qiaoji1.js","jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32"},
 	
+	{"key":"巧技二","name":"🤖┃ 巧技二","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/qiaoji2.js","jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32"},
 	
-	{"key":"巧技二","name":"🤖┃ 巧技二","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/qiaoji2.js","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32"},
+{"key":"巧技三","name":"🤖┃ 巧技三","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/qiaoji3.js","jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32"},
 	
-
-	
-
+  {"key": "超神","name": "🤖┃超神巧技","type": 3,"api": "csp_qiao","searchable": 1,"quickSearch": 1,"playerType": 2,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/chaoshen.js","jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"},
 	
 
 	{
@@ -75,7 +75,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
        },	
 
      {
@@ -86,7 +86,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
       },
 
       {
@@ -97,7 +97,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
       },
 	{
        "key": "PanSearch",
@@ -107,7 +107,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
      },
 
 
@@ -121,7 +121,7 @@
        "searchable": 1,
 	"quickSearch":1,
 	"filterable":1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
     }
   ],
 "parses": [
