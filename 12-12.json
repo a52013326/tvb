@@ -58,13 +58,12 @@
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
       },
      
-	{"key":"巧技一","name":"🤖┃ 巧技一","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/qiaoji1.js","jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32"},
 	
 	{"key":"巧技二","name":"🤖┃ 巧技二","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/qiaoji2.js","jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32"},
 	
-{"key":"巧技三","name":"🤖┃ 巧技三","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/qiaoji3.js","jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32"},
+{"key":"天天","name":"天天┃App","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn","jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"},
 	
-  {"key": "超神","name": "🤖┃超神巧技","type": 3,"api": "csp_qiao","searchable": 1,"quickSearch": 1,"playerType": 2,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/chaoshen.js","jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"},
+  {"key": "星星","name": "星星┃App","type": 3,"api": "csp_qiao","searchable": 2,"quickSearch": 1,"playerType": 2,"filterable": 1,"ext": "https://jihulab.com/qiaoji/open/-/raw/main/xingxing","jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"},
 	
 
 	{
@@ -132,26 +131,13 @@
       "type": 1,
       "url": "http://jx.meowtv.cn/?url="
    	 },
-	
+		{"name":"虾米","type":0,"url":"https://jx.xmflv.cc/?url="},
+			{"name":"M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}, 
 	 {"name":"ovvo","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
 	 {"name":"playm3u8","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url="},
 		
-	{"name":"优乐视","type":0,"url":"https://www.youleshi.cn/player/?url=","ext":{"flag":["canglan"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+	
 
-	{
-        "name": "米菜",
-        "type": 1,
-        "url": "https://daina.hk/api/?key=16d8883cfbfc0b8a7d7221c83806dc70&url="
-        },
-	
-	 {"name":"初恋云","type":1,"url":"https://json.oorl.cn/api/?key=eSLoYQHhRgTTdmXamH&url="},
-	{
-        "name": "快鹰",
-        "type": 1,
-        "url": "https://sp.huihuidns.cn/api/?key=HjBX5MmpOe3OEr5V8B&url="	
-        },
-	
-	
 	
 	 {"name":"乐酷蓝光","type":1,"url":"https://yinshi.eatuo.com/index.php/mvod/jx2?url="},
 	 {"name":"火花","type":1,"url":"https://api.huohua.vip/api/?key=xZ1ib7AmHKhjqKLhQb&url="},
@@ -159,9 +145,8 @@
 	
 	{"name":"南瓜","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 
-	{"name":"虾米","type":0,"url":"https://jx.xmflv.cc/?url="},
 	
-	{"name":"M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}, 
+
 	 {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/v/d.php?url="},
 	
 		 
