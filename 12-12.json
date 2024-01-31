@@ -58,15 +58,36 @@
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
       },
      
+	{
+	"key":"巧技二",
+	"name":"🤖┃ 巧技二",
+	"type":3,
+	"api":"csp_qiao2",
+	"playerType":1,
+	"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/qiaoji2.js",
+	"jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32"
+	},
 	
-	{"key":"巧技二","name":"🤖┃ 巧技二","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/qiaoji2.js","jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32"},
+	{
+	"key":"天天",
+	"name":"天天┃App",
+	"type":3,
+	"api":"csp_TTian",
+	"playerType":2,
+	"ext":"http://op.ysdqjs.cn",
+	"jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"
+	},
 	
-{"key":"天天","name":"天天┃App","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn","jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"},
-	
-{"key":"巧技三","name":"🤖┃ 巧技三","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/qiaoji3.js","jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"},
+	{
+	"key":"巧技三",
+	"name":"🤖┃ 巧技三",
+	"type":3,
+	"api":"csp_qiao2",
+	"playerType":1,
+	"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/qiaoji3.js",
+	"jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"
+	},
 
-	  {"key": "超神","name": "🤖┃超神巧技","type": 3,"api": "csp_qiao","searchable": 1,"quickSearch": 1,"playerType": 2,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/chaoshen.js","jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"},
-	
 
 	{
 	 "key": "七夜",
