@@ -147,7 +147,10 @@
     }
   ],
 "parses": [
-    	
+    	{"name":"虾米","type":0,"url":"https://jx.xmflv.cc/?url="},
+			{"name":"M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}, 
+	 {"name":"ovvo","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
+	 {"name":"playm3u8","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url="},
 	{"name":"夜幕","type":0,"url":"https://www.yemu.xyz/v/d.php?url="},
 	{
         "name": "8090g",
@@ -164,10 +167,7 @@
         }
       }
     },
-	{"name":"虾米","type":0,"url":"https://jx.xmflv.cc/?url="},
-			{"name":"M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}, 
-	 {"name":"ovvo","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
-	 {"name":"playm3u8","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url="},
+	
 	
 	{"name":"南瓜","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 	
