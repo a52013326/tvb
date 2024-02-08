@@ -88,7 +88,7 @@
 	"jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"
 	},
 
-{"key":"csp_SC1080_QJ","name":"时常影视(SP)","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+
 {
 "key":"星星",
 "name":"✨星星",
@@ -97,18 +97,10 @@
 "playerType":2,
 "ext":"https://agit.ai/abkier/PizazzGY/raw/branch/main/EXT/%E6%98%9F%E6%98%9F"
 },
- {
- "key":"csp_qiao2_巧技一",
- "name":" 🌑巧一",
- "type":3,
- "api":"csp_qiao2",
- "jar": " https://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/fix12210.jar",
- "playerType":2,
- "ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"
- },
+
  {
  "key":"影视车",
- "name":"🐻‍❄️影视车┃4K",
+ "name":"🐻‍❄影视车┃4K",
  "type":3,
  "api":"csp_Wogg",
  "quickSearch":1,
@@ -119,15 +111,6 @@
  "jar":"https://notabug.org/PG/S/raw/master/jar/pg.jar;md5;751caf85698244b0665fe3717c363ce0"
  },
 
-{
-"key":"csp_WoGGpg",
-"name":"😼玩偶(pg)┃4K",
-"type":3,"api":"csp_Wogg",
-"quickSearch":1, "changeable":1,
- "filterable":1, "timeout":30,
- "ext":"https://notabug.org/PG/S/raw/master/jar/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./json/wogg.json",
- "jar":"https://notabug.org/PG/S/raw/master/jar/pg.jar;md5;751caf85698244b0665fe3717c363ce0"
- },
 {
 "key":"csp_Wobg",
 "name":"😼玩偶(bg)┃4K",
@@ -194,11 +177,47 @@
     }
   ],
 "parses": [
+	{"name":"聚合解析","type":3,"url":"Demo"},
     	{
       "name": "小鱼解析",
       "type": 1,
       "url": "http://jx.meowtv.cn/?url="
-    	},
+   	 },
+	{"name":"虾米","type":0,"url":"https://jx.xmflv.cc/?url="},
+			{"name":"M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}, 
+	{"name":"夜幕","type":0,"url":"https://www.yemu.xyz/v/d.php?url="},
+	 {"name":"ovvo","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
+	 {"name":"playm3u8","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url="},
+
+		 
+	{
+      "name": "西瓜视频",
+      "type":1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
+    },
+	
+	{
+      "name": "️盘古",
+      "type": 0,
+      "url": "https://www.pangujiexi.com/pangu/?url="
+       },
+	
+	
+ 	 {
+        "name": "8090g",
+        "type": 0,
+        "url": "https://www.8090g.cn/?url="
+        },
+	 {
+      "name": "ckplayer",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
 	{
 		"name": " OVER",
 		"type": 0,
