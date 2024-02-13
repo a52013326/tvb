@@ -23,15 +23,6 @@
         "filterable": 0
        },
 	  
-	 {
-            "key": "csp_WoGG",
-            "name": "👽┃玩偶 4K",
-            "type": 3,
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$https://wogg.xyz/$$$关"},
      {
       "key": "360yingshi",
       "name": "🐹┃ 360影视",
@@ -57,7 +48,14 @@
       "api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
       },
-     
+      {
+        "key": "drpy_js_百忙无果",
+        "name": "🍋┃芒果视频",
+        "type": 3,
+        "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/百忙无果.js"
+      },
+	  
 	{
 	"key":"巧技二",
 	"name":"🤖┃ 巧技二",
@@ -97,28 +95,27 @@
 "playerType":2,
 "ext":"https://agit.ai/abkier/PizazzGY/raw/branch/main/EXT/%E6%98%9F%E6%98%9F"
 },
-
- {
- "key":"影视车",
- "name":"🐻‍❄影视车┃4K",
- "type":3,
- "api":"csp_Wogg",
- "quickSearch":1,
- "changeable":1, 
- "filterable":1, 
- "timeout":30, 
- "ext":"https://notabug.org/PG/S/raw/master/jar/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./json/wogg.json",
- "jar":"https://notabug.org/PG/S/raw/master/jar/pg.jar;md5;751caf85698244b0665fe3717c363ce0"
- },
-
 {
-"key":"csp_Wobg",
-"name":"😼玩偶(bg)┃4K",
-"type":3,"api":"csp_Wobg",
-"searchable":1,"quickSearch":1,
-"changeable":1,"ext":"https://notabug.org/PG/S/raw/master/jar/tokenm.json$$$https://wobge.run.goorm.io",
-"timeout":30,"jar":"https://notabug.org/PG/S/raw/master/jar/pg.jar;md5;751caf85698244b0665fe3717c363ce0"
+	"key":"csp_AppSK_虾米",
+	"name":" 😻┃虾米APP",
+	"type":3,
+	"api":"csp_AppSK",
+	"searchable":1,
+	"quickSearch":1,
+	"changeable":1,
+	"ext":"FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="
 },
+{
+            "key": "csp_WoGG",
+            "name": "👽┃玩偶 4K",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$https://wogg.xyz/$$$关"
+      },
+
 	{
 	 "key": "七夜",
       "name": "😾┃七夜 4K",
