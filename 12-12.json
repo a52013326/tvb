@@ -43,7 +43,7 @@
      },
      {
       "key":"drpy_js_奇珍异兽",
-      "name":"🐨┃ 爱奇艺 ",
+      "name":"🐨┃奇艺视频",
       "type":3,
       "api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
@@ -85,8 +85,28 @@
 	"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/qiaoji3.js",
 	"jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"
 	},
-
-
+	  
+{"key":"csp_AppSK_虾米","name":" 🧊虾米(APPSK)","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="},
+	    {
+      "key": "影视五",
+      "name": "💘无意┃影视",
+      "type": 3,
+      "api": "csp_Movie2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/Movie5.json",
+      "jar": "http://www.wya6.cn/tz/wyog.php"
+    },
+	{
+      "key": "初月",
+      "name": "💘星星┃影视💘",
+      "type": 3,
+      "api": "csp_App",
+      "playerType": 2,
+      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/星星.json",
+      "jar": "http://www.wya6.cn/tz/wyog1.php"
+    },
 {
 "key":"星星",
 "name":"✨星星",
@@ -95,16 +115,37 @@
 "playerType":2,
 "ext":"https://agit.ai/abkier/PizazzGY/raw/branch/main/EXT/%E6%98%9F%E6%98%9F"
 },
-{
-	"key":"csp_AppSK_虾米",
-	"name":" 😻┃虾米APP",
-	"type":3,
-	"api":"csp_AppSK",
-	"searchable":1,
-	"quickSearch":1,
-	"changeable":1,
-	"ext":"FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="
-},
+
+ {
+      "key": "皮皮虾",
+      "name": "🦐┃皮皮┃影视",
+      "type": 3,
+      "api": "csp_PipiXia",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	{
+	"key": "繁星",
+	"name": "💥┃繁星┃App",
+	"type": 3,
+	"api": "csp_AppMao",
+	"playerType": 2,
+	"searchable": 1,
+	"quickSearch": 1,
+	"changeable": 1,
+	"ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg" },
+
+    {
+			"key": "蜂鸟",
+			"name": "🕊️蜂鸟",
+			"type": 3,
+			"api": "csp_AppSK",
+			"searchable": 1,
+			"quickSearch": 1,
+			"ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
+		},	
+
 {
             "key": "csp_WoGG",
             "name": "👽┃玩偶 4K",
@@ -180,7 +221,7 @@
       "type": 1,
       "url": "http://jx.meowtv.cn/?url="
    	 },
-	{"name":"虾米","type":0,"url":"https://jx.xmflv.cc/?url="},
+	{"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
 			{"name":"M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}, 
 	{"name":"夜幕","type":0,"url":"https://www.yemu.xyz/v/d.php?url="},
 	 {"name":"ovvo","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
