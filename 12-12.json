@@ -29,10 +29,6 @@
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/360影视.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-       "changeable": 1
      },
     {
      "key": "js_菜狗",
@@ -231,20 +227,10 @@
 			}
 		},
     	{
-      "name": "小鱼解析",
+      "name": "Meowtv",
       "type": 1,
       "url": "http://jx.meowtv.cn/?url="
    	 },
-	{ "name": "QQ", "type": 0, "url": "http://play.shijie.chat/player/ec.php?code=qq&if=1&url=", "ext": { "flag": ["SPB","NBY","qq", "腾讯","FYNB","HT-"],"header":{"User-Agent":"okhttp/4.1.0"} } }, 
-      { "name": "奇异", "type": 0, "url": "http://play.shijie.chat/player/ec.php?code=qiyi&if=1&url=", "ext": { "flag": ["qiyi", "爱奇艺", "奇艺"],"header":{"User-Agent":"okhttp/4.1.0"} } }, 
-	{
-  "name":"云解析",
-  "type":1,
-  "url":"http://119.91.123.253:2345/Api/yun.php?url=",
-  "ext":{
-    "flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],
-    "header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}
-},
 	
 	{"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
 			{"name":"M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}, 
