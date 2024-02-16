@@ -95,18 +95,17 @@
 "playerType":2,
 "ext":"https://agit.ai/abkier/PizazzGY/raw/branch/main/EXT/%E6%98%9F%E6%98%9F"
 },
-
- {
-      "key": "皮皮虾",
-      "name": "🦐┃皮皮影视",
-      "type": 3,
-      "api": "csp_PipiXia",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-	"jar":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/PandaQ240208.jar"
-    },
-	
+{
+      "key":"皮皮虾",
+      "name":"🦐┃皮皮影视",
+      "type":3,
+	"api":"csp_WebAiKun",
+	"searchable":1,
+	"quickSearch":0,
+	"filterable":0,
+	"ext":"http://aikun.tv"
+},
+ 	
  {
       "key": "蜂鸟",
       "name": "🕊️┃蜂鸟影视",
