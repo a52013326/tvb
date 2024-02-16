@@ -86,27 +86,7 @@
 	"jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"
 	},
 	  
-{"key":"csp_AppSK_虾米","name":" 🧊虾米(APPSK)","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="},
-	    {
-      "key": "影视五",
-      "name": "💘无意┃影视",
-      "type": 3,
-      "api": "csp_Movie2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/Movie5.json",
-      "jar": "http://www.wya6.cn/tz/wyog.php"
-    },
-	{
-      "key": "初月",
-      "name": "💘星星┃影视💘",
-      "type": 3,
-      "api": "csp_App",
-      "playerType": 2,
-      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/星星.json",
-      "jar": "http://www.wya6.cn/tz/wyog1.php"
-    },
+
 {
 "key":"星星",
 "name":"✨星星",
@@ -125,16 +105,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	{
-	"key": "繁星",
-	"name": "💥┃繁星┃App",
-	"type": 3,
-	"api": "csp_AppMao",
-	"playerType": 2,
-	"searchable": 1,
-	"quickSearch": 1,
-	"changeable": 1,
-	"ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg" },
+	
 
     {
 			"key": "蜂鸟",
@@ -227,12 +198,7 @@
 	 {"name":"ovvo","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
 	 {"name":"playm3u8","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url="},
 
-		 
-	{
-      "name": "西瓜视频",
-      "type":1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
-    },
+		
 	
 	{
       "name": "️盘古",
