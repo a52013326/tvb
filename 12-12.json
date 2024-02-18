@@ -1,5 +1,5 @@
 {
-  "spider":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/custom_spider.jar;md5;5543dae038ce2248e7759e9cbca295b9",
+  "spider":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/kan.jar;md5;87d5916b7bb5c8acacac5490e802828e",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives":[{
     "name":"live",
@@ -117,8 +117,8 @@
       "api": "csp_AppSK",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/Yoursmile22.jar"
+      "ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw==",
+      
     },
 
 {
