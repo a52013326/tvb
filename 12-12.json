@@ -1,5 +1,5 @@
 {
- "spider":"https://gitee.com/wgq332/tvt/raw/master/fantaiying/custom_spider.jar;md5;be7060a567ce9e8021946b6de0ed8dae",
+ "spider":"https://gitee.com/wgq332/tvt/raw/master/fantaiying/kan.jar;md5;87d5916b7bb5c8acacac5490e802828e",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives":[{
     "name":"live",
@@ -44,20 +44,7 @@
       "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
       "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
       },
-	{
-        "key": "drpy_js_腾云驾雾",
-        "name": "🐧┃腾讯视频",
-        "type": 3,
-        "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/腾云驾雾.js"
-       },  
-      {
-        "key": "drpy_js_百忙无果",
-        "name": "🍋┃芒果视频",
-        "type": 3,
-        "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/百忙无果.js"
-      },
+	
 	  
 	{
 	"key":"巧技二",
@@ -119,6 +106,15 @@
       "quickSearch": 1,
       "ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="    
     },
+{
+	"key":"觅视频",
+	"name":"🗽┃觅视影视",
+	"type":3,
+	"api":"csp_AppSK",
+	"searchable":1,
+	"quickSearch":1,
+	"changeable":1,
+	"ext": "FbjPcVZY48PN/RIZ5QqOrsp7KctTA8JSVjVJ8fb33R8KUNSIsT3IgxCP9qyzByO7Z2qR3Ggpjn8kS2NlCJx9KFpYWtqe0x/XKTtG3SAclaw3AOm0fS9oLx2taGFszsP3uHWHa4dyHdIm90tKvADyREgKNL3k7R5QNMNVLiUM"},	
 
 {
             "key": "csp_WoGG",
@@ -173,9 +169,6 @@
 	"filterable":1,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
      },
-
-
-
   
 	{
         "key": "YiSo",
@@ -189,14 +182,15 @@
     }
   ],
 "parses": [
-	{"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua"]}},
-	 {"name":"ovvo","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
-	
-    	 {
+	 {
       "name": "MeowTV",
       "type": 1,
       "url": "http://jx.meowtv.cn/?url="
    	 },
+	
+	 {"name":"ovvo","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
+	
+    	
 	
 	{
       "name": "xmflv",
@@ -212,35 +206,22 @@
 {"name":"PM","url":"https://www.playm3u8.cn/jiexi.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
 {"name":"8090","url":"https://www.8090.la/8090/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
-	
-{
-      "name": "夜幕",
+		{
+      "name": "️盘古",
       "type": 0,
-      "url": "https://www.yemu.xyz/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
+      "url": "https://www.pangujiexi.com/pangu/?url="
+       },
 	
+	{
+      "name": "ckplayer",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },	
 	
 
 	{
