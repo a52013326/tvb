@@ -4,7 +4,7 @@
   "lives":[{
     "name":"live",
     "type":0,
-	"url": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/03.txt", 
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/03.txt", 
     "playerType":1,
     "ua":"okhttp/3.12.13",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
