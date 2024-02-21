@@ -182,13 +182,14 @@
     }
   ],
 "parses": [
+	{"name":"聚合解析","type":3,"url":"Demo"},
 	 {
       "name": "MeowTV",
       "type": 1,
       "url": "http://jx.meowtv.cn/?url="
    	 },
 	
-	 {"name":"ovvo","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
+	 {"name":"ovvo","type":1,"url":"http://json.ovvo.pro/json.php?uid=8497612&key=ehijlvwCDFGKORSTV1&url="},
 	
     	
 	
