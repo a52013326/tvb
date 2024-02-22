@@ -64,7 +64,7 @@
 {
       "name": "初恋",
       "type": 1,
-      "url": "http://106.53.99.43:92/api/?key=670a3eee98cae3c5aed9a166f8c2f5da"
+      "url": "http://106.53.99.43:92/api/?key=a6e816db773781601df448e9c5d11166&url="
     },
 
 {
