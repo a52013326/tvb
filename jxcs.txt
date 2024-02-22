@@ -13,17 +13,7 @@
   "sites":[
        {"key":"影视","name":"🏠影视推荐","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
 	  	
-   {
-      "key": "360yingshi",
-      "name": "🐹┃ 360影视",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/360影视.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-       "changeable": 1
-     },
+  
     {
      "key": "js_菜狗",
    "name": "🐶┃搜狗视频",
@@ -78,41 +68,15 @@
     },
 
 {
-      "name": "812",
+      "name": "鱼家",
       "type": 1,
-      "url": "https://api.8l2.cn/api/?key=837a9fa4d1fbb662a03f356654dad2d0&url="
+      "url": "http://json.84jia.com/home/api?type=ys&uid=8096440&key=cepwyzACGJPQSTVX04&url="
     },
- {"name":"水星","url":"http://json.xingkf.cn/api/?key=5jBsAar4Ju3dKvcNU3&url=","title":"奇艺720直解不限速，别外传，别截图,"},
-    {"name":"追忆","url":"http://115.231.220.36:8801/jx/tvbox/2.php?url=","title":"追忆抓的,腾讯直解APP不限速,别截图,奇艺720直解，如果一次不行，按 . 快捷键二次解析即可"},
-    {"name":"壁纸","url":"http://124.71.8.170:3389/json.php?url=|http://124.71.8.170:3389/json.php?cat_ext=cGFyc2Vz&url=","title":"B站720直解,沐沐抓的,其他平台对接初恋"},
-    {"name":"八号","url":"https://api.52wyb.com/index/?url=","title":"防盗接口，需要 猫HD 修改来源,见大群群文件"},
-    {"name":"鱼家","url":"http://json.84jia.com/home/api?type=ys&uid=8096440&key=cepwyzACGJPQSTVX04&url=|http://json.84jia.com/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url=|http://jx.meowtv.cn/?url=","title":"uid=162970大佬买的"},
-    {"name":"爱酷","url":"https://cache.json.icu/8520.php?url=|https://api.json.icu/api/?key=ca874f2179e68cc78b6f0d1c8addb58e&url=|https://douban.armytea.com/json.php?url=|https://api.json.icu/api/?key=811820edf0b6414f05a648bc0e0ba1e5&url=|https://api.json.icu/api/?key=cebaa8d3da1540559d397891ec522e0e&url=","title":"key=811820edf0b6414f05a648bc0e0ba1e5大佬买的,key=cebaa8d3da1540559d397891ec522e0e飞云的爱酷无限点"},
-    {"name":"左岸","url":"http://110.42.2.247:880/analysis/json/?uid=2334&my=fhloqstzDIKLMORTZ9&url=|http://116.196.99.168/akys.php/?url=|http://106.14.14.200:8956/jx.php?url=","title":""},
-    {"name":"阳途","url":"http://open.yangtuyun.cn/open/jx_api/170?key=tfgrHWsqlU&url=","title":""},
-    {"name":"初恋","url":"https://json.oorl.cn/api/?key=RLdYwbPtVKxum234dg&url=|https://json.oorl.cn/api/?key=OafVOwHB6Hd0x9WZhK&url=|http://jxxcc-cc.dianshia.top:8821/api/?key=UAOfSBFIaFI3IvLi8r&url=|http://jxxcc-cc.dianshia.top:8821/api/?key=UAOfSBFIaFI3IvLi8r&url=|https://vip.liuliyun.vip:8686//api/?key=9CMB6wpsuGf5J9Ovsf&url=|http://124.221.100.97:3031/api/?key=W0JuOBDrhRmfcN8exW&url=|http://106.53.99.43:92/api/?key=a6e816db773781601df448e9c5d11166&url=","title":"最后一个熊大，曾经腾讯4k直解"},
-    {"name":"茶语","url":"http://authi.cnlav.cn/home/api?type=ys&uid=335819&key=fjnotCDEGJKLPRV458&url=|http://authi.cnlav.cn/home/api?type=ys&uid=3159853&key=bhopuvwxzHLPRUWY89&url=|http://authi.cnlav.cn/home/api?type=ys&uid=6712384&key=cjtvACEGILMRVWY678&url=","title":""},
-    {"name":"晓城","url":"https://svip.cygc.xyz/api/?key=a92A1mlWR57tSlxCjW&url=|https://bfq.cddys.me/nimasile2/API.php?url=","title":""},
-    {"name":"茶茶","url":"http://htp.behds.cn/json/520239app10/jsonff185.php?url=","title":""},
-    {"name":"久云","url":"http://jx.jjtv.bf/json/99.php?url=|http://119.91.123.253:2345/Api/yun.php?url={ua:okhttp/3.12.0}","title":"貌似对接人人迷"},
-    {"name":"295","url":"https://295jx.295yun.vip:295/api/?key=6QyRWRQpNLJePE55s1&url=","title":""},
-    {"name":"花花","url":"http://vip.hhtv.vip:38801/ytjx.php?key=1234abcd&url=","title":"别外传，别截图"},
-    {"name":"觅影","url":"http://39.104.230.177:1111/api/?key=wD2olCBAAP0ZIZXL7n&url=","title":""},
-    {"name":"君离","url":"http://api.jlgw.top/api/diy/?key=vvtwOacOTswJ4P3j36&url=|http://jx.xn--sqro98f.icu/api/diy/?key=vvtwOacOTswJ4P3j36&url=","title":""},
-    {"name":"乱对","url":"http://vip.2068tv.com//api//?key=oPp1j0ZBsSV7r9cFlG&url=|http://122.228.84.103:7777/api/?key=ewHDw89rbnX76D75ff&url=|http://122.228.84.103:7777/api/?key=lEoJRrX01Drg8Of5aA&url=|http://122.228.84.103:7777/api/?key=TJ5aojxggobuP4CTTw&url=|https://api.huohua.vip/api/?key=wrN9IgE4KZLZRTDUwV&url=|https://api.huohua.vip/api/?key=Y5mrHE7CaQRzUOVKZc&url=|https://svip.kumyun.cn:1213/home/api?type=ys&cc=mp4&uid=3537010&key=abjkmrvCDEGKOPWZ56&url=|http://cl.ruifeng.lol/api/?key=G7ONc3o0i2P1eyM96P&url=|http://cl.ruifeng.lol/api/?key=bRMYcfNy5tQnLEhlxY&url=","title":""},
-    {"name":"清风","url":"http://xiutan.shiyifacai.com/json/qingfeng.php?url=","title":""},
-    {"name":"迷你","url":"https://json.mnvia.xyz/api/?key=KMqx4Gm4B666f3zQgb&url=","title":""},
-    {"name":"三路","url":"http://jx.xn--od1aq39b.net:8899/api/?key=wm5nLOMqcgT4Xy6nua&url=","title":""},
-    {"name":"鱼仔","url":"http://116.196.99.168/ql.php/?v=|http://116.196.99.168/369.php?v=|http://116.196.99.168/%E7%88%B1%E9%85%B7.php?url=|http://116.196.99.168/12.php?v=","title":""},
-    {"name":"涂成","url":"https://110.42.2.98:22222/api/?key=NQk7InG1Kn7SaXOVY2&url=|https://110.42.2.98:22222/api/?key=QxR68LYoItCdbTOVgM&url=|http://42.157.129.144:2323/CH/caihong_1993138546.php?url=","title":""},
-    {"name":"晨光","url":"https://www.cgdyw.net/jiexi/jiekou-1/api.php{json:2}|https://www.cgdyw.net/jiexi/jiekou-2/api.php{json:2}|https://www.cgdyw.net/jiexi/jiekou-3/api.php{json:2}|https://www.cgdyw.net/jiexi/jiekou-4/api.php{json:2}","title":""},
-    {"name":"东明","url":"http://110.40.147.212/analysis.php?v=","title":"对接初恋云,提取播放数据，当成假Json"},
-    {"name":"麒麟","url":"https://t1.qlplayer.cyou/player/analysis.php?v=","title":"提取播放数据，当成假Json"},
-    {"name":"一溜","url":"http://111.180.191.20:1616/player/analysis.php?v=","title":"提取播放数据，当成假Json"},
-    {"name":"虾米","url":"http://116.196.99.168/77.php/?v=|http://appto.tvhh.eu.org:91/jx/xmflv/?v=","title":"虾米转json,不要频繁请求,一分钟十次"},
-    {"name":"百度","url":"https://ysxjjkl.souyisou.top/?search=%s","title":"百度搜索，失效较多"},
-    {"name":"阿里","url":"https://www.alipansou.com/search?k=%s&s=0&t=-1","title":"阿里搜索"},
-    {"name":"量子","url":"http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8","title":""},
+{
+      "name": "鱼家大佬",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url="
+    },
 
 
 
