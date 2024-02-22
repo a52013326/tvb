@@ -62,9 +62,9 @@
     },
 
 {
-      "name": "812",
+      "name": "初恋",
       "type": 1,
-      "url": "https://api.8l2.cn/api/?key=837a9fa4d1fbb662a03f356654dad2d0&url="
+      "url": "http://106.53.99.43:92/api/?key=670a3eee98cae3c5aed9a166f8c2f5da"
     },
 
 {
