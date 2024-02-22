@@ -130,20 +130,15 @@
 "parses": [
 	
 	 {"name":"❶神哥","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
+
+	{"name":"❷大佬","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url="},
+
+	{"name":"❸鱼家","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=8096440&key=cepwyzACGJPQSTVX04&url="},
 	 {
-      "name": "❷MeowTV",
+      "name": "❹MeowTV",
       "type": 1,
       "url": "http://jx.meowtv.cn/?url="
    	 },
-	
-	
-	
-	{"name":"❸神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8514231&key=cisBCHJQRSUWX02357&url="},
-	
-	{"name":"❹ovvo","type":1,"url":"http://json.ovvo.pro/json.php?uid=8509037&key=bfhiklmqruCGMT0136&url="},
-
-	
-    	
 	
 	{
       "name": "❺xmflv",
