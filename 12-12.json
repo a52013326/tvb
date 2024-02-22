@@ -129,7 +129,7 @@
   ],
 "parses": [
 	
-	 {"name":"❶神哥","type":1,"url":"https://json.ovvo.pro/jx.php?url="},
+	 {"name":"❶神哥","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
 	 {
       "name": "❷MeowTV",
       "type": 1,
