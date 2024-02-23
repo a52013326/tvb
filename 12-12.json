@@ -44,12 +44,11 @@
       "key":"皮皮虾",
       "name":"🦐┃皮皮影视",
       "type":3,
-	"api":"csp_WebAiKun",
+	"api":"csp_AppSK",
 	"searchable":1,
-	"quickSearch":0,
-	"filterable":0,
-	"ext":"http://pipixia.vip",
-	"jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/spider.jar;md5;1a00d5032cc02fad54510bab6d48ed4a"
+	"quickSearch":1,
+	"filterable":1,
+	"ext":"FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="
 },
  	
 {
@@ -132,7 +131,6 @@
 	 {"name":"❶神哥","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
 
 	{"name":"❷大佬","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url="},
-	{"name":"❸飞云","type":1,"url":"http://daina.hk/api/?key=be45dd5ac147b493f2eb4e6a5ac2c0ef&url="},
 
 	{"name":"❸鱼家","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=8096440&key=cepwyzACGJPQSTVX04&url="},
 	 {
