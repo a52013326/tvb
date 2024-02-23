@@ -48,7 +48,7 @@
 	"searchable":1,
 	"quickSearch":0,
 	"filterable":0,
-	"ext":"http://aikun.tv",
+	"ext":"http://pipixia.vip",
 	"jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/spider.jar;md5;1a00d5032cc02fad54510bab6d48ed4a"
 },
  	
@@ -132,6 +132,7 @@
 	 {"name":"❶神哥","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
 
 	{"name":"❷大佬","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url="},
+	{"name":"❸飞云","type":1,"url":"http://daina.hk/api/?key=be45dd5ac147b493f2eb4e6a5ac2c0ef&url="},
 
 	{"name":"❸鱼家","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=8096440&key=cepwyzACGJPQSTVX04&url="},
 	 {
