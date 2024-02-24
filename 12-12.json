@@ -70,61 +70,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$https://wogg.xyz/$$$关"
-      },
-
-	{
-	 "key": "七夜",
-      "name": "😾┃七夜 4K",
-      "type": 3,
-      "api": "csp_Dovx",
-       "searchable": 1,
-	"quickSearch":1,
-	"filterable":1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
-       },	
-
-     {
-      "key": "PanSou",
-      "name": "🦊┃盘搜 4K",
-      "type": 3,
-      "api": "csp_PanSou",
-       "searchable": 1,
-	"quickSearch":1,
-	"filterable":1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
-      },
-
-      {
-      "key": "UpYun",
-      "name": "😻┃Up搜 4K",
-      "type": 3,
-      "api": "csp_UpYun",
-       "searchable": 1,
-	"quickSearch":1,
-	"filterable":1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
-      },
-	{
-       "key": "PanSearch",
-      "name": "🙀┃盘Se 4K",
-      "type": 3,
-      "api": "csp_PanSearch",
-       "searchable": 1,
-	"quickSearch":1,
-	"filterable":1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
-     },
-  
-	{
-        "key": "YiSo",
-      "name": "😹┃易搜 4K",
-      "type": 3,
-      "api": "csp_YiSo",
-       "searchable": 1,
-	"quickSearch":1,
-	"filterable":1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
-    }
+      }
   ],
 "parses": [
 	
