@@ -41,13 +41,11 @@
    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/菜狗.js"
      },
 
-	 {
-      "key":"drpy_js_奇珍异兽",
+	 {"key":"drpy_js_奇珍异兽",
       "name":"🥝┃奇艺视频",
       "type":3,
       "api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
-	 }， 
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"}， 
 	
 {
       "key":"皮皮虾",
