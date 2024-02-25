@@ -44,12 +44,11 @@
       "key":"皮皮虾",
       "name":"🦐┃皮皮影视",
       "type":3,
-	"api":"csp_WebAiKun",
+	"api":"csp_AppSK",
 	"searchable":1,
-	"quickSearch":0,
-	"filterable":0,
-	"ext":"http://aikun.tv",
-	"jar": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/spider.jar;md5;1a00d5032cc02fad54510bab6d48ed4a"
+	"quickSearch":1,
+	"filterable":1,
+	"ext":"FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="
 },
  	
 {
