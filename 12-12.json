@@ -70,13 +70,14 @@
 	"jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"
 	},
 	
-{
+	{
 	"key":"drpy_js_7喜影院",
 	"name":"🌈┃7喜影院",
 	"type":3,
 	"api":"https://raw.kkgithub.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
-	"ext":"https://raw.kkgithub.com/gaotianliuyun/gao/master/js/7喜影院.js"},
-{
+	"ext":"https://raw.kkgithub.com/gaotianliuyun/gao/master/js/7喜影院.js"
+	},
+	{
             "key": "csp_WoGG",
             "name": "👽┃玩偶 4K",
             "type": 3,
