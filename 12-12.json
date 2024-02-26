@@ -60,8 +60,22 @@
 	"changeable":1,
 	"ext": "FbjPcVZY48PN/RIZ5QqOrsp7KctTA8JSVjVJ8fb33R8KUNSIsT3IgxCP9qyzByO7Z2qR3Ggpjn8kS2NlCJx9KFpYWtqe0x/XKTtG3SAclaw3AOm0fS9oLx2taGFszsP3uHWHa4dyHdIm90tKvADyREgKNL3k7R5QNMNVLiUM"},	
 
-	  {"key": "天天","name": "🌦┃天天影视","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1"},
-{"key":"drpy_js_7喜影院","name":"🌈┃7喜影院","type":3,"api":"https://raw.kkgithub.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.kkgithub.com/gaotianliuyun/gao/master/js/7喜影院.js"},
+	 {
+	"key":"天天",
+	"name":"🌦┃天天影视",
+	"type":3,
+	"api":"csp_TTian",
+	"playerType":2,
+	"ext":"http://op.ysdqjs.cn",
+	"jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"
+	},
+	
+{
+	"key":"drpy_js_7喜影院",
+	"name":"🌈┃7喜影院",
+	"type":3,
+	"api":"https://raw.kkgithub.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+	"ext":"https://raw.kkgithub.com/gaotianliuyun/gao/master/js/7喜影院.js"},
 {
             "key": "csp_WoGG",
             "name": "👽┃玩偶 4K",
