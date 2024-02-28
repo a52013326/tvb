@@ -56,26 +56,26 @@
   
 	
 	 {
-      "name": "huohua",
+      "name": "晓成",
       "type": 1,
-      "url": "https://api.huohua.vip/api/?key=xZ1ib7AmHKhjqKLhQb&url="
+      "url": "https://svip.cygc.xyz/api/?key=3a88h2sj1kHwUv47lk&url="
     },
 
 {
-      "name": "初恋",
+      "name": "jienuowl",
       "type": 1,
-      "url": "http://106.53.99.43:92/api/?key=a6e816db773781601df448e9c5d11166&url="
+      "url": "https://json.jienuowl.top/api/?key=atqEQhcRiNNEwzjltg&url="
     },
 
 {
-      "name": "鱼家",
+      "name": "124",
       "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=8096440&key=cepwyzACGJPQSTVX04&url="
+      "url": "http://124.221.100.97:3031/api/?key=W0JuOBDrhRmfcN8exW&url="
     },
 {
-      "name": "鱼家大佬",
+      "name": "115",
       "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url="
+      "url": "http://115.231.220.36:8801/jx/tvbox/2.php?url="
     },
 
 
