@@ -56,9 +56,9 @@
   
 	
 	 {
-      "name": "晓成",
+      "name": "43",
       "type": 1,
-      "url": "https://svip.cygc.xyz/api/?key=3a88h2sj1kHwUv47lk&url="
+      "url": "http://43.128.29.27:667/api.php/jiexi/index?url="
     },
 
 {
