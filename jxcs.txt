@@ -12,7 +12,15 @@
   }],
   "sites":[
        {"key":"影视","name":"🏠影视推荐","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
-	  	
+	{
+            "key": "豆瓣",
+            "name": "🚀豆瓣排行┃SP",
+            "type": 3,
+            "api": "csp_DouDou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },  	
   
     {
      "key": "js_菜狗",
