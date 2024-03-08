@@ -1,5 +1,5 @@
 {
- "spider":"https://gitee.com/wgq332/tvt/raw/master/fantaiying/custom_spider.jar;md5;b283549a522bd5a164524d7ae4781806",
+"spider":"https://gitee.com/wgq332/tvt/raw/master/fantaiying/custom_spider.jar;md5;b283549a522bd5a164524d7ae4781806",
  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives":[{
     "name":"live",
@@ -83,44 +83,47 @@
   ],
 "parses": [
 	
-	 {"name":"❶大佬","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url="},
+
+	{"name":"❶大佬","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url="},
 
 	{"name":"❷鱼家","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=8096440&key=cepwyzACGJPQSTVX04&url="},
-
-	{"name":"❸MeowTV","type":1,"url":"http://jx.meowtv.cn/?url="},
 	 {
-      "name": "❹xmflv",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
+      "name": "❸MeowTV",
+      "type": 1,
+      "url": "http://jx.meowtv.cn/?url="
    	 },
 	
 	{
-      "name": "❺m3u8",
+      "name": "❹xmflv",
       "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url=",
-   	 },
-{"name":"❻8090","type":0,"url":"https://www.8090.la/8090/?url="},	
-{
-      "name": "❼盘古",
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+{"name":"❺m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},	
+
+{"name":"❻8090","url":"https://www.8090.la/8090/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+		{
+      "name": "️❼盘古",
       "type": 0,
       "url": "https://www.pangujiexi.com/pangu/?url="
-    },
-{
-	"name":"❽ckplayer",
-	"type":0，
-	"url":"https://www.ckplayer.vip/jiexi/?url="},
-		{
-      "name": "️❾神哥",
-      "type": 0,
-      "url": "https://json.ovvo.pro/jx.php?url="
        },
 	
 	{
-      "name": "❿神哥",
+      "name": "❽ckplayer",
       "type": 0,
-      "url": "http://json.ovvo.pro/json.php?uid=8545326&key=iloqrtvxyDGJOTW459&url=",
+      "url": "https://www.ckplayer.vip/jiexi/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
     },	
-
+	 {"name":"➊神哥","type":0,"url":"http://json.ovvo.pro/json.php?uid=8545326&key=iloqrtvxyDGJOTW459&url="},
+	 {"name":"➋神哥","type":0,"url":"http://json.ovvo.pro/json.php?uid=8557143&key=befhjmpwyDGIKX4789&url="},
 	{
 		"name": " OVER",
 		"type": 0,
