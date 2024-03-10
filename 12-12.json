@@ -82,48 +82,12 @@
       }
   ],
 "parses": [
+	{"name":"🚀聚合解析","type":3,"url":"Demo"},
 	 {"name":"❶神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8565272&key=abcmoqvxyzDMQUV469&url="},
 	 {"name":"❷神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8579039&key=aknvyCDIJKLQSTW056&url="},
 	 {"name":"❸神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8584025&key=agjlmnqtuyFHLQXZ23&url="},
-	{"name":"❶大佬","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url="},
-
-	{"name":"❷鱼家","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=8096440&key=cepwyzACGJPQSTVX04&url="},
-	 {
-      "name": "❸MeowTV",
-      "type": 1,
-      "url": "http://jx.meowtv.cn/?url="
-   	 },
-	
-	{
-      "name": "❹xmflv",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-{"name":"❺m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},	
-
-{"name":"❻8090","url":"https://www.8090.la/8090/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
-		{
-      "name": "️❼盘古",
-      "type": 0,
-      "url": "https://www.pangujiexi.com/pangu/?url="
-       },
-	
-	{
-      "name": "❽ckplayer",
-      "type": 0,
-      "url": "https://www.ckplayer.vip/jiexi/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },	
-	
+	{"name":"❹神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8509037&key=bfhiklmqruCGMT0136&url="},
+	{"name":"❺神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8514231&key=cisBCHJQRSUWX02357&url="},
 	{
 		"name": " OVER",
 		"type": 0,
