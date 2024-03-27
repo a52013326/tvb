@@ -106,22 +106,20 @@
   ],
 "parses": [
 	
-	{"name":"❶大佬","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url="},
-	 {"name":"❷神哥","type":1,"url":"https://json.ovvo.pro/jx.php?url="},
-	
-	{"name": "❸xmflv","type": 0,"url": "https://jx.xmflv.com/?url="},
-	{"name":"❹m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},	
-	{"name":"❺8090","type":0,"url":"https://www.8090.la/8090/?url="},
+	{"name":"❶大佬","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url="}
+	{"name": "❷xmflv","type": 0,"url": "https://jx.xmflv.com/?url="},
+	{"name":"❸m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},	
+	{"name":"❹8090","type":0,"url":"https://www.8090.la/8090/?url="},
 
 	{
-      "name": "️❻盘古",
+      "name": "️❺盘古",
       "type": 0,
       "url": "https://www.pangujiexi.com/pangu/?url="
        },
-	{"name": "❼ckplayer","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url="},	
+	{"name": "❻ckplayer","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url="},	
 	
 	{
-		"name": " ❽OVER",
+		"name": " ❼❽OVER",
 		"type": 0,
 		"url": ""
 	}
