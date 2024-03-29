@@ -61,78 +61,12 @@
 "parses": [
     	{"name":"🚀聚合解析","type":3,"url":"Demo"},
 	
-  
-	
-	 {
-      "name": "茶语",
-      "type": 1,
-      "url": "http://authi.cnlav.cn/home/api?type=ys&uid=335819&key=fjnotCDEGJKLPRV458&url="
-    },
- {
-      "name": "茶语2",
-      "type": 1,
-      "url": "http://authi.cnlav.cn/home/api?type=ys&uid=3159853&key=bhopuvwxzHLPRUWY89&url="
-    },
- {
-      "name": "茶语3",
-      "type": 1,
-      "url": "http://authi.cnlav.cn/home/api?type=ys&uid=6712384&key=cjtvACEGILMRVWY678&url="
-    },
-
-{
-      "name": "jienuowl",
-      "type": 1,
-      "url": "https://json.jienuowl.top/api/?key=atqEQhcRiNNEwzjltg&url="
-    },
-
-{
-      "name": "124",
-      "type": 1,
-      "url": "http://124.221.100.97:3031/api/?key=W0JuOBDrhRmfcN8exW&url="
-    },
-{
-      "name": "觅影",
-      "type": 1,
-      "url": "http://39.104.230.177:1111/api/?key=wD2olCBAAP0ZIZXL7n&url="
-    },
-
-{
-      "name": "乱对",
-      "type": 1,
-      "url": "http://vip.2068tv.com//api//?key=oPp1j0ZBsSV7r9cFlG&url="
-    },
-
-{
-      "name": "122",
-      "type": 1,
-      "url": "http://122.228.84.103:7777/api/?key=lEoJRrX01Drg8Of5aA&url="
-    },
-
-{
-      "name": "iKM解析",
-      "type": 1,
-      "url": "https://svip.kumyun.cn:1213/home/api?type=ys&cc=mp4&uid=3537010&key=abjkmrvCDEGKOPWZ56&url="
-    },
-
-{
-      "name": "爱酷",
-      "type": 1,
-      "url": "http://116.196.99.168/%E7%88%B1%E9%85%B7.php?url="
-    },
-
-{
-      "name": "虾米1",
-      "type": 1,
-      "url": "http://116.196.99.168/77.php/?v="
-    },
-
-{
-      "name": "appto",
-      "type": 1,
-      "url": "http://appto.tvhh.eu.org:91/jx/xmflv/?v="
-    },
-
-
+  	 {"name":"❶神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8565272&key=abcmoqvxyzDMQUV469&url="},
+	 {"name":"❷神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8579039&key=aknvyCDIJKLQSTW056&url="},
+	 {"name":"❸神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8584025&key=agjlmnqtuyFHLQXZ23&url="},
+	 {"name":"❶神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8593026&key=abcdgkmosEFGKLSU69&url="},
+	 {"name":"❷神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8603743&key=bfinqtzEHIKNQY1346&url="},
+	 {"name":"❸神哥","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
 
 	{
 		"name": " OVER",
