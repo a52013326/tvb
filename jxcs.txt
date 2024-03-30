@@ -59,11 +59,9 @@
       }
   ],
 "parses": [
-    	{"name":"自动解析","type":3,"url":"Demo"},
+    	
 	 {"name":"神哥","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
-  	 {"name":"❶神哥","type":0,"url":"http://json.ovvo.pro/json.php?uid=8565272&key=abcmoqvxyzDMQUV469&url="},
-	 {"name":"❷神哥","type":0,"url":"http://json.ovvo.pro/json.php?uid=8579039&key=aknvyCDIJKLQSTW056&url="},
-	 {"name":"❸神哥","type":0,"url":"http://json.ovvo.pro/json.php?uid=8584025&key=agjlmnqtuyFHLQXZ23&url="},
+  	
 
 	
 
