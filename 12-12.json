@@ -78,7 +78,36 @@
 	"ext":"http://op.ysdqjs.cn",
 	"jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"
 	},
-	
+	{
+      "key": "苹果",
+      "name": "🍎苹果┃无广",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+ {
+      "key": "白嫖",
+      "name": "👻白飘┃无广",
+      "type": 3,
+      "api": "csp_BaiPiao",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.baipiaoys.com:9092/"
+    },	
+    {
+      "key": "mingriyingshi",
+      "name": "☀️明日┃影视┃App",
+      "type": 3,
+      "api": "csp_WexMingriys",
+      "searchable": 1,
+      "jar": "https://agit.ai/kankan314/cattv/raw/branch/main/Jar/yt2.jar",
+      "changeable": 1
+    },
+
 
  {
             "key": "哔嘀",
@@ -99,7 +128,63 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$https://wogg.xyz/$$$关"
-      }
+      },
+      {
+	 "key": "七夜",
+      "name": "😾┃七夜 4K",
+      "type": 3,
+      "api": "csp_Dovx",
+       "searchable": 1,
+	"quickSearch":1,
+	"filterable":1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
+       },	
+
+     {
+      "key": "PanSou",
+      "name": "🦊┃盘搜 4K",
+      "type": 3,
+      "api": "csp_PanSou",
+       "searchable": 1,
+	"quickSearch":1,
+	"filterable":1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
+      },
+
+      {
+      "key": "UpYun",
+      "name": "😻┃Up搜 4K",
+      "type": 3,
+      "api": "csp_UpYun",
+       "searchable": 1,
+	"quickSearch":1,
+	"filterable":1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
+      },
+	{
+       "key": "PanSearch",
+      "name": "🙀┃盘Se 4K",
+      "type": 3,
+      "api": "csp_PanSearch",
+       "searchable": 1,
+	"quickSearch":1,
+	"filterable":1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
+     },
+
+
+
+  
+	{
+        "key": "YiSo",
+      "name": "😹┃易搜 4K",
+      "type": 3,
+      "api": "csp_YiSo",
+       "searchable": 1,
+	"quickSearch":1,
+	"filterable":1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd"
+    }	  
   ],
 "parses": [
 	{"name":"❶神哥","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
