@@ -24,7 +24,7 @@
        },
 	 {
       "key":"drpy_js_奇珍异兽",
-      "name":"🥝┃奇艺视频",
+      "name": "🥝┃奇艺视频",
       "type":3,
       "api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
@@ -46,8 +46,8 @@
        },
 	
 	  
-{"key":"小柚","name":"🍊小柚┃App","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":0,"ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="},	
-{"key":"蜂鸟","name":"🕊┃蜂鸟┃追剧","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="},	
+{"key":"小柚","name":"🍊┃小柚App","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":0,"ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="},	
+{"key":"蜂鸟","name":"🕊┃蜂鸟追剧","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="},	
 {
       "key":"皮皮虾",
       "name":"🦐┃皮皮影视",
@@ -80,7 +80,7 @@
 	},
 	{
       "key": "苹果",
-      "name": "🍎苹果┃无广",
+      "name": "🍎┃苹果无广",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -89,7 +89,7 @@
     },
  {
       "key": "白嫖",
-      "name": "👻白飘┃无广",
+      "name": "👻┃白飘无广",
       "type": 3,
       "api": "csp_BaiPiao",
       "playerType": 2,
@@ -100,7 +100,7 @@
     },	
     {
       "key": "mingriyingshi",
-      "name": "☀️明日┃影视┃App",
+      "name": "☀️┃明日影视",
       "type": 3,
       "api": "csp_WexMingriys",
       "searchable": 1,
@@ -111,7 +111,7 @@
 
  {
             "key": "哔嘀",
-            "name": "💡哔嘀|影视",
+            "name": "💡┃哔嘀影视",
             "type": 3,
             "api": "csp_Bdys",
             "searchable": 1,
@@ -121,7 +121,7 @@
         },	
 	        {
             "key": "csp_WoGG",
-            "name": "👽玩偶哥哥┃4K",
+            "name": "👽┃玩偶 4K",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
@@ -132,7 +132,7 @@
             "quarkCookie": "https://gitee.com/wgq332/tvt/raw/master/cookie.txt",
             "from": "4k|auto|fhd",
             "siteUrl": "https://api.wogg.xyz/",
-            "danMu": "弹"}
+            "danMu": "关"}
         },
 
      {
