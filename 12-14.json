@@ -1,5 +1,5 @@
 {
-  "spider":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/custom_spider.jar;md5;9fdf355f7d803698900ccf4ceb4626cb",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/custom_spider.jar;md5;013794cda7f4898b65b8a7f7382cc5a1",
  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives":[{
     "name":"live",
@@ -22,6 +22,13 @@
         "quickSearch": 0,
         "filterable": 0
        },
+	 {
+      "key":"drpy_js_奇珍异兽",
+      "name":"🥝┃奇艺视频",
+      "type":3,
+      "api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
+      },
 
     {
      "key": "js_菜狗",
@@ -30,15 +37,15 @@
    "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/菜狗.js"
      },
-     
-	 {
-      "key":"drpy_js_奇珍异兽",
-      "name":"🥝┃奇艺视频",
-      "type":3,
-      "api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
-      },	
-
+     {
+        "key": "drpy_js_腾云驾雾",
+        "name": "🐧┃腾讯视频",
+        "type": 3,
+        "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/腾云驾雾.js"
+       },
+	
+	  
 {"key":"小柚","name":"🍊小柚┃App","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":0,"ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="},	
 {"key":"蜂鸟","name":"🕊┃蜂鸟┃追剧","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="},	
 {
@@ -71,7 +78,36 @@
 	"ext":"http://op.ysdqjs.cn",
 	"jar":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"
 	},
-	
+	{
+      "key": "苹果",
+      "name": "🍎苹果┃无广",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+ {
+      "key": "白嫖",
+      "name": "👻白飘┃无广",
+      "type": 3,
+      "api": "csp_BaiPiao",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.baipiaoys.com:9092/"
+    },	
+    {
+      "key": "mingriyingshi",
+      "name": "☀️明日┃影视┃App",
+      "type": 3,
+      "api": "csp_WexMingriys",
+      "searchable": 1,
+      "jar": "https://agit.ai/kankan314/cattv/raw/branch/main/Jar/yt2.jar",
+      "changeable": 1
+    },
+
 
  {
             "key": "哔嘀",
@@ -91,17 +127,78 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt+4k|auto|fhd$$$https://wogg.xyz/$$$关"
-      }
+            "ext": {
+            "aliToken": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt",
+            "quarkCookie": "https://gitee.com/wgq332/tvt/raw/master/cookie.txt",
+            "from": "4k|auto|fhd",
+            "siteUrl": "https://api.wogg.xyz/",
+            "danMu": "关"}
+	}，	
+
+     {
+      "key": "PanSou",
+      "name": "🦊┃盘搜 4K",
+      "type": 3,
+      "api": "csp_PanSou",
+       "searchable": 1,
+	"quickSearch":1,
+	"filterable":1,
+      "ext": {
+       "aliToken": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt",
+      "from": "4k|auto|fhd"}
+      },
+
+      {
+      "key": "UpYun",
+      "name": "😻┃Up搜 4K",
+      "type": 3,
+      "api": "csp_UpYun",
+       "searchable": 1,
+	"quickSearch":1,
+	"filterable":1,
+     "ext": {
+       "aliToken": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt",
+      "from": "4k|auto|fhd"}
+      },
+	{
+       "key": "PanSearch",
+      "name": "🙀┃盘Se 4K",
+      "type": 3,
+      "api": "csp_PanSearch",
+       "searchable": 1,
+	"quickSearch":1,
+	"filterable":1,
+     "ext": {
+       "aliToken": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt",
+      "from": "4k|auto|fhd"}
+     },
+
+
+
+  
+	{
+        "key": "YiSo",
+      "name": "😹┃易搜 4K",
+      "type": 3,
+      "api": "csp_YiSo",
+       "searchable": 1,
+	"quickSearch":1,
+	"filterable":1,
+    "ext": {
+       "aliToken": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt",
+      "from": "4k|auto|fhd"}
+    }	  
   ],
 "parses": [
-	{"name":"❶神哥","type":0,"url":"https://json.ovvo.pro/jx.php?url=","ext":{"flag":["qq","qiyi","优酷","mgtv"]}},
+	{"name":"❶神哥","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
 	{"name":"❶大佬","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url="},
 
 	{"name":"❷鱼家","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=8096440&key=cepwyzACGJPQSTVX04&url="},
 	 {"name":"❸神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8706564&key=abefioBCIJKTVWX023&url="},
 	 {"name":"❸神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8719206&key=bklruBCEFJKNORSV56&url="},
-	 {"name":"❸神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8731912&key=aegjpswCEHKMRSXY46&url="},
+	 {"name":"❸神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8745957&key=ejnortuwxGNOSTVY04&url="},
+	 {"name":"❸神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8758517&key=bfgotxDKLMORSWX347&url="},
+	 {"name":"❸神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8766465&key=bhjklnpsxIKMSWY067&url="},
 	
 	{"name": "❹xmflv","type": 0,"url": "https://jx.xmflv.com/?url="},
 	{"name":"❺m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},	
@@ -119,6 +216,7 @@
 		"type": 0,
 		"url": ""
 	}
+	
 	],
 
 "rules": [
