@@ -96,49 +96,46 @@ CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 
 
 电视直播-3,#genre#
-CCTV-1 综合,https://itv.lat/tv/live.php?&line=1&id=cctv1
-CCTV-2 财经,https://itv.lat/tv/live.php?&line=1&id=cctv2
-CCTV-3 综艺,https://itv.lat/tv/live.php?&line=1&id=cctv3
-CCTV-4 中文国际,https://itv.lat/tv/live.php?&line=1&id=cctv4
-CCTV-5 体育,https://itv.lat/tv/live.php?&line=1&id=cctv5
-CCTV-5+ 体育赛事,https://itv.lat/tv/live.php?&line=1&id=cctv5p
-CCTV-6 电影,https://itv.lat/tv/live.php?&line=1&id=cctv6
-CCTV-7 国防军事,https://itv.lat/tv/live.php?&line=1&id=cctv7
-CCTV-8 电视剧,https://itv.lat/tv/live.php?&line=1&id=cctv8
-CCTV-9 纪录,https://itv.lat/tv/live.php?&line=1&id=cctv9
-CCTV-10 科教,https://itv.lat/tv/live.php?&line=1&id=cctv10
-CCTV-11 戏曲,https://itv.lat/tv/live.php?&line=1&id=cctv11
-CCTV-12 社会与法,https://itv.lat/tv/live.php?&line=1&id=cctv12
-CCTV-13 新闻,https://itv.lat/tv/live.php?&line=1&id=cctv13
-CCTV-14 少儿,https://itv.lat/tv/live.php?&line=1&id=cctv14
-CCTV-15 音乐,https://itv.lat/tv/live.php?&line=1&id=cctv15
-CCTV-16 奥林匹克,https://itv.lat/tv/live.php?&line=1&id=cctv16
-CCTV-17 农业农村,https://itv.lat/tv/live.php?&line=1&id=cctv17
-浙江卫视,https://itv.lat/tv/live.php?&line=1&id=zjws
-湖南卫视,https://itv.lat/tv/live.php?&line=1&id=hunws
-江苏卫视,https://itv.lat/tv/live.php?&line=1&id=jsws
-山东卫视,https://itv.lat/tv/live.php?&line=1&id=sdws
-辽宁卫视,https://itv.lat/tv/live.php?&line=1&id=lnws
-黑龙江卫视,https://itv.lat/tv/live.php?&line=1&id=hljws
-东方卫视,https://itv.lat/tv/live.php?&line=1&id=dfws
-天津卫视,https://itv.lat/tv/live.php?&line=1&id=tjws
-安徽卫视,https://itv.lat/tv/live.php?&line=1&id=ahws
-北京卫视,https://itv.lat/tv/live.php?&line=1&id=bjws
-重庆卫视,https://itv.lat/tv/live.php?&line=1&id=cqws
-四川卫视,https://itv.lat/tv/live.php?&line=1&id=scws
-广东卫视,https://itv.lat/tv/live.php?&line=1&id=gdws
-江西卫视,https://itv.lat/tv/live.php?&line=1&id=jxws
-河北卫视,https://itv.lat/tv/live.php?&line=1&id=hbws
-河南卫视,https://itv.lat/tv/live.php?&line=1&id=hnws
-海南卫视,https://itv.lat/tv/live.php?&line=1&id=hinws
-深圳卫视,https://itv.lat/tv/live.php?&line=1&id=szws
-湖北卫视,https://itv.lat/tv/live.php?&line=1&id=hubws
-东南卫视,https://itv.lat/tv/live.php?&line=1&id=dnws
-贵州卫视,https://itv.lat/tv/live.php?&line=1&id=gzws
-吉林卫视,https://itv.lat/tv/live.php?&line=1&id=jlws
-CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
-CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
-
-
-
+CCTV-1 综合,http://1.83.163.43:8888/rtp/239.112.205.59:5140
+CCTV-2 财经,http://1.83.163.43:8888/rtp/239.112.205.78:5140
+CCTV-3 综艺,http://1.83.163.43:8888/rtp/239.112.205.221:5140
+CCTV-4 中文国际,http://1.83.163.43:8888/rtp/239.112.205.202:5140
+CCTV-5 体育,http://1.83.163.43:8888/rtp/239.112.205.222:5140
+CCTV-5+ 体育赛事,http://1.83.163.43:8888/rtp/239.111.205.13:5140
+CCTV-6 电影,http://1.83.163.43:8888/rtp/239.112.205.223:5140
+CCTV-7 国防军事,http://1.83.163.43:8888/rtp/239.112.205.83:5140
+CCTV-8 电视剧,http://1.83.163.43:8888/rtp/239.112.205.224:5140
+CCTV-9 纪录,http://1.83.163.43:8888/rtp/239.112.205.85:5140
+CCTV-10 科教,http://1.83.163.43:8888/rtp/239.112.205.86:5140
+CCTV-11 戏曲,http://1.83.163.43:8888/rtp/239.112.205.213:5140
+CCTV-12 社会与法,http://1.83.163.43:8888/rtp/239.112.205.88:5140
+CCTV-13 新闻,http://113.103.253.30:9999/udp/239.77.0.188:5146
+CCTV-14 少儿,http://1.83.163.43:8888/rtp/239.112.205.91:5140
+CCTV-15 音乐,http://1.83.163.43:8888/rtp/239.112.205.214:5140
+CCTV-16 奥林匹克,http://1.83.163.43:8888/rtp/239.111.205.134:5140
+CCTV-17 农业农村,http://1.83.163.43:8888/rtp/239.112.205.211:5140
+浙江卫视,http://1.83.163.43:8888/rtp/239.112.205.64:5140
+湖南卫视,http://1.83.163.43:8888/rtp/239.112.205.62:5140
+江苏卫视,http://1.83.163.43:8888/rtp/239.112.205.63:5140
+山东卫视,http://1.83.163.43:8888/rtp/239.112.205.70:5140
+辽宁卫视,http://1.83.163.43:8888/rtp/239.112.205.73:5140
+黑龙江卫视,http://1.83.163.43:8888/rtp/239.112.205.68:5140
+东方卫视,http://1.83.163.43:8888/rtp/239.112.205.61:5140
+天津卫视,http://1.83.163.43:8888/rtp/239.112.205.74:5140
+安徽卫视,http://1.83.163.43:8888/rtp/239.112.205.72:5140
+北京卫视,http://1.83.163.43:8888/rtp/239.112.205.65:5140
+重庆卫视,http://1.83.163.43:8888/rtp/239.112.205.179:5140
+四川卫视,http://1.83.163.43:8888/rtp/239.112.205.184:5140
+广东卫视,http://1.83.163.43:8888/rtp/239.112.205.66:5140
+江西卫视,http://1.83.163.43:8888/rtp/239.111.205.16:5140
+河北卫视,http://1.83.163.43:8888/rtp/239.112.205.200:5140
+河南卫视,http://1.83.163.43:8888/rtp/239.112.205.180:5140
+海南卫视,http://1.83.163.43:8888/rtp/239.112.205.50:5140
+深圳卫视,http://1.83.163.43:8888/rtp/239.112.205.67:5140
+湖北卫视,http://1.83.163.43:8888/rtp/239.112.205.69:5140
+东南卫视,http://1.83.163.43:8888/rtp/239.112.205.182:5140
+贵州卫视,http://1.83.163.43:8888/rtp/239.112.205.178:5140
+吉林卫视,http://1.83.163.43:8888/rtp/239.112.205.183:5140
+CHC动作电影,http://1.83.163.43:8888/rtp/239.112.205.207:5140
+CHC家庭影院,http://1.83.163.43:8888/rtp/239.112.205.205:5140
+CHC高清电影,http://1.83.163.43:8888/rtp/239.112.205.206:5140
