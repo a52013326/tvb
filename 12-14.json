@@ -5,7 +5,7 @@
     "name":"live",
     "type":0,
 	"url": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/01.m3u", 
-    "playerType":1,
+    "playerType":1
    
   }
   ],
