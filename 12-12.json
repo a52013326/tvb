@@ -1,5 +1,5 @@
 {
-"spider":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/custom_spider.jar;md5;ca8aebf22c8948c98104d094d5f87c73",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/custom_spider.jar;md5;f4a9956bae884c4a952da9152c0ed446",
  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives":[{
     "name":"live",
@@ -131,7 +131,7 @@
             "aliToken": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt",
             "quarkCookie": "https://gitee.com/wgq332/tvt/raw/master/cookie.txt",
             "from": "4k|auto|fhd",
-            "siteUrl": "https://api.wogg.xyz/",
+            "siteUrl": "https://www.wogg.link/",
             "danMu": "关"}
         },
 
