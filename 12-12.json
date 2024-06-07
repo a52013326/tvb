@@ -113,7 +113,7 @@
       "jar": "https://agit.ai/kankan314/cattv/raw/branch/main/Jar/yt2.jar",
       "changeable": 1
     },
-
+{"key":"视觉","name":"🤓┃视觉┃影视","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
 
  {
             "key": "哔嘀",
@@ -200,12 +200,6 @@
 	{"name":"❶大佬","type":1,"url":"http://json.84jia.xyz/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url="},
 
 	{"name":"❷鱼家","type":1,"url":"http://json.84jia.xyz/home/api?type=ys&uid=8096440&key=cepwyzACGJPQSTVX04&url="},
-	 {"name":"❸神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8706564&key=abefioBCIJKTVWX023&url="},
-	 {"name":"❸神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8719206&key=bklruBCEFJKNORSV56&url="},
-	 {"name":"❸神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8745957&key=ejnortuwxGNOSTVY04&url="},
-	 {"name":"❸神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8758517&key=bfgotxDKLMORSWX347&url="},
-	 {"name":"❸神哥","type":1,"url":"http://json.ovvo.pro/json.php?uid=8766465&key=bhjklnpsxIKMSWY067&url="},
-	
 	{"name": "❹xmflv","type": 0,"url": "https://jx.xmflv.com/?url="},
 	{"name":"❺m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},	
 	{"name":"❻8090","type":0,"url":"https://www.8090.la/8090/?url="},
