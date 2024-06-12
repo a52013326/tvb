@@ -1,14 +1,14 @@
 {
-"spider":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/custom_spider.jar;md5;6adeb73add2066fe62257d2337084da2",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/custom_spider.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives":[{
     "name":"live",
     "type":0,
-	"url": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/03.txt", 
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/03.txt", 
     "playerType":1,
     "ua":"okhttp/3.15",
-    "epg":"http://epg.51zmt.top:8000/api/i/?ch={name}&date={date}",
-    "logo":"https://epg.112114.xyz/logo/{name}.png"
+    "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}",
+     "logo": "https://epg.112114.xyz/logo/{name}.png"
   }
   ],
   "sites":[
@@ -196,13 +196,12 @@
     }	  
   ],
 "parses": [
+        {"name":"线路1","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
+{"name":"线路7","type":0,"url":"https://www.8090g.cn/?url="},
 	{"name":"❶神哥","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
-	{"name":"❶大佬","type":1,"url":"http://json.84jia.xyz/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url="},
+
 
 	{"name":"❷鱼家","type":1,"url":"http://json.84jia.xyz/home/api?type=ys&uid=8096440&key=cepwyzACGJPQSTVX04&url="},
-	{"name": "❹xmflv","type": 0,"url": "https://jx.xmflv.com/?url="},
-	{"name":"❺m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},	
-	{"name":"❻8090","type":0,"url":"https://www.8090.la/8090/?url="},
 
 	{
       "name": "️❼盘古",
