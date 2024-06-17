@@ -200,16 +200,13 @@
         
        {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","qiyi","优酷","mgtv"]}},
 	{"name":"小米","type":0,"url":"https://jx.xmflv.cc/?url="},
-	{"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
+	
 	{"name":"8090","url":"https://www.8090.la/8090/?url="},
-{"name": "零点","type": 0,"url": "http://www.jzmhtt.com/zdy/vip/?url="},
-{"name": "play","type": 0,"url": "https://www.playm3u8.cn/jiexi.php?url="},
-{"name": "m3u8","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
        
-	{"name":"❶神哥","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
+	{"name":"🏳️‍🌈腾讯视频"，"type":0,"url":"https://json.ovvo.pro/jx.php?url="},
 
 
-	{"name":"❷鱼家","type":1,"url":"http://json.84jia.xyz/home/api?type=ys&uid=8096440&key=cepwyzACGJPQSTVX04&url="},
+	{"name":"鱼家","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=2409835&key=celqrswyAJLUWY0248&url="},
 
 	{
 		"name": "over",
