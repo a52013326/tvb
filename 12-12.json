@@ -1,7 +1,6 @@
 {
-"spider":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/custom_spider.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/custom_spider.jar;md5;c75cf198357a3a77f2189ab0764f2a8c",
  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-"warningText": "此接口完全免费，请勿相信视频中任何广告，切勿付费购买此接口。",
   "lives":[{
     "name":"live",
     "type":0,
@@ -45,13 +44,7 @@
         "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
         "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/腾云驾雾.js"
        },
-      {
-        "key": "drpy_js_百忙无果",
-        "name": "🍋┃芒果视频",
-        "type": 3,
-        "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/百忙无果.js"
-      },	
+	
 	  
 {"key":"小柚","name":"🍊┃小柚App","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":0,"ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="},	
 {"key":"蜂鸟","name":"🕊┃蜂鸟追剧","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="},	
@@ -179,7 +172,19 @@
        "aliToken": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt",
       "from": "4k|auto|fhd"}
      },
-
+{
+            "key": "Zhaozy",
+            "name": "🐺找资源4K┃搜",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+            "aliToken": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt",
+            "from": "4k|auto|fhd"}
+        },
 
 
   
@@ -197,8 +202,9 @@
     }	  
   ],
 "parses": [
+         {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","qiyi","优酷","mgtv"]}},
          {"name":"红狐","type":0,"url":"https://player.mrgaocloud.com/player/?url=","ext":{"flag":["qq","qiyi","优酷","mgtv"]}},
-       {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","qiyi","优酷","mgtv"]}},
+      
 	{"name":"小米","type":0,"url":"https://jx.xmflv.cc/?url="},
 {"name":"8090","url":"https://www.8090.la/8090/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
   {"name":"腾讯视频","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
