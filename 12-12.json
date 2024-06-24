@@ -1,5 +1,5 @@
 {
-"spider":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/custom_spider.jar;md5;c75cf198357a3a77f2189ab0764f2a8c",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/custom_spider.jar;md5;b4518597b341123213f6208fbfab7c1b",
  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives":[{
     "name":"live",
@@ -34,7 +34,13 @@
       "filterable": 1,
        "changeable": 1
      },
-    
+     {
+     "key": "js_菜狗",
+   "name": "🐶┃搜狗视频",
+   "type": 3,"playerType":2,
+   "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/菜狗.js"
+     },
      {
         "key": "drpy_js_腾云驾雾",
         "name": "🐧┃腾讯视频",
@@ -42,7 +48,13 @@
         "api": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
         "ext": "https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/腾云驾雾.js"
        },
-	
+		 {
+      "key":"drpy_js_奇珍异兽",
+      "name": "🥝┃奇艺视频",
+      "type":3,
+      "api":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
+      },
 	  
 {"key":"小柚","name":"🍊┃小柚App","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":0,"ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="},	
 {"key":"蜂鸟","name":"🕊┃蜂鸟追剧","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="},	
@@ -207,7 +219,7 @@
  {"name":"腾讯1","type":0,"url":"https://player.mrgaocloud.com/player/?url=","ext":{"flag":["qq","qiyi","优酷","mgtv"]}},
         {"name":"腾讯2","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
         
-	{"name":"鱼家","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url="},
+	{"name":"腾讯3","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url="},
 
 	{
 		"name": "over",
