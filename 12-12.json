@@ -131,18 +131,18 @@
             "filterable": 1,
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/jar/ou.jar"
         },	
-
-	        {
-            "key": "玩偶",
+	          {
+            "key": "csp_WoGG",
             "name": "👽┃玩偶 4K",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
             "quickSearch": 1,
-           "changeable":0,
+            "filterable": 1,
             "ext": {
-		"Cloud-drive":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt",    
-            "from": "4k|auto",
+            "aliToken": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt",
+            "quarkCookie": "https://gitee.com/wgq332/tvt/raw/master/cookie.txt",
+            "from": "4k|auto|fhd",
             "siteUrl": "https://www.wogg.link/",
             "danMu": "关"}
         },
