@@ -140,9 +140,8 @@
             "quickSearch": 1,
            "changeable":0,
             "ext": {
-            "aliToken": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt",
-            "quarkCookie": "https://gitee.com/wgq332/tvt/raw/master/cookie.txt",
-            "from": "4k|auto|fhd",
+		"Cloud-drive":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/tok.txt",    
+            "from": "4k|auto",
             "siteUrl": "https://www.wogg.link/",
             "danMu": "关"}
         },
