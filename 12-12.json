@@ -1,7 +1,6 @@
 {
- "spider":"https://gitee.com/wgq332/tvt/raw/master/fantaiying/custom_spider.jar;md5;71d846866f2ceb9666ba114e5963983f",
+  "spider":"https://gitee.com/wgq332/tvt/raw/master/fantaiying/custom_spider.jar;md5;6569779195625775f841ee964e8cec56",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-    "warningText": "此接口完全免费，请勿相信视频中任何广告，切勿付费购买此接口。",
   "lives":[{
     "name":"live",
     "type":0,
