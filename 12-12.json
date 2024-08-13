@@ -6,9 +6,8 @@
     "type":0,
     "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/03.txt", 
     "playerType":1,
-    "ua":"okhttp/3.12.13",
-    "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-     "logo": "https://epg.112114.xyz/logo/{name}.png"
+    "ua": "okhttp/3.15"，
+    "epg": "https://epg.112114.eu.org",
   }
   ],
   "sites":[
