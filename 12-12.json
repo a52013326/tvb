@@ -1,5 +1,5 @@
 {
- "spider":"https://gitee.com/wgq332/tvt/raw/master/fantaiying/custom_spider.jar;md5;928787071b399acc863d001929973803",
+ "spider":"https://gitee.com/wgq332/tvt/raw/master/fantaiying/custom_spider20241128.jar;md5;4e2429f30551927d1831c19063158ee9",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives":[{
     "name":"live",
@@ -55,7 +55,99 @@
       "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
       "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
       },
-	  
+	   {
+            "key": "南瓜",
+            "name": "🎃南瓜┃多线",
+            "type": 3,
+            "api": "csp_NanGua",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "文采",
+            "name": "💮文采影视┃SP",
+            "type": 3,
+            "api": "csp_Jpys",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "糯米",
+            "name": "🍓糯米影视┃SP",
+            "type": 3,
+            "api": "csp_Nmyswv",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+	   {
+            "key": "夸搜",
+            "name": "🐺夸搜┃搜索",
+            "type": 3,
+            "api": "csp_QuarkPanso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+            "quarkCookie": "https://gitee.com/wgq332/tvt/raw/master/cookie.txt",
+            "from": "4k|auto|fhd"}
+        },
+    {
+              "key": "UC",
+                    "name": "🌈优汐┃搜搜",
+                          "type": 3,
+                                "api": "csp_UuSs",
+                                      "searchable": 1,
+                                            "quickSearch": 1,
+                                                  "changeable": 0,
+                                                        "ext": {
+                                                                    "Cloud-drive": "tvfan/Cloud-drive.txt",
+                                                                            "from": "4k|auto"
+                                                        }
+    },
+        {
+            "key": "抠搜",
+            "name": "🍄抠抠搜搜┃4K",
+            "type": 3,
+            "api": "csp_KkSs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+            "Cloud-drive": "tvfan/Cloud-drive.txt",
+            "from": "4k|auto"
+      }
+        },
+        {
+            "key": "米搜",
+            "name": "🦋米搜┃搜索",
+            "type": 3,
+            "api": "csp_MIPanSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+            "Cloud-drive": "tvfan/Cloud-drive.txt",
+            "from": "4k|auto"}
+        },
+        {
+            "key": "Zhaozy",
+            "name": "🐺找资源4K┃搜",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+            "aliToken": "https://gitee.com/wgq332/tvt/raw/master/token.txt",
+            "from": "4k|auto|fhd"}
+        },
 {"key":"小柚","name":"🍊┃小柚App","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":0,"ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="},	
 {"key":"蜂鸟","name":"🕊┃蜂鸟追剧","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="},	
 {
