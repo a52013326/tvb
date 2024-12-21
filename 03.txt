@@ -41,7 +41,7 @@ CCTV17,http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8$LR•
 贵州卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 吉林卫视,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226440/index.m3u8
 青海卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000042/index.m3u8
-云南卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+云南卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000035/index.m3u8
 甘肃卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000023/index.m3u8
 CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
 CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
