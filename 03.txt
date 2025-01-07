@@ -38,10 +38,6 @@ CCTV17,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 湖北卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 东南卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 贵州卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-吉林卫视,http://120.76.248.139/live/bfgd/4200000097.m3u8
-青海卫视,http://120.76.248.139/live/bfgd/4200000111.m3u8
-云南卫视,http://120.76.248.139/live/bfgd/4200000482.m3u8
-甘肃卫视,http://120.76.248.139/live/bfgd/4200000119.m3u8
 CHC动作电影,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC家庭影院,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC影迷电影,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
