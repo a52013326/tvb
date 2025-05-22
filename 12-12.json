@@ -4,7 +4,7 @@
   "lives":[{
     "name":"live",
     "type":0,
-    "url": "https://mirrors.chenby.cn/https://raw.githubusercontent.com/a52013326/tvb/main/03.txt", 
+    "url": "https://ghfast.top/https://raw.githubusercontent.com/a52013326/tvb/main/03.txt", 
     "playerType":1,
     "ua":"okhttp/3.15",
     "epg": "https://epg.112114.eu.org",
@@ -27,8 +27,8 @@
       "key": "360yingshi",
       "name": "🐹┃360影视",
       "type": 3,
-      "api": "https://mirrors.chenby.cn/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-      "ext": "https://mirrors.chenby.cn/https://raw.githubusercontent.com/a52013326/tvb/main/js/360影视.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/a52013326/tvb/main/js/360影视.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -38,22 +38,22 @@
      "key": "js_菜狗",
    "name": "🐶┃搜狗视频",
    "type": 3,"playerType":2,
-   "api": "https://mirrors.chenby.cn/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-   "ext": "https://mirrors.chenby.cn/https://raw.githubusercontent.com/a52013326/tvb/main/js/菜狗.js"
+   "api": "https://ghfast.top/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+   "ext": "https://ghfast.top/https://raw.githubusercontent.com/a52013326/tvb/main/js/菜狗.js"
      },
      {
         "key": "drpy_js_腾云驾雾",
         "name": "🐧┃腾讯视频",
         "type": 3,
-        "api": "https://mirrors.chenby.cn/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-        "ext": "https://mirrors.chenby.cn/https://raw.githubusercontent.com/a52013326/tvb/main/js/腾云驾雾.js"
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+        "ext": "https://ghfast.top/https://raw.githubusercontent.com/a52013326/tvb/main/js/腾云驾雾.js"
        },
 		 {
       "key":"drpy_js_奇珍异兽",
       "name": "🥝┃奇艺视频",
       "type":3,
-      "api":"https://mirrors.chenby.cn/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-      "ext":"https://mirrors.chenby.cn/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
+      "api":"https://ghfast.top/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
+      "ext":"https://ghfast.top/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
       },
 	   {
             "key": "南瓜",
