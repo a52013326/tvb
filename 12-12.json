@@ -29,31 +29,39 @@
       "type": 3,
       "api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
       "ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/a52013326/tvb/main/js/360影视.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-       "changeable": 1
+      "searchable": 2,
+      "quickSearch": 0,
+      "filterable": 1
      },
      {
      "key": "js_菜狗",
    "name": "🐶┃搜狗视频",
    "type": 3,"playerType":2,
    "api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-   "ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/a52013326/tvb/main/js/菜狗.js"
+   "ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/a52013326/tvb/main/js/菜狗.js",
+"searchable": 2,
+      "quickSearch": 0,
+      "filterable": 1
      },
      {
         "key": "drpy_js_腾云驾雾",
         "name": "🐧┃腾讯视频",
         "type": 3,
         "api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-        "ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/a52013326/tvb/main/js/腾云驾雾.js"
+        "ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/a52013326/tvb/main/js/腾云驾雾.js",
+	           "searchable": 2,
+      "quickSearch": 0,
+      "filterable": 1
        },
 		 {
       "key":"drpy_js_奇珍异兽",
       "name": "🥝┃奇艺视频",
       "type":3,
       "api":"https://gh.tryxd.cn/https://raw.githubusercontent.com/a52013326/tvb/main/lib/drpy2.min.js",
-      "ext":"https://gh.tryxd.cn/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js"
+      "ext":"https://gh.tryxd.cn/https://raw.githubusercontent.com/a52013326/tvb/main/js/奇珍异兽.js",
+			       "searchable": 2,
+      "quickSearch": 0,
+      "filterable": 1
       },
 	   {
             "key": "南瓜",
