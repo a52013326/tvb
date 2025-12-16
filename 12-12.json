@@ -1,5 +1,5 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747508438229/f0518.txt;md5;363b678342a43763ffbc6c3ec6c5fc0b",
+ "spider": "https://gitee.com/wgq332/tvt/raw/master/fantaiying/custom_spider.jar;md5;4685db8d54e6ab9d04d635e3666f230e",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives":[{
     "name":"live",
@@ -78,7 +78,7 @@
   
   ],
 "parses": [
-	{"name":"小鱼解析","type":1,"url":"https://jx.84jia.com/api/?key=czweProZA027xEM55x&url="},
+	{"name":"小鱼解析","type":1,"url":"https://jx.84jia.com/api/?key=h6OT9Mrz7xb3ccYIvY&url="},
          {"name":"虾米1","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","qiyi","优酷","mgtv"]}},
 	{"name":"虾米2","type":0,"url":"https://jx.xmflv.cc/?url="},
 {"name":"m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},	
